@@ -23,6 +23,8 @@ Dates match §1.
 
 **Admin:** submit your three-choice role preferences; you'll be assigned one published CEM paper to bring to Week 3; **the pre-course ethics module is assigned today, due before Week 4.**
 
+**Assignment for W2:** three things are handed out at the end of today's class — your era team (drawn at random), the two landmark works your team presents, and your individual JCEM volume for the Week 2 lab. Read both landmark works before Week 2. The workshop is a prepared presentation, not an in-class reading session.
+
 ---
 
 ## Week 2 (9/10) — History of CEM research
@@ -30,7 +32,18 @@ Dates match §1.
 
 **Instructor segment (25 min):** the four-era arc — 1955–75 (emergence: Peurifoy, Fondahl's precedence diagramming, Oglesby & Parker's operations analysis, Gates/Carr bidding debate, Halpin's CYCLONE), 1975–95 (institutionalization: JCEM, CRC, CII, CIFE; Ashley on risk sharing; Tatum on innovation; Howell/Tommelein/Ballard on lean; Levitt on organizational design; expert systems, neural nets, GAs), 1995–2005 (Peña-Mora on collaboration technology; sensors, RFID, GPS; Fischer's 4D CAD; Martinez & Kamat simulation; Hendrickson & Horvath EIO-LCA), 2005–present (reality capture, automation, and the turn toward social science).
 
-**Student workshop (4 teams × 4):** each team takes one era and two landmark works from it. The presentation question is *not* "what did they find" but **"what counted as a legitimate method then, what data existed, and what got it published?"** Each team closes by mapping current CRC / i3CE track names onto their era.
+**Student workshop (4 teams × 4):** teams are drawn at random at the end of Week 1, and each is assigned one era together with the two landmark works listed below. The presentation question is *not* "what did they find" but **"what counted as a legitimate method then, what data existed, and what got it published?"** Each team closes by mapping current CRC / i3CE track names onto their era.
+
+**Era teams and landmark works.** Read both works for your era before class.
+
+- **1955–75 (emergence).** Bidding theory and bidding models (Gates, Carr and others) · Discrete-event simulation: CYCLONE (Halpin and others).
+- **1975–95 (institutionalization).** Lean construction (Howell, Tommelein, Ballard) · Construction innovation (Tatum).
+- **1995–2005.** 4D CAD (Fischer) · Economic input–output life cycle assessment, EIO-LCA (Hendrickson, Horvath).
+- **2005–present (reality capture, automation, and the turn toward social science).** D4AR automated progress monitoring (Golparvar-Fard, Peña-Mora) · Institutional analysis of global projects (Scott, Levitt, Orr).
+
+Two of these carry across the semester: 4D CAD is Fischer's own work, which Week 3 uses to build the horseshoe, and D4AR returns in Week 11 as an exemplar you will reverse-engineer. Reading them now is not wasted effort.
+
+<!-- VERIFY: the eight entries name research programmes and principal authors, not specific papers. Pin exact paper, year, volume and DOI before the Week 1 handout. Rationale in instructor/notes.md. -->
 
 **Readings**
 
@@ -41,7 +54,7 @@ Dates match §1.
 
 → **If you only have time for one:** Levitt (2007). It's short, it's the field talking about itself, and every team will need it regardless of which era they draw.
 
-**Lab (method archaeology):** each student is assigned one JCEM volume — half from the 1980s–90s, half from the last three years — and codes its table of contents using the §3 taxonomy. The class assembles a shared method-frequency chart across eras.
+**Lab (method archaeology):** you code the table of contents of the JCEM volume assigned to you in Week 1 — half the class works a volume from the 1980s–90s, half one from the last three years — using the §3 taxonomy. The class assembles a shared method-frequency chart across eras. Bring the volume's contents with you; do not spend lab time hunting for access.
 
 **Assignment for W3:** read Fischer (2006) and reconstruct the horseshoe for the paper assigned in W1.
 
