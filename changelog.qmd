@@ -1,0 +1,15 @@
+---
+title: "What changed"
+---
+
+Newest first. Anything that moves a date or a deadline is also announced on ETL.
+
+## 2026-09-02 — Initial publication
+
+First version of the course site. Replaces the PDF syllabus circulated previously.
+
+::: {.callout-tip collapse="true"}
+## How to read this page
+
+Entries record substantive changes only — new readings, moved deadlines, restructured weeks. Typo fixes and formatting are not logged. If you need the exact state of the syllabus on a given date, the full commit history is on GitHub.
+:::

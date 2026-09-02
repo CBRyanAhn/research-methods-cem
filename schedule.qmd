@@ -1,0 +1,356 @@
+---
+title: "Weekly schedule"
+toc-depth: 2
+---
+
+Dates match §1.
+
+---
+
+## Week 1 (9/3) — What counts as knowledge in CEM?
+**Focus:** Research paradigms; the anatomy of an empirical claim · *Instructor-led; roles begin W4*
+
+**Readings**
+- Guba, E. G., & Lincoln, Y. S. (1994). "Competing paradigms in qualitative research." In N. Denzin & Y. Lincoln (Eds.), *Handbook of Qualitative Research* (pp. 105–117). SAGE.
+- Creswell, J. W., & Creswell, J. D. (2023). *Research Design* (6th ed.). SAGE. **Ch. 1–3.**
+- Popper, K. (2002 [1959]). *The Logic of Scientific Discovery*. Routledge. **§ on falsifiability (excerpt).**
+- Seymour, D., & Rooke, J. (1995). "The culture of the industry and the culture of research." *CME*, 13(6), 511–523.
+
+→ **If you only have time for one:** Creswell & Creswell, Ch. 1–3. It sets the vocabulary (paradigm, design, method) that every later week assumes you already have.
+
+**In-class activity:** The "Poang chair" exercise — classify ten candidate statements as science / engineering / consulting, then state for each what evidence would count as disconfirmation. Ends with each student writing a one-sentence research interest on a card; the cards return in Week 15.
+
+**Admin:** submit your three-choice role preferences; you'll be assigned one published CEM paper to bring to Week 3; **the pre-course ethics module is assigned today, due before Week 4.**
+
+---
+
+## Week 2 (9/10) — History of CEM research
+**Focus:** How the field's standards of evidence were built, and why the current track list looks the way it does
+
+**Instructor segment (25 min):** the four-era arc — 1955–75 (emergence: Peurifoy, Fondahl's precedence diagramming, Oglesby & Parker's operations analysis, Gates/Carr bidding debate, Halpin's CYCLONE), 1975–95 (institutionalization: JCEM, CRC, CII, CIFE; Ashley on risk sharing; Tatum on innovation; Howell/Tommelein/Ballard on lean; Levitt on organizational design; expert systems, neural nets, GAs), 1995–2005 (Peña-Mora on collaboration technology; sensors, RFID, GPS; Fischer's 4D CAD; Martinez & Kamat simulation; Hendrickson & Horvath EIO-LCA), 2005–present (reality capture, automation, and the turn toward social science).
+
+**Student workshop (4 teams × 4):** each team takes one era and two landmark works from it. The presentation question is *not* "what did they find" but **"what counted as a legitimate method then, what data existed, and what got it published?"** Each team closes by mapping current CRC / i3CE track names onto their era.
+
+**Readings**
+- Levitt, R. E. (2007). "CEM research for the next 50 years: Maximizing economic, environmental, and societal value of the built environment." *JCEM*, 133(9), 619–628. [Peurifoy Award Lecture]
+- Taylor, J. E., & Jaselskis, E. J. (2010). "Introduction to the special issue on research methodologies in CEM." *JCEM*, 136(1), 1–2.
+- Jahren, C. T., et al. (2023). "Second special collection on research methodologies in CEM." *JCEM*, 149(2).
+- CRC and i3CE current track listings (2 pp., handout).
+
+→ **If you only have time for one:** Levitt (2007). It's short, it's the field talking about itself, and every team will need it regardless of which era they draw.
+
+**Lab (method archaeology):** each student is assigned one JCEM volume — half from the 1980s–90s, half from the last three years — and codes its table of contents using the §3 taxonomy. The class assembles a shared method-frequency chart across eras.
+
+**Assignment for W3:** read Fischer (2006) and reconstruct the horseshoe for the paper assigned in W1.
+
+---
+
+## Week 3 (9/17) — Formalizing construction knowledge: the CIFE horseshoe
+**Focus:** The field's own research process model — and the framework the rest of this course fills in
+
+**Instructor segment (25 min):** the seven boxes — Observed Problem in Practice → Theoretical Limitation → Research Questions → Research Tasks → Research Results → Contribution to Knowledge → Practical Significance, with Intuition running underneath. Worked through with the Disney California Adventure lagoon / 4D modeling example (Akbas 2003). Two things Fischer insists on: the problem statement must be specific enough that success criteria are visible, and the *maximum anxiety principle* — always advance the step with the greatest uncertainty first.
+
+**Studio (the core of the week):** present the horseshoe you reconstructed for your assigned paper. Pairs then debate one question — **which box is that paper weakest at?** Most CEM papers collapse the Theoretical Limitation and Contribution to Knowledge boxes and jump from problem straight to tasks.
+
+**Fischer's four test methods, mapped onto this course:**
+
+| Fischer's test method | Where this course teaches it |
+|---|---|
+| Variation studies on retrospective cases | W10 (archival identification), W12 (simulation experiments) |
+| Expert panel review | W7 (Delphi and structured elicitation) |
+| Charrette test | W10 (controlled experiment design), W11 (XR-enabled charrettes) |
+| Prospective / intervention case study | W6 (case study design), W10 (multiple-baseline field designs), W14 (action research) |
+
+**Readings**
+- Fischer, M. (2006). "Formalizing construction knowledge for concurrent performance-based design." *Proc. 13th EG-ICE Workshop*, Ascona, Switzerland. (Springer LNCS 4200.)
+- Van de Ven, A. H. (1989). "Nothing is quite so practical as a good theory." *AMR*, 14(4), 486–489.
+- Clayton, M. J., Kunz, J. C., & Fischer, M. A. (1998). *The Charrette Test Method*. CIFE Technical Report #120, Stanford University.
+- Hevner, A. R., March, S. T., Park, J., & Ram, S. (2004). "Design science in information systems research." *MIS Quarterly*, 28(1), 75–105. **§1–2 only** — for comparison in W14.
+- *Reference:* Akbas, R. (2003). *Geometry Based Modeling and Simulation of Construction Processes*. PhD thesis, Stanford University.
+
+→ **If you only have time for one:** Fischer (2006) itself. Everything else this week supports it.
+
+**⚠️ A limit worth knowing now.** The horseshoe grew out of CIFE/VDC work and fits artifact-producing research beautifully. It fits interpretive and purely descriptive research much less well — if you're running an interview study, you'll struggle to fill *Practical Significance* honestly. Keep this in mind; Week 6 introduces a contrasting map (Eisenhardt's inductive process model) for exactly this reason.
+
+**A worked local example.** Alongside Fischer's Disney-lagoon case, we'll trace one research line from this department all the way around the horseshoe: deictic gesture-based spatial referencing for human–robot collaboration. Observed problem (site instructions to robots are improvised and imprecise) → theoretical limitation (gesture-based HRI evaluated only in small, controlled spaces) → question → tasks → results → contribution → practical significance. The published endpoint is Yoon, Kim, Park & Ahn (2023), *JCEM*, 149(7), which returns as an exemplar in Week 11. Seeing a full horseshoe from a project you could walk down the hall and ask about makes the abstract boxes concrete.
+
+**Assignment (ongoing):** build the horseshoe for your own research idea. Post it to the Horseshoe Wall — it's revised weekly from here and becomes the W7 pre-proposal.
+
+**Admin:** the fixed role roster is published today.
+
+---
+
+## Week 4 (9/24) — Theoretical point of departure: problematization and literature as data
+**⚠️ Falls on Chuseok — see make-up options in §1.**
+**Focus:** Filling the left side of the horseshoe — turning "there's a gap" into a defensible theoretical limitation. Framing segment extended by ~15 minutes for the IRB/ethics briefing (§4.6, item 2).
+
+**Methods readings**
+- Edmondson, A. C., & McManus, S. E. (2007). "Methodological fit in management field research." *AMR*, 32(4), 1246–1264.
+- Alvesson, M., & Sandberg, J. (2011). "Generating research questions through problematization." *AMR*, 36(2), 247–271.
+- Whetten, D. A. (1989). "What constitutes a theoretical contribution?" *AMR*, 14(4), 490–495.
+- Page, M. J., et al. (2021). "The PRISMA 2020 statement." *BMJ*, 372, n71.
+- Webster, J., & Watson, R. T. (2002). "Analyzing the past to prepare for the future: Writing a literature review." *MIS Quarterly*, 26(2), xiii–xxiii.
+- van Eck, N. J., & Waltman, L. (2010). "Software survey: VOSviewer." *Scientometrics*, 84(2), 523–538.
+- *Optional:* Tranfield, Denyer & Smart (2003), *BJM*, 14(3), 207–222 · Sutton & Staw (1995), *ASQ*, 40(3), 371–384 · Borenstein et al. (2021), *Introduction to Meta-Analysis* (2nd ed.), Ch. 1–5.
+
+→ **If you only have time for one:** Edmondson & McManus (2007). It's the single most useful reading in the entire course — it's the tool you'll use to justify your own methodological choice in the pre-proposal.
+
+**Ethics briefing reading (for the 15-min segment)**
+- Tutt, D., Pink, S., Dainty, A. R. J., & Gibb, A. (2013). "Building networks to work: An ethnographic study of informal routes into the UK construction industry and pathways for migrant up-skilling." *CME*, 31(10), 1025–1037. [Vulnerable participants, language barriers, consent on site]
+
+**CEM exemplars**
+- Javernick-Will, A., & Scott, W. R. (2010). "Who needs to know what? Institutional knowledge and global projects." *JCEM*, 136(5), 546–557. [Theory-driven exemplar]
+- Zhao, X. (2017). "A scientometric review of global BIM research: Analysis and visualization." *Automation in Construction*, 80, 37–47. [Scientometric exemplar]
+- Darko, A., Chan, A. P. C., Adabre, M. A., Edwards, D. J., Hosseini, M. R., & Ameyaw, E. E. (2020). "Artificial intelligence in the AEC industry: Scientometric analysis and visualization." *Automation in Construction*, 112, 103081. [Scientometric exemplar]
+- *CEM methods reading (position paper, not an exemplar):* Schweber, L. (2015). "Putting theory to work: The use of theory in construction research." *CME*, 33(10), 840–860. · Koskela, L. (2017). "Why is management research irrelevant?" *CME*, 35(1–2), 4–23.
+- *Meta-analysis exemplar, deliberately outside CEM:* Nahrgang, J. D., Morgeson, F. P., & Hofmann, D. A. (2011). "Safety at work: A meta-analytic investigation." *JAP*, 96(1), 71–94.
+
+**Lab 1 (graded):** Build a search string for your own horseshoe topic, export from Scopus/WoS, deduplicate, produce a PRISMA flow diagram and a VOSviewer co-occurrence map. Deliverable: PRISMA diagram + map + one page on (a) what the map does *not* tell you, and (b) the revised *Theoretical Limitation* box for your horseshoe.
+
+**Homework due start of W5** (not a formal lab, feeds the final proposal rubric): draft the IRB protocol section for your own horseshoe study — recruitment, consent script, data handling, risk. Sensor- and XR-based projects add the physical-risk section.
+
+**If Week 4 is displaced by the Chuseok make-up (§1, option b):** the framing lecture and ethics briefing run asynchronously; the PRISMA/VOSviewer lab and the IRB homework keep their posted deadlines, with a short live Q&A folded into the start of Week 5.
+
+---
+
+## Week 5 (10/1) — Qualitative I: interviews, coding, and the reliability problem
+**Focus:** Semi-structured interviewing; thematic analysis; grounded theory; intercoder agreement. Opens with the 10-minute IRB Q&A (§4.6, item 3).
+
+**Methods readings**
+- Kvale, S., & Brinkmann, S. (2015). *InterViews* (3rd ed.). SAGE. Ch. 5–7.
+- Braun, V., & Clarke, V. (2006). "Using thematic analysis in psychology." *Qualitative Research in Psychology*, 3(2), 77–101.
+- Gioia, D. A., Corley, K. G., & Hamilton, A. L. (2013). "Seeking qualitative rigor in inductive research." *Organizational Research Methods*, 16(1), 15–31.
+- Saldaña, J. (2021). *The Coding Manual for Qualitative Researchers* (4th ed.). SAGE. Ch. 1–3.
+- O'Connor, C., & Joffe, H. (2020). "Intercoder reliability in qualitative research: Debates and practical guidelines." *IJQM*, 19.
+
+→ **If you only have time for one:** Braun & Clarke (2006). It's the method you'll actually run in this week's lab, and it's the most-cited how-to in the field for a reason.
+
+**CEM exemplars**
+- Spearing, L. A., Hamlet, L. C., Stephens, K. K., Kaminsky, J. A., & Faust, K. M. (2022). "Comparing qualitative analysis techniques for CEM research: The case of Arctic water infrastructure." *JCEM* (Second Special Collection). [Genuinely empirical — three coding techniques applied to one real dataset, not a discussion piece]
+- Dossick, C. S., & Neff, G. (2011). "Messy talk and clean technology: Communication, problem-solving and collaboration using BIM." *Engineering Project Organization Journal*, 1(2), 83–93.
+- Dossick, C. S., & Neff, G. (2010). "Organizational divisions in BIM-enabled commercial construction." *JCEM*, 136(4), 459–467.
+
+**Lab 2 (graded):** All students code the same provided anonymized construction interview transcript with a shared codebook, then compute pairwise Krippendorff's α. Half the class re-codes with LLM assistance; compare α, code granularity, and what disappears. Deliverable: coding memo + reliability table + one page on where the two approaches diverged.
+
+---
+
+## Week 6 (10/8) — Qualitative II: case study, ethnography, and mixed methods
+**Focus:** Case selection, embedded units, replication logic, trustworthiness; combining strands
+
+**Methods readings**
+- Yin, R. K. (2018). *Case Study Research and Applications* (6th ed.). SAGE. Ch. 2–4.
+- Eisenhardt, K. M. (1989). "Building theories from case study research." *AMR*, 14(4), 532–550. [The promised contrast to the horseshoe — see the discussion prompt below]
+- Eisenhardt, K. M., & Graebner, M. E. (2007). "Theory building from cases: Opportunities and challenges." *AMJ*, 50(1), 25–32.
+- Flyvbjerg, B. (2006). "Five misunderstandings about case-study research." *Qualitative Inquiry*, 12(2), 219–245.
+- Lincoln, Y. S., & Guba, E. G. (1985). *Naturalistic Inquiry*. SAGE. **Ch. 11 (trustworthiness) only.**
+- Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and Conducting Mixed Methods Research* (3rd ed.). SAGE. Ch. 3.
+
+→ **If you only have time for one:** Eisenhardt (1989). It's short, it's concrete, and it's the reading the discussion prompt is built around.
+
+**CEM exemplars**
+- Taylor, J. E. (2007). "Antecedents of successful three-dimensional computer-aided design implementation in design and construction networks." *JCEM*, 133(12), 993–1002. [Case study exemplar]
+- Ham, N., Moon, S., Kim, J.-H., & Kim, J.-J. (2018). "Economic analysis of design errors in BIM-based high-rise construction projects: Case study of Haeundae L project." *JCEM*, 144(6), 05018006. [Case study exemplar]
+- Tutt, D., Pink, S., Dainty, A. R. J., & Gibb, A. (2013). "Building networks to work..." *CME*, 31(10), 1025–1037. [Already read in Week 4 — reread with an ethnography lens: what does the fieldwork itself look like, not just its ethical texture?]
+
+*On mixed methods specifically:* a clean, single-paper CEM exemplar that is unambiguously "mixed methods done well" is genuinely hard to find — it's an underused design in this field. Revisit Spearing et al. (2022, Week 5) through a mixed-methods lens: it applies three qualitative techniques to one dataset, which is adjacent to but not the same as integrating qualitative and quantitative strands. Treat the absence of a tidy exemplar here as data about the field, and flag it in your own proposal if you're the one attempting a genuine mixed-methods design.
+
+*CEM methods readings (position papers on the method, not exemplars):* Taylor, J. E., Dossick, C. S., & Garvin, M. (2011). "Meeting the burden of proof with case-study research." *JCEM*, 137(4), 303–311. · Phelps, A. F., & Horman, M. J. (2010). "Ethnographic theory-building research in construction." *JCEM*, 136(1), 58–65. · Abowitz, D. A., & Toole, T. M. (2010). "Mixed method research: Fundamental issues of design, validity, and reliability in construction research." *JCEM*, 136(1), 108–116. · Pink, S., Tutt, D., & Dainty, A. (Eds.) (2013). *Ethnographic Research in the Construction Industry*. Routledge. Ch. 1.
+
+**Discussion prompt:** Lay Eisenhardt's inductive process model beside Fischer's horseshoe on the board. Where do they contradict each other, and which of your classmates' Horseshoe Wall entries would be better served by the other map?
+
+**Lab 3 (in-class):** Given a research question handed out in class, each pair specifies a case-study design — unit of analysis, case selection logic, number of cases and why, embedded units, triangulation sources, and the specific rival explanation the design rules out. Pairs then attack each other's designs.
+
+---
+
+## Week 7 (10/15) — Surveys, measurement, and expert elicitation
+**Focus:** Construct operationalization; scale development; sampling; Delphi; common method bias
+**📌 Pre-proposal due (2 pages) at the start of this week**
+
+**Methods readings**
+- Dillman, D. A., Smyth, J. D., & Christian, L. M. (2014). *Internet, Phone, Mail, and Mixed-Mode Surveys* (4th ed.). Wiley. Ch. 4–6.
+- Hinkin, T. R. (1998). "A brief tutorial on the development of measures for use in survey questionnaires." *ORM*, 1(1), 104–121.
+- MacKenzie, S. B., Podsakoff, P. M., & Podsakoff, N. P. (2011). "Construct measurement and validation procedures in MIS and behavioral research." *MIS Quarterly*, 35(2), 293–334.
+- Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). "Common method biases in behavioral research." *JAP*, 88(5), 879–903.
+- Podsakoff, P. M., Podsakoff, N. P., Williams, L. J., Huang, C., & Yang, J. (2024). "Common method bias: It's bad, it's complex, it's widespread, and it's not easy to fix." *Annual Review of Organizational Psychology and Organizational Behavior*, 11, 17–61.
+- Okoli, C., & Pawlowski, S. D. (2004). "The Delphi method as a research tool." *Information & Management*, 42(1), 15–29.
+
+→ **If you only have time for one:** Hinkin (1998). It's the most directly usable for the instrument you'll draft in this week's lab.
+
+**CEM readings and exemplars**
+- Zhang, et al. (2022). "Mitigating common method bias in construction engineering and management research." *JCEM*, 148(9). DOI: 10.1061/(ASCE)CO.1943-7862.0002364. [Finds ~90% of survey-based JCEM papers likely affected. This is a review/discussion piece, not itself a substantive exemplar — read it for the diagnosis, not as a model to imitate.]
+- Hallowell, M. R., & Gambatese, J. A. (2010). "Qualitative research: Application of the Delphi method to CEM research." *JCEM*, 136(1), 99–107. [*CEM methods reading — a how-to essay, not an exemplar.*]
+- Hallowell, M. R., & Gambatese, J. A. (2009). "Activity-based safety risk quantification for concrete formwork construction." *JCEM*, 135(10), 990–998. [Delphi exemplar]
+- Fang, D., Chen, Y., & Wong, L. (2006). "Safety climate in construction industry: A case study in Hong Kong." *JCEM*, 132(6), 573–584. [Survey exemplar]
+
+**Lab 4 (graded):** (a) Draft a 10-item instrument for one construct from your own pre-proposal; run a 15-minute cognitive pretest on a classmate and revise. (b) On the provided dataset, run Harman's single-factor test and a marker-variable test, then argue whether CMB is a real threat or a ritual in that case.
+
+---
+
+## Week 8 (10/22) — Pre-proposal presentations, peer review, and journal fit
+No new readings.
+
+1. Present the pre-proposal in 6 minutes + 4 minutes Q&A — problem, gap, question, proposed design, why that design. The horseshoe is the required slide format.
+2. You're assigned two peers' pre-proposals and write a referee report using the ASCE reviewer form and the COPE *Ethical Guidelines for Peer Reviewers* (2017).
+3. Reports are returned anonymously; write a one-page response-to-reviewers letter (due W10).
+4. **Journal fit clinic:** name a target journal and justify the fit against its aims, typical methods, and recent volumes.
+
+---
+
+## Week 9 (10/29) — Quantitative modeling and reporting
+**Focus:** Regression; SEM (covariance-based and PLS); reporting standards; effect sizes over p-values
+
+**Methods readings**
+- Wooldridge, J. M. (2019). *Introductory Econometrics* (7th ed.). Cengage. Ch. 3–4 (skim), Ch. 9 (specification).
+- Kline, R. B. (2023). *Principles and Practice of Structural Equation Modeling* (5th ed.). Guilford. Ch. 1–3, 9.
+- Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2022). *A Primer on PLS-SEM* (3rd ed.). SAGE. Ch. 1–2, 6.
+- Rönkkö, M., & Cho, E. (2022). "An updated guideline for assessing discriminant validity." *ORM*, 25(1), 6–14.
+- Cumming, G. (2014). "The new statistics: Why and how." *Psychological Science*, 25(1), 7–29.
+
+→ **If you only have time for one:** Kline, Ch. 1–3. It's the conceptual foundation for the SEM half of this week's lab, and Hair et al. only makes sense once Kline's basics are in place.
+
+**CEM exemplars**
+- Molenaar, K., Washington, S., & Diekmann, J. (2000). "Structural equation model of construction contract dispute potential." *JCEM*, 126(4), 268–277. [SEM exemplar]
+- Doloi, H. (2013). "Cost overruns and failure in project management: Understanding the roles of key stakeholders in construction projects." *JCEM*, 139(3), 267–279. [Regression exemplar — factor analysis plus multivariate regression on survey data]
+
+*CEM methods reading (discussion piece, not an exemplar):* "Methodological consistency for quantitative analysis and reporting in project delivery system performance research." *JCEM* (Second Special Collection, 2022).
+
+**Lab 5 (graded):** On one provided dataset, fit (i) OLS with a mediator tested by regression and (ii) a PLS-SEM model of the same theory. Deliverable: 2-page memo — "Would a reviewer accept both? Which would you defend, and on what grounds?"
+
+---
+
+## Week 10 (11/5) — Causal inference: experiments, quasi-experiments, and archival identification
+**Focus:** Internal validity; randomization; single-case and multiple-baseline designs; DiD / IV / matching; preregistration
+*Fischer's "variation studies on retrospective cases" and "charrette test" get their formal treatment here*
+**📌 Response-to-reviewers letters from Week 8 due**
+
+**Methods readings**
+- Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and Quasi-Experimental Designs for Generalized Causal Inference*. Houghton Mifflin. **Ch. 1–3.**
+- Angrist, J. D., & Pischke, J.-S. (2015). *Mastering 'Metrics*. Princeton UP. Ch. 1, 5.
+- Cunningham, S. (2021). *Causal Inference: The Mixtape*. Yale UP. [Open access] Ch. on DiD.
+- Kazdin, A. E. (2011). *Single-Case Research Designs* (2nd ed.). Oxford UP. Ch. 5–6.
+- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). "The preregistration revolution." *PNAS*, 115(11), 2600–2606.
+- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). "False-positive psychology." *Psychological Science*, 22(11), 1359–1366.
+
+→ **If you only have time for one:** Shadish, Cook & Campbell, Ch. 1–3. It's the reading Lab 6 is directly built on.
+
+**CEM exemplars**
+- Albert, A., Hallowell, M. R., Lingard, H., & Kleiner, B. M. (2015). "Multiple baseline testing: Experimental method for drawing causal inferences in CEM research." *JCEM*, 141(7), 04015012. [The right answer to "we can't randomize on a construction site"]
+- Hasanzadeh, S., Esmaeili, B., & Dodd, M. D. (2017). "Measuring the impacts of safety knowledge on construction workers' attentional allocation and hazard detection using remote eye-tracking technology." *JME*, 33(5), 04017024. [Experiment exemplar]
+- Flyvbjerg, B., Holm, M. K. S., & Buhl, S. (2002). "Underestimating costs in public works projects: Error or lie?" *JAPA*, 68(3), 279–295. [Archival exemplar]
+
+*CEM methods reading (guidance piece, not an exemplar):* Lucko, G., & Mitchell, Z. (2010). "Quantitative research: Preparation of incongruous economic data sets for archival data analysis." *JCEM*, 136(1), 49–57.
+
+**Lab 6 (graded):** Take one intervention relevant to your own horseshoe and design three studies for it — a lab experiment, a multiple-baseline field design, and a quasi-experimental archival design. Run a power analysis for the first. Write the preregistration for whichever you would actually run.
+
+---
+
+## Week 11 (11/12) — Instrumented human-subject research: sensing, eye-tracking, and XR
+**Focus:** Physiological and behavioral measurement; ecological validity; XR as a research instrument, not a demo
+**📌 Horseshoe Wall checkpoint — second graded review of your horseshoe**
+
+**Methods readings**
+- Li, N., Du, J., González, V. A., & Chen, J. (2022). "Methodology for extended reality–enabled experimental research in construction engineering and management." *JCEM*, 148(10), 04022106. DOI: 10.1061/(ASCE)CO.1943-7862.0002367.
+- Cacioppo, J. T., Tassinary, L. G., & Berntson, G. G. (Eds.) (2016). *Handbook of Psychophysiology* (4th ed.). Cambridge UP. Ch. 1 — inference from physiological signals to psychological constructs, the key conceptual problem.
+- Slater, M., & Sanchez-Vives, M. V. (2016). "Enhancing our lives with immersive virtual reality." *Frontiers in Robotics and AI*, 3, 74.
+
+→ **If you only have time for one:** Cacioppo, Tassinary & Berntson, Ch. 1. Every wearable-sensor and eye-tracking study lives or dies on the inferential gap this chapter names, and it's the harder-to-find idea of the three.
+
+**CEM exemplars**
+- Yoon, S., Kim, Y., Park, M., & Ahn, C. R. (2023). "Effects of spatial characteristics on the human–robot communication using deictic gesture in construction." *JCEM*, 149(7), 04023049. DOI: 10.1061/JCEMD4.COENG-12997. [Controlled human-subject experiment exemplar — and the same line of work you saw framed as a horseshoe in Week 3. Read it asking: how did the wall/ceiling workspace conditions get chosen, and what does that choice buy and cost in external validity?]
+- Yang, K., Ahn, C. R., Vuran, M. C., & Aria, S. S. (2016). "Semi-supervised near-miss fall detection for ironworkers with a wearable inertial measurement unit." *Automation in Construction*, 68, 194–202. [Wearable IMU exemplar — real ironworkers, real site, and an honest treatment of what 75.9% recall does and doesn't license]
+- Jebelli, H., Choi, B., & Lee, S. (2019). "Application of wearable biosensors to construction sites. I: Assessing workers' stress." *JCEM*, 145(12), 04019079. [Physiological sensing exemplar]
+- Golparvar-Fard, M., Peña-Mora, F., & Savarese, S. (2011). "Integrated sequential as-built and as-planned representation with D4AR tools in support of decision-making tasks in the AEC/FM industry." *JCEM*, 137(12), 1099–1116. [Reality-capture / computer-vision exemplar]
+- *For the lab specifically:* Yang, K., Ahn, C. R., & Kim, H. (2019). "Validating ambulatory gait assessment technique for hazard sensing in construction environments." *Automation in Construction*, 98, 302–309. [A validation study rather than a system paper — the closest published model for the measurement-validity memo you'll write below]
+
+*CEM methods readings (review/discussion, not exemplars):* Ahn, C. R., Lee, S., Sun, C., Jebelli, H., Yang, K., & Choi, B. (2019). "Wearable sensing technology applications in construction safety and health." *JCEM*, 145(11), 03119007. · Bogus, S. M., Lippitt, C. D., et al. (2022). "Implementing remote-sensing methodologies for construction research: An unoccupied airborne system perspective." *JCEM* (Second Special Collection).
+
+**Lab 7 (in-class):** If equipment is available, run a 20-minute in-class data collection (HR/EDA wristband or webcam eye-tracker) on a simple attention task, then examine the raw signal together. The pedagogical point is how far the raw trace sits from the construct. Deliverable: measurement-validity memo — signal → feature → construct → what else could produce that signal.
+
+---
+
+## Week 12 (11/19) — Simulation as a research method
+**Focus:** DES, system dynamics, ABM; the verification and validation problem
+
+**Methods readings**
+- Sargent, R. G. (2013). "Verification and validation of simulation models." *Journal of Simulation*, 7, 12–24.
+- Sterman, J. D. (2000). *Business Dynamics*. McGraw-Hill. Ch. 1, 21 (model validity).
+- Railsback, S. F., & Grimm, V. (2019). *Agent-Based and Individual-Based Modeling* (2nd ed.). Princeton UP. Ch. 1–3.
+- Grimm, V., et al. (2020). "The ODD protocol for describing agent-based and other simulation models: A second update." *JASSS*, 23(2), 7.
+
+→ **If you only have time for one:** Sargent (2013). V&V is the part of simulation research everyone skips and every reviewer checks — it's the reading Lab 8 is built around.
+
+**CEM exemplars**
+- Larsson, J., Lu, W., Krantz, J., & Olofsson, T. (2016). "Discrete event simulation analysis of product and process platforms: A bridge construction case study." *JCEM*, 142(4), 04015097. [DES exemplar]
+- Peña-Mora, F., & Park, M. (2001). "Dynamic planning for fast-tracking building construction projects." *JCEM*, 127(6), 445–456. [SD exemplar — the feedback structure of fast-tracking, modeled explicitly. Note that this paper drew a published Discussion from Greg Howell and a reply; read both if you want to see how modeling assumptions get contested in print, which is rarer and more instructive than it should be.]
+- Jung, M., Park, M., Lee, H.-S., & Chi, S. (2017). "Agent-based lift system simulation model for high-rise building construction projects." *Journal of Computing in Civil Engineering*, 31(6). DOI: 10.1061/(ASCE)CP.1943-5487.0000707. [ABM exemplar — a good contrast with Watkins et al. on what counts as an "agent"]
+- Watkins, M., Mukherjee, A., Onder, N., & Mattila, K. (2009). "Using agent-based modeling to study construction labor productivity as an emergent property of individual and crew interactions." *JCEM*, 135(7), 657–667. [ABM exemplar]
+- Lyneis, J. M., & Ford, D. N. (2007). "System dynamics applied to project management." *System Dynamics Review*, 23(2–3), 157–189 · Love, P. E. D., Holt, G. D., Shen, L. Y., Li, H., & Irani, Z. (2002). "Using systems dynamics to better understand change and rework in construction project management systems." *IJPM*, 20(6), 425–436. [Further SD exemplars]
+
+*CEM methods reading (discussion, not an exemplar):* AbouRizk, S. (2010). "Role of simulation in construction engineering and management." *JCEM*, 136(10), 1140–1153. [Useful history — trace the line back to Halpin's CYCLONE from Week 2 — but it's a field overview, not a single study.] · "Methodology for conducting discrete-event simulation studies in construction engineering and management." *JCEM* (Second Special Collection, 2022).
+
+**Lab 8 (in-class):** Given a small provided model (SimPy DES or NetLogo ABM), (a) write its ODD description, (b) design a validation plan, (c) identify one parameter whose uncertainty would change the paper's conclusion. Deliverable: V&V memo.
+
+---
+
+## Week 13 (11/26) — Data-driven research: ML, computer vision, NLP
+**Focus:** Prediction vs. explanation; leakage; generalization across subjects and sites; reproducibility
+
+**Methods readings**
+- Shmueli, G. (2010). "To explain or to predict?" *Statistical Science*, 25(3), 289–310.
+- Kapoor, S., & Narayanan, A. (2023). "Leakage and the reproducibility crisis in machine-learning-based science." *Patterns*, 4(9), 100804.
+- James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). *An Introduction to Statistical Learning* (2nd ed.). Springer. Ch. 5 (resampling).
+- Pineau, J., et al. (2021). "Improving reproducibility in machine learning research." *JMLR*, 22(164).
+
+→ **If you only have time for one:** Shmueli (2010) — assign it to everyone, not only the computational students. It's the reading that reframes every ML paper you'll read afterward.
+
+**CEM exemplars**
+- Fang, Q., Li, H., Luo, X., Ding, L., Luo, H., Rose, T. M., & An, W. (2018). "Detecting non-hardhat-use by a deep learning method from far-field surveillance videos." *Automation in Construction*, 85, 1–9. [CV exemplar]
+- Zhang, J., & El-Gohary, N. M. (2016). "Semantic NLP-based information extraction from construction regulatory documents for automated compliance checking." *JCEM*, 142(3), 04015014. [NLP exemplar]
+- Tixier, A. J.-P., Hallowell, M. R., Rajagopalan, B., & Bowman, D. (2016). "Application of machine learning to construction injury prediction." *Automation in Construction*, 69, 102–114. [Prediction exemplar]
+- Kim, J., Chi, S., & Ahn, C. R. (2021). "Hybrid kinematic–visual sensing approach for activity recognition of construction equipment." *Journal of Building Engineering*, 44, 102709. [Sensor-fusion exemplar — read it against Kapoor & Narayanan: what would subject-wise or site-wise held-out testing have shown here, and was it done?]
+
+*CEM methods reading (discussion, not an exemplar):* "Importance of testing with independent subjects and contexts for machine-learning models to monitor construction workers' psychophysiological responses." *JCEM* (Second Special Collection, 2022). [Pairs directly with Kapoor & Narayanan — read for the diagnosis, not as a model paper.]
+
+*Short RL segment:* the reinforcement-learning review in the Second Special Collection, for anyone whose proposal involves sequential decisions.
+
+**Lab 9 (graded):** Given a small provided dataset with a deliberately planted leakage problem, reproduce the "published" accuracy, find the leak, and re-evaluate under subject-wise cross-validation. Deliverable: a one-page correction note in the style of a journal comment.
+
+---
+
+## Week 14 (12/3) — Closing the horseshoe: design science, action research, optimization, and validation
+**Focus:** When the contribution is a method, tool, or framework — how to make that a defensible research claim, and how far it generalizes
+**📌 Final proposal due (8–10 pages) at the end of this week**
+
+**Methods readings**
+- Hevner, A. R., March, S. T., Park, J., & Ram, S. (2004). "Design science in information systems research." *MIS Quarterly*, 28(1), 75–105. **Full paper now** (§1–2 were read in W3).
+- Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). "A design science research methodology for information systems research." *JMIS*, 24(3), 45–77.
+- Sein, M. K., Henfridsson, O., Purao, S., Rossi, M., & Lindgren, R. (2011). "Action design research." *MIS Quarterly*, 35(1), 37–56.
+- Coughlan, P., & Coghlan, D. (2002). "Action research for operations management." *IJOPM*, 22(2), 220–240.
+- Deb, K., Pratap, A., Agarwal, S., & Meyarivan, T. (2002). "A fast and elitist multiobjective genetic algorithm: NSGA-II." *IEEE Trans. Evolutionary Computation*, 6(2), 182–197.
+- Bem, D. J. (2004). "Writing the empirical journal article." In J. M. Darley et al. (Eds.), *The Compleat Academic*. APA.
+
+→ **If you only have time for one:** Hevner et al. (2004), full paper. This is the week that revisits your Week 3 horseshoe against a rival framework, and Hevner is that rival.
+
+**CEM exemplars**
+- El-Rayes, K., & Kandil, A. (2005). "Time-cost-quality trade-off analysis for highway construction." *JCEM*, 131(4), 477–486. [Optimization exemplar]
+- Eriksson, P. E. (2010). "Improving construction supply chain collaboration and performance: A lean construction pilot project." *Supply Chain Management: An International Journal*, 15(5), 394–403. [Action research exemplar — explicitly uses an action research design in a real lean-construction pilot]
+- *DSR exemplar:* revisit Fischer's own Akbas/Disney-lagoon case from Week 3. You already reconstructed its horseshoe; now evaluate it against Hevner's design-science criteria instead.
+
+*CEM methods readings (position/discussion papers, not exemplars):* Azhar, S., Ahmad, I., & Sein, M. K. (2010). "Action research as a proactive research method for construction engineering and management." *JCEM*, 136(1), 87–98. · Lucko, G., & Rojas, E. M. (2010). "Research validation: Challenges and opportunities in the construction domain." *JCEM*, 136(1), 127–135. · O'Brien, W. J., Thomas, S. R., et al. (2022). "Recommended practices for effective management of academia–industry collaborative research teams in construction management." *JCEM* (Second Special Collection). · "Optimization research: Enhancing the robustness of large-scale multiobjective optimization in construction." *JCEM* (Second Special Collection, 2022).
+
+**Closing discussion (the bookend to Week 3).** Put Fischer's horseshoe and Hevner's DSR framework side by side. A large share of CEM papers propose a framework or system and "validate" it on one case. Is that the horseshoe done implicitly and badly, or a legitimate mode with different standards? Then: *has your own horseshoe survived the semester intact, and if not, which box broke first?*
+
+**Lab 10 (in-class):** Take any framework-type paper the class picks and rewrite its contribution statement and evaluation section as a rigorous DSR study. What additional evidence would be required?
+
+**Role-play:** one student pitches their study to a contractor; another plays the contractor deciding whether to grant site access.
+
+---
+
+## Week 15 (12/10) — Final proposal defense (mock review panel)
+Present for 8 minutes and take 7 minutes of questions from a three-person panel of classmates plus the instructor, using the ASCE review criteria. Panel members submit scored review forms; the instructor moderates.
+
+Close the loop twice: the Week 1 interest cards come back, and the Week 3 horseshoe sits beside the final one. What changed, and why?
+
+**Course ends here.**
+
+---

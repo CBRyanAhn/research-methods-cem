@@ -1,0 +1,10 @@
+/_site/
+/.quarto/
+*.html
+!index.html
+.DS_Store
+
+**/*.quarto_ipynb
+
+# Instructor-only notes — local, never pushed
+/instructor/

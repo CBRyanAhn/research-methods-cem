@@ -1,0 +1,35 @@
+---
+title: "Core reference shelf"
+---
+
+**Framing the field**
+1. Fischer, M. (2006). "Formalizing construction knowledge for concurrent performance-based design." *Proc. 13th EG-ICE Workshop* (Springer LNCS 4200).
+2. Levitt, R. E. (2007). "CEM research for the next 50 years." *JCEM*, 133(9), 619–628.
+3. Clayton, M. J., Kunz, J. C., & Fischer, M. A. (1998). *The Charrette Test Method*. CIFE TR #120, Stanford.
+
+**General methodology**
+4. Creswell, J. W., & Creswell, J. D. (2023). *Research Design* (6th ed.). SAGE.
+5. Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and Quasi-Experimental Designs*. Houghton Mifflin.
+6. Yin, R. K. (2018). *Case Study Research and Applications* (6th ed.). SAGE.
+7. Saldaña, J. (2021). *The Coding Manual for Qualitative Researchers* (4th ed.). SAGE.
+8. Dillman, D. A., Smyth, J. D., & Christian, L. M. (2014). *Internet, Phone, Mail, and Mixed-Mode Surveys* (4th ed.). Wiley.
+9. Kline, R. B. (2023). *Principles and Practice of Structural Equation Modeling* (5th ed.). Guilford.
+
+**CEM methodology**
+10. ASCE *JCEM* Special Issue on Research Methodologies in CEM, Vol. 136, No. 1 (January 2010).
+11. ASCE *JCEM* **Second Special Collection on Research Methodologies in CEM** (2022–2023): https://ascelibrary.org/jcemd4/second_research_methods
+12. Fellows, R., & Liu, A. (2015). *Research Methods for Construction* (4th ed.). Wiley-Blackwell.
+13. Knight, A., & Ruddock, L. (Eds.) (2008). *Advanced Research Methods in the Built Environment*. Wiley-Blackwell.
+14. Naoum, S. G. (2019). *Dissertation Research and Writing for Built Environment Students* (4th ed.). Routledge.
+15. Laycock, E., Howarth, T., & Watson, P. (2016). *The Journey to Dissertation Success*. Routledge.
+
+**Ethics (see §4.6 for how these are actually used)**
+16. National Commission (1979). *The Belmont Report*.
+17. Munafò, M. R., et al. (2017). "A manifesto for reproducible science." *Nature Human Behaviour*, 1, 0021.
+18. Israel, M. (2015). *Research Ethics and Integrity for Social Scientists* (2nd ed.). SAGE.
+
+---
+
+::: {.callout-note}
+Reading PDFs are not hosted on this site. Follow DOI links through the SNU library proxy, or check the ETL course materials folder.
+:::

@@ -1,0 +1,292 @@
+---
+title: "Week 5 — How the seminar actually works"
+subtitle: "Qualitative I: interviews, coding, and the reliability problem · Thursday 10/1 · 150 minutes"
+---
+
+This handout exists so nobody has to guess what their role means. It follows one week — Week 5 — from the moment roles are announced to the moment the Discussant's synthesis is posted. Read the section for your role; skim the others so you know what your classmates are preparing.
+
+Seven of you hold roles this week. The other nine submit entry tickets. Everybody does the lab.
+
+---
+
+## 1. The week at a glance
+
+| When | Who | What happens |
+|---|---|---|
+| **Thu 9/24, in class** | Instructor | Week 5 roles confirmed; papers assigned to the Exemplar Analysts and Skeptics |
+| **Sun 9/27** | Method Leads | Method Card draft emailed to instructor (optional but recommended — you'll get comments back by Monday) |
+| **Mon 9/28** | Everyone with a role | Slides + written deliverable uploaded to the course site by 18:00. Uploading late means the class can't prepare. |
+| **Wed 9/30, 18:00** | The other nine | Entry ticket posted (one question, 2–3 sentences) |
+| **Wed 9/30, evening** | Discussant | Read all nine entry tickets; pick two to open with; sketch a running order |
+| **Thu 10/1** | Everyone | Class |
+| **Sat 10/3, 18:00** | Discussant | 300-word synthesis posted |
+| **Thu 10/8** | Everyone | Lab 2 deliverable due (coding memo + reliability table + one page) |
+
+---
+
+## 2. The readings, and who owns what
+
+Everyone reads the ★ items. Role-holders read their own additional items closely.
+
+**Methods readings**
+| | Reading | Owned by |
+|---|---|---|
+| ★ | Braun, V., & Clarke, V. (2006). "Using thematic analysis in psychology." *Qualitative Research in Psychology*, 3(2), 77–101. | Everyone (this is the "if you only read one") |
+| | Kvale, S., & Brinkmann, S. (2015). *InterViews* (3rd ed.), Ch. 5–7 | Method Lead 1 |
+| | Gioia, D. A., Corley, K. G., & Hamilton, A. L. (2013). "Seeking qualitative rigor in inductive research." *Organizational Research Methods*, 16(1), 15–31 | Method Lead 2 |
+| | Saldaña, J. (2021). *The Coding Manual for Qualitative Researchers* (4th ed.), Ch. 1–3 | Method Lead 2 |
+| | O'Connor, C., & Joffe, H. (2020). "Intercoder reliability in qualitative research." *IJQM*, 19 | Method Lead 2 + both Skeptics |
+
+**CEM exemplars**
+| | Reading | Owned by |
+|---|---|---|
+| ★ | Spearing, L. A., Hamlet, L. C., Stephens, K. K., Kaminsky, J. A., & Faust, K. M. (2022). "Comparing qualitative analysis techniques for CEM research: The case of Arctic water infrastructure." *JCEM* | Everyone · analyzed by Exemplar Analyst 1 · attacked by Skeptic 1 |
+| | Dossick, C. S., & Neff, G. (2011). "Messy talk and clean technology: Communication, problem-solving and collaboration using BIM." *Engineering Project Organization Journal*, 1(2), 83–93 | Exemplar Analyst 2 · Skeptic 2 |
+| | Dossick, C. S., & Neff, G. (2010). "Organizational divisions in BIM-enabled commercial construction." *JCEM*, 136(4), 459–467 | Exemplar Analyst 2 (background — same fieldwork, different argument) |
+
+---
+
+## 3. Running order for 10/1
+
+| Clock | Segment |
+|---|---|
+| 0:00–0:10 | **IRB Q&A** — instructor answers common problems in the protocol drafts you submitted today |
+| 0:10–0:25 | Instructor framing: what an interview study can and cannot establish |
+| 0:25–0:45 | **Method Leads** (2 × 10 min) |
+| 0:45–1:00 | **Exemplar Analysts** (2 × 7 min) |
+| 1:00–1:10 | **Skeptics** (2 × 5 min) |
+| 1:10–1:35 | **Open discussion**, chaired by the Discussant |
+| 1:35–1:45 | Break |
+| 1:45–2:25 | **Lab 2** — coding the shared transcript |
+| 2:25–2:40 | Instructor synthesis + link back to your Horseshoe Wall entry |
+
+---
+
+## 4. Role: Method Lead (2 students)
+
+*This week: Minjae (interviewing) and Seoyeon (coding & reliability)*
+
+### What you are for
+You are not summarizing the reading. You are explaining **the logic of the method** — what it assumes, where the researcher has to make a choice, and what the method licenses you to claim at the end. A classmate who missed the reading should leave able to *use* the method, not just name it.
+
+### Minjae — Method Lead 1: the interview as an instrument
+**Read closely:** Kvale & Brinkmann Ch. 5–7.
+
+Your 10 minutes should get at:
+- What kind of object an interview transcript is. Kvale & Brinkmann's "miner vs. traveler" framing is the useful lever here: is the interview extracting knowledge that already sits inside the informant, or is it producing knowledge jointly in the conversation? These two positions lead to different interview guides and different claims.
+- The decision points a researcher actually faces: how structured, how many, when to stop, whether to send questions ahead, whether to record.
+- One thing people get wrong. Suggested: treating "number of interviews" as the quality signal, when the binding constraint is usually the quality of the guide and the researcher's follow-up probes.
+
+**Bring a concrete artifact.** Take one question from your own Horseshoe Wall entry and show the class two versions of an interview question that could address it — one leading, one not — and explain which follow-up probes you'd have ready. Two minutes of this is worth ten minutes of abstraction.
+
+### Seoyeon — Method Lead 2: from transcript to theme, and the reliability question
+**Read closely:** Braun & Clarke (2006); Gioia et al. (2013); Saldaña Ch. 1–3; O'Connor & Joffe (2020).
+
+Your 10 minutes should get at:
+- Braun & Clarke's six phases, but the part worth your airtime is their insistence that themes do not "emerge" — the researcher constructs them. Explain why that matters for how you write a methods section.
+- The inductive/deductive and semantic/latent axes, with one CEM example of each.
+- The Gioia structure (1st-order informant terms → 2nd-order theoretical themes → aggregate dimensions) as a *different* answer to the same problem, and when you'd pick it over Braun & Clarke.
+- Then the hard one: O'Connor & Joffe. When does intercoder reliability make sense at all, and when is reporting a κ or α a ritual borrowed from a paradigm that doesn't fit? How much of the corpus should be double-coded? Which coefficient, and why not percentage agreement?
+
+**Common failure mode:** spending nine minutes on the six phases and thirty seconds on reliability. The reliability question is the one your classmates will need in the lab an hour later. Budget accordingly.
+
+### What you submit (Mon 9/28)
+A **1-page Method Card**. One page means one page. Template:
+
+```
+METHOD CARD — [method name]                        [your name] · Week 5
+
+WHAT IT IS (2 sentences, no jargon)
+
+CORE ASSUMPTIONS (3 bullets — what must be true for this to work)
+
+DECISION POINTS (the 3–4 choices a researcher must make, and what
+                 each choice costs)
+
+WHAT IT LICENSES YOU TO CLAIM
+WHAT IT DOES NOT LICENSE
+
+MOST COMMON MISUSE IN CEM PAPERS
+
+HORSESHOE BOX SERVED: ____________________
+   (and one sentence on why)
+```
+
+The last line is not decoration. Every Method Card in this course ends by placing the method inside Fischer's horseshoe. For Week 5 the honest answer is probably *Research Tasks*, but a good argument that thematic analysis can also reshape your *Theoretical Limitation* box would be more interesting.
+
+---
+
+## 5. Role: Exemplar Analyst (2 students)
+
+*This week: Haneul (Spearing et al.) and Jiwon (Dossick & Neff)*
+
+### What you are for
+Reverse-engineer the paper. Not "what did they find" — **how is the claim built, and what holds it up.** You get 7 minutes and one slide.
+
+### The one slide
+```
+[Paper, one line]
+
+RESEARCH QUESTION      →  as actually answered, not as stated in the abstract
+DESIGN                 →  what kind of study is this
+DATA                   →  who, how many, how long, collected how
+ANALYSIS               →  what was done to the data, in what order
+CLAIM                  →  the single sentence the paper is really asserting
+WHAT HOLDS IT UP       →  the specific evidence for that sentence
+LIMITS                 →  where the claim stops
+```
+
+### Haneul — Spearing et al. (2022)
+This is an unusual paper and that's why it's here: the authors apply **more than one analysis technique to the same interview dataset** (Arctic water and wastewater infrastructure in rural Alaska) and compare what each surfaces. Deductive content analysis produces frequency tables of pre-specified challenge categories; other passes surface challenges the researchers hadn't anticipated.
+
+Your job is to show the class exactly **where the techniques diverged**. Find a specific finding that one technique produced and another did not, and put it on the slide. That single concrete divergence is the whole point of assigning this paper.
+
+Also: state clearly what the *unit of analysis* is. Is it the utility? The community? The excerpt? Papers like this are easy to misread on that point, and it determines what the frequency tables mean.
+
+### Jiwon — Dossick & Neff (2011)
+Very different animal: ethnographic observation of BIM coordination meetings, building an argument that the technology's structure does not dissolve the organizational divisions between trades — the productive work happens in informal, unstructured "messy talk" that clean technology tends to squeeze out.
+
+Your job:
+- Reconstruct how they got from field observation to that argument. What counted as evidence? How many sites, how much time?
+- Be precise about the claim's scope. Is this a claim about BIM, about these projects, or about the relationship between technological structure and organizational structure generally?
+- Read the 2010 *JCEM* paper as background. Same fieldwork, different argument. **Put one line on your slide about how the same data supported two papers** — that's a genuinely useful thing for MS students to see.
+
+### What you submit (Mon 9/28)
+The slide itself. That's it — one slide, uploaded as PDF or image.
+
+**Common failure mode:** producing a summary. If your slide could have been written after reading only the abstract and conclusion, you haven't done the assignment. The Design/Data/Analysis rows are where the work is.
+
+---
+
+## 6. Role: Skeptic (2 students)
+
+*This week: Taeyang (Spearing et al.) and Eunji (Dossick & Neff)*
+
+### What you are for
+Attack the paper's validity — properly, in writing, on the form real reviewers use. You get 5 minutes to present the sharpest two points from your report.
+
+**The rule that matters:** repeating a limitation the authors already stated in their own limitations section scores low. They already know. Your job is to find what they *didn't* say.
+
+### Where to look, for these two papers
+
+For a qualitative study, productive lines of attack usually run through:
+- **Sampling and access.** Who could have been interviewed but wasn't, and would their absence change the conclusion? For Spearing et al., who in rural Alaskan water systems is structurally hard to reach? For Dossick & Neff, whose meetings were observed and whose weren't?
+- **The coding apparatus.** Was a codebook developed before or after seeing the data? Was any of the corpus double-coded, and if so, is the reported agreement statistic the right one for that coding scheme? Read O'Connor & Joffe before you write this section — it will keep you from making the lazy version of this critique.
+- **The inferential leap.** Between a coded excerpt and a claimed theme there is a gap. Point at a specific place where you think the gap is too wide, and say what additional evidence would close it.
+- **Rival explanations.** Name one alternative account of the same data that the paper doesn't rule out.
+- **Transferability.** Not "this is only one context" — that's the lazy version. Instead: *which specific feature* of this context does the finding depend on, and what would have to be true elsewhere for it to travel?
+
+### What you submit (Mon 9/28)
+A **1-page referee report** on the ASCE reviewer form. Structure it like a real one:
+
+```
+SUMMARY OF THE PAPER (3 sentences, neutral — prove you read it fairly)
+
+MAJOR CONCERNS (2–3, numbered, each with: what the problem is,
+                why it threatens the conclusion, and what would fix it)
+
+MINOR CONCERNS (2–3, brief)
+
+RECOMMENDATION (accept / minor revision / major revision / reject)
+                — and you must actually pick one
+```
+
+A worked fragment, so the register is clear:
+
+> **Major concern 2.** The codebook (Table 1) is presented as the analytical starting point, but the paper does not state whether it was derived from the literature before data collection or constructed after an initial pass through the transcripts. This matters because the frequency counts in Table 1 are used to support a claim about the *relative* prominence of challenge categories — and if the categories were drawn from the data, those frequencies are partly an artifact of the coding scheme rather than a finding about the sites. *Suggested fix:* state the provenance of the codebook explicitly, and if it was data-derived, either drop the comparative language or support it with a second, independently developed coding pass.
+
+Note what that does: names the problem, links it to a specific claim, proposes a remedy. Three sentences. That's the standard.
+
+**Common failure mode:** hostility. A referee report is not a takedown. The tone that earns full marks is the tone of someone who wants the paper to get better.
+
+---
+
+## 7. Role: Discussant / Scribe (1 student)
+
+*This week: Dohyun*
+
+### Before class (Wed evening)
+Read all nine entry tickets. Group them — you'll usually find they cluster into three or four underlying questions even when nine different things were asked. **Pick two to open with**, and email the instructor which two by Wednesday night so the framing segment can set them up.
+
+Choose for productivity, not politeness. The best opening question is one where two readings of the week genuinely disagree.
+
+### During class (25 minutes)
+You are chairing, not presenting. Practically:
+- Open with your first chosen ticket, addressed to a specific person — "Seoyeon, you argued X in your Method Card; this ticket says the opposite. Take it."
+- Track who has spoken. In a 16-person room, four people will take 80% of the airtime unless someone stops it. Stopping it is your job.
+- When the discussion loops, say so and move to the second question.
+- Reserve the last three minutes to ask the room: *what did we not resolve?* That unresolved thing goes in your synthesis.
+
+### After class (by Sat 10/3, 18:00)
+A **300-word synthesis** posted to the course site. Not minutes. Structure:
+1. The question the room actually spent its time on (often not the one on the syllabus)
+2. The two strongest opposing positions, stated fairly
+3. What remained unresolved
+4. One sentence: what this changes about how you'd design a qualitative study
+
+These accumulate. By December the class will have built its own methods notebook out of thirteen of these.
+
+---
+
+## 8. If you don't have a role this week (nine of you)
+
+**Entry ticket, due Wed 9/30 18:00. One question, 2–3 sentences.**
+
+The bar: your question should be answerable only by someone who did the reading, and it should not have a settled answer.
+
+Weak:
+> What is thematic analysis?
+
+Also weak (a comment, not a question):
+> I found Braun and Clarke very useful and I agree that themes are constructed.
+
+Strong:
+> Braun & Clarke insist themes are constructed by the researcher, not discovered. Spearing et al. report frequency counts of coded categories. Are those two positions compatible — can you count something you constructed and still call the count evidence?
+
+Strong:
+> O'Connor & Joffe argue intercoder reliability is only appropriate under certain conditions. Dossick & Neff report ethnographic observation with no reliability statistic at all. Is that a gap in the paper, or is a reliability statistic simply the wrong instrument for what they were doing?
+
+Strong:
+> Dossick & Neff got two papers with different arguments out of one body of fieldwork. At what point does that become double-dipping rather than legitimate secondary analysis?
+
+Both of the first two examples above happen to also work as opening questions — which is what the Discussant is looking for.
+
+---
+
+## 9. Lab 2 (40 min in class, deliverable due 10/8)
+
+Everyone, in pairs.
+
+1. **(15 min)** You'll receive the same anonymized construction interview transcript and a shared six-code codebook. Code it independently — no talking to your partner yet.
+2. **(10 min)** Compute pairwise Krippendorff's α against your partner. R: `irr::kripp.alpha()`. Python: `krippendorff.alpha()`. Both will be pre-installed on the lab machines; a starter script is on the course site.
+3. **(15 min)** Half the room (assigned in class) re-codes with LLM assistance. Compare: does α go up? Does code granularity change? **What disappears?**
+
+**Deliverable (2–3 pages, due 10/8):**
+- Coding memo — where you and your partner diverged, and why
+- Reliability table — α per code, not just overall
+- One page: where human and LLM-assisted coding diverged, and what that implies for whether an LLM can be a "second coder" at all
+
+The interesting result is usually not the α value. It's the argument you and your partner have in step 2 about why one of you coded an excerpt as *resource constraint* and the other as *institutional barrier*. Write that argument down — it's the actual finding.
+
+---
+
+## 10. How this is graded
+
+Seminar roles are 20% of the course, spread over your ~4 turns. Each turn is scored 0–5 on four criteria:
+
+| Criterion | 5 | 3 | 1 |
+|---|---|---|---|
+| Grasp of the method's logic | Explains assumptions and what the method licenses | Describes procedure correctly | Summarizes the reading |
+| Critical engagement | Identifies non-obvious threats and alternatives | Names standard limitations | Repeats the paper's stated limitations |
+| Transfer | Connects to the horseshoe and to classmates' proposals | Generic connection | None |
+| Delivery | On time, clear, discussion-provoking | Clear | Reads slides |
+
+The written deliverable (Method Card / slide / referee report) and the live segment are graded together as one turn.
+
+Entry tickets are credit/no-credit, part of the 10% attendance component. You have two free passes for the semester.
+
+---
+
+## 11. One thing to keep in mind this week
+
+Week 5 is the first week where the method you're studying might actually be the method you use. When you leave, go update your Horseshoe Wall entry. If thematic analysis or a Gioia-style structure could fill your *Research Tasks* box, say so and say what data you'd need. If it clearly can't, say why — that's equally useful, and it's the kind of ruling-out that makes a proposal defensible in December.

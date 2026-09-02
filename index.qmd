@@ -1,0 +1,43 @@
+---
+title: "Research Methods in Construction Engineering and Management"
+subtitle: "Graduate seminar · Fall 2026 · Thursdays"
+---
+
+::: {.callout-important}
+## This site is the live syllabus
+
+The version here is always current. Anything posted on ETL links back to this page — if you are reading a downloaded PDF or a copy pasted into a document, check the date against [What changed](changelog.qmd).
+
+**Assignments, submissions, and grades stay on ETL.** This site is the reading and schedule reference.
+:::
+
+**Format:** Seminar (student-led) · **Language:** English · **Enrollment:** ~16 (mostly MS) · **Credits:** 3
+**Meeting pattern:** one 150-minute block per week, Thursdays
+
+## How the course runs
+
+This is a seminar, not a lecture course. Most weeks, four of you are in an assigned role — Method Lead, Exemplar Analyst, Skeptic, or Discussant — and everyone else has submitted a question in advance. The instructor frames the method at the start of class and ties it together at the end; the middle is yours.
+
+Two things anchor the whole semester: the **history** of the field (Week 2) and the **CIFE horseshoe** research process (Week 3), which you will use to structure your own proposal from Week 3 through the final defense in Week 15.
+
+If you are not sure what your role actually requires, read the [Week 5 role walkthrough](handouts/week05-roles.qmd) — it follows one week end to end with worked examples of every deliverable.
+
+## Start here
+
+| | |
+|---|---|
+| [Calendar](calendar.qmd) | 15 dates, topics, and the one holiday collision |
+| [Weekly schedule](schedule.qmd) | Readings and labs, week by week |
+| [How the course works](syllabus.qmd) | Roles, assessment, rubrics, AI policy |
+| [Methods inventory](methods.qmd) | The full menu of CEM research methods and which week covers each |
+| [Reference shelf](readings.qmd) | Books and collections worth owning |
+
+## A note on research ethics
+
+There is no dedicated seminar week for IRB and research ethics. It does not fit the debate format well, and the useful skill is writing a correct protocol rather than arguing about one. It is handled in three short touchpoints across Weeks 1, 4, and 5 — see [How the course works](syllabus.qmd#how-research-ethics-is-handled).
+
+## A note on citations
+
+All readings listed here are real and widely used. A few items from the ASCE *Second Special Collection on Research Methodologies in CEM* (JCEM, 2022–2023) and the original 2010 JCEM special issue are methodological discussion or position papers rather than empirical studies — these are labeled **"CEM methods reading,"** not **"exemplar,"** throughout. The distinction matters when you are assigned as Exemplar Analyst: you cannot reverse-engineer a study design out of an essay about study design.
+
+Reading PDFs are not hosted here. Follow the DOI links and use the SNU library proxy, or find the file in the ETL course materials folder.

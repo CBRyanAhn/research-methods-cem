@@ -1,0 +1,32 @@
+---
+title: "Master calendar"
+---
+
+15 sessions, weekly on Thursdays, starting **9/3/2026**.
+
+| Week | Date (Thu) | Topic | Notes |
+|---|---|---|---|
+| 1 | 9/3 | What counts as knowledge in CEM? (paradigms) | — |
+| 2 | 9/10 | History of CEM research | — |
+| 3 | 9/17 | Formalizing construction knowledge — the CIFE horseshoe | — |
+| 4 | 9/24 | Theoretical point of departure (problematization + literature as data) | **한국 공휴일 — 추석 연휴 (9/24–26, Thu–Sat).** This session falls inside the Chuseok holiday block and cannot meet. **Make-up required** — see options below. |
+| 5 | 10/1 | Qualitative I: interviews, coding, reliability *(+ 15-min IRB/ethics briefing)* | — |
+| 6 | 10/8 | Qualitative II: case study, ethnography, mixed methods | — |
+| 7 | 10/15 | Surveys, measurement, Delphi, common method bias — **pre-proposal due** | — |
+| 8 | 10/22 | Pre-proposal presentations, peer review, journal fit | — |
+| 9 | 10/29 | Quantitative modeling and reporting (regression, SEM) | — |
+| 10 | 11/5 | Causal inference (experiments, quasi-experiments, archival) | — |
+| 11 | 11/12 | Instrumented human-subject research (sensing, eye-tracking, XR) — Horseshoe Wall checkpoint | — |
+| 12 | 11/19 | Simulation as a research method (DES, SD, ABM) | — |
+| 13 | 11/26 | Data-driven research (ML, CV, NLP) | — |
+| 14 | 12/3 | Closing the horseshoe: design science, action research, optimization, validation — **final proposal due** | — |
+| 15 | 12/10 | **Final proposal defense (mock review panel)** | — |
+
+**Make-up options for Week 4 (9/24 Chuseok):**
+- **(a) Shift the whole calendar back one week.**
+- **(b) Asynchronous make-up.** Recorded framing lecture; Method Lead / Exemplar Analyst / Skeptic segments submitted as write-ups instead of presented live; 15 minutes of live Q&A folded into the start of Week 5.
+- **(c) Use a university-designated make-up day**, if the academic calendar has one near Chuseok.
+
+Option (b) is the lowest-disruption choice if the rest of the calendar must stay fixed. No other Thursday in this span coincides with a 2026 Korean public holiday (Gaecheonjeol falls on Saturday 10/3, its substitute holiday on Monday 10/5; Hangeul Day falls on Friday 10/9 — neither touches a Thursday). Reconfirm both closer to the semester.
+
+---

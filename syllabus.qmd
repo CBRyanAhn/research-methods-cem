@@ -1,0 +1,122 @@
+---
+title: "How the course works"
+---
+
+## Learning outcomes
+
+By the end of the course, you should be able to:
+
+1. **Situate** your own research interest within the 70-year trajectory of the CEM field and explain why your question is legitimate research now.
+2. **Construct and defend** a complete horseshoe for your own study — from an observed problem in practice through to a claimed contribution to knowledge and its practical significance.
+3. **Diagnose** a research problem and state a question that is answerable, non-trivial, and matched to an appropriate design (methodological fit).
+4. **Reverse-engineer** any empirical CEM paper: identify its claim, its inferential logic, its threats to validity, and what would falsify it.
+5. **Execute** small-scale instances of six different methods (review, coding, survey, modeling, experiment design, reproduction).
+6. **Write and defend** a proposal that would survive a real review panel, and **write a competent referee report** on someone else's.
+7. **Apply** research ethics and IRB requirements to your own proposed study.
+
+---
+
+## Course mechanics
+
+### 4.1 Weekly roles (rotating)
+
+Roles run in **W4, W5, W6, W7 and W9–W14** (ten weeks). W1–W3 are framing weeks with their own formats (§5); W8 and W15 are presentation/defense days with no role rotation.
+
+Ten weeks × 7 slots = 70 slots for 16 students, so you'll get roughly **four turns: each of the four roles at least once**, with any fifth turn falling in the week closest to your own topic. A three-choice preference list is collected in Week 1 and the fixed roster is published in Week 3, alongside the horseshoe assignment. One backup per week is designated so an absence doesn't collapse the session.
+
+| Role | # per week | Time | Deliverable |
+|---|---|---|---|
+| **Method Lead** | 2 | 20 min | Explain the *logic* of the method — assumptions, decision points, what it can and cannot license. Submit a 1-page **Method Card**, whose final line must answer: *which box of the horseshoe does this method serve?* |
+| **Exemplar Analyst** | 2 | 15 min | Reverse-engineer a CEM exemplar onto one slide: RQ → design → data → analysis → claim → limits. |
+| **Skeptic** | 2 | 10 min | Attack the exemplar's validity. Submit a 1-page referee report on the ASCE reviewer form. Repeating the authors' own stated limitations scores low. |
+| **Discussant / Scribe** | 1 | — | Chair the open discussion, then post a 300-word synthesis within 48 h. |
+| **Everyone else** | 9 | — | **Entry ticket**: one substantive question posted 24 h before class. Two are chosen to open discussion. |
+
+### 4.2 Standard 150-minute running order
+
+| Time | Segment |
+|---|---|
+| 0:00–0:15 | Instructor framing: where this method sits in the landscape, and the one thing people get wrong |
+| 0:15–0:35 | Method Leads |
+| 0:35–0:50 | Exemplar Analysts |
+| 0:50–1:00 | Skeptics |
+| 1:00–1:25 | Open discussion from entry tickets (Discussant chairs) |
+| 1:25–1:35 | Break |
+| 1:35–2:15 | **Method Lab** — hands-on, in pairs, laptops required |
+| 2:15–2:30 | Instructor synthesis + explicit link back to your horseshoe |
+
+(Week 5 runs 10–15 minutes longer to absorb the IRB briefing — see §4.6.)
+
+### 4.3 If the course meets 2 × 75 min
+Session A = framing + Method Leads + Exemplar Analysts + Skeptics. Session B = discussion + lab + synthesis. Labs then need to be sized to 45 minutes.
+
+### 4.4 The Horseshoe Wall
+Your horseshoe, built in W3, is posted on the course site and revised weekly. After each method week, update the *Research Tasks* box if that week gave you a better instrument, or the *Theoretical Limitation* box if it gave you a better argument. The W7 pre-proposal is a prose expansion of your wall entry.
+
+### 4.5 Tools
+R/RStudio or Python; Zotero; Taguette or NVivo/ATLAS.ti; VOSviewer; G*Power or the `pwr` package; `lavaan` and `seminr` (or SmartPLS); Simphony/AnyLogic or SimPy; OSF for preregistration. All lab datasets are provided; you don't need to collect your own data for a lab.
+
+### 4.6 How research ethics is handled
+
+Research ethics doesn't map well onto the Method Lead / Exemplar Analyst / Skeptic format — there's no single paper to reverse-engineer the way there is for a method, and the useful skill (writing a correct protocol) benefits from direct instruction more than adversarial debate. It's handled in three small, well-timed touchpoints instead:
+
+1. **Pre-course module** (assigned Week 1, due before Week 4). Read the Belmont Report (12 pp.) and Munafò et al. (2017), "A manifesto for reproducible science," and review the SNU IRB submission process. No seminar time is spent; completion is checked with a two-question reflection submitted online (credit/no-credit).
+2. **A 15-minute briefing in Week 4's framing segment.** What a defensible protocol looks like for construction research specifically — site access, vulnerable populations (migrant labor, as in the Tutt et al. reading), and physical risk for sensor/XR studies. You leave with the assignment: draft the IRB protocol section for your own horseshoe study, due at the start of Week 5.
+3. **A 10-minute Q&A at the open of Week 5**, before the qualitative-interviewing content begins, addressing common problems in the submitted drafts. The drafts themselves aren't separately graded as a lab — they feed directly into the "Ethics, feasibility, and timeline" line of the final proposal rubric (§7.3).
+
+If your program's IRB office requires a certified training module (e.g., CITI training) before you can submit protocols, that sits alongside item 1 above.
+
+---
+
+## Assessment
+
+| Component | Weight | Notes |
+|---|---|---|
+| Attendance, entry tickets, and pre-course ethics module | 10% | Credit/no credit; 2 free passes |
+| Seminar roles | 20% | ~4 turns per student; rubric in §7.1 |
+| Horseshoe assignments (W3 reconstruction + own horseshoe, maintained on the wall) | 10% | Graded twice: W3 and W11 |
+| Method Labs (6 graded deliverables) | 15% | Labs 1, 2, 4, 5, 6, 9 below; 2–3 pages each, due one week after |
+| Peer review assignment | 10% | Two referee reports on classmates' pre-proposals |
+| Pre-proposal (2 pages) + presentation | 10% | Due W7, presented W8 |
+| Final proposal (8–10 pages) + panel defense | 25% | Due end of W14, defended W15 |
+
+Grade-on-a-curve, A–F. Absence over 1/3 of sessions results in F/U except where the instructor deems the cause unavoidable.
+
+**Note on generative AI.** You may use LLMs for language editing, code scaffolding, and literature triage, and must disclose usage in a short appendix to each written deliverable. LLM output may not be submitted as the analytic contribution — an LLM may not be the sole coder in the qualitative lab. Weeks 5 and 13 treat LLM-assisted analysis as a methodological question in its own right, which is the productive way to handle this.
+
+---
+
+## Rubrics
+
+### 7.1 Seminar role rubric (per turn, 0–5)
+| Criterion | 5 | 3 | 1 |
+|---|---|---|---|
+| Grasp of the method's logic | Explains assumptions and what the method licenses | Describes procedure correctly | Summarizes the reading |
+| Critical engagement | Identifies non-obvious threats and alternatives | Names standard limitations | Repeats the paper's stated limitations |
+| Transfer | Connects to the horseshoe and to classmates' proposals | Generic connection | None |
+| Delivery | On time, clear, discussion-provoking | Clear | Reads slides |
+
+### 7.2 Horseshoe rubric (0–20, applied in W3 and W11)
+| Criterion | Pts |
+|---|---|
+| Observed problem is specific enough that success criteria are visible | 4 |
+| Theoretical limitation is grounded in literature, not asserted | 4 |
+| Research questions are testable, with metrics named | 4 |
+| Research tasks include a defensible test method (Fischer's four, or an alternative justified) | 4 |
+| Contribution to knowledge and practical significance are distinguishable from each other | 4 |
+
+### 7.3 Proposal rubric (100 pts)
+| Criterion | Pts |
+|---|---|
+| Problem significance and framing | 15 |
+| Question: answerable, specific, non-trivial | 15 |
+| Methodological fit — design justified against alternatives | 25 |
+| Data, sampling, and analysis plan feasible at MS scale | 15 |
+| Threats to validity identified and addressed | 15 |
+| **Ethics, feasibility, and timeline (includes the IRB protocol drafted in Week 4–5)** | 5 |
+| Writing and reference quality | 10 |
+
+### 7.4 Referee report rubric (per report, 0–10)
+Specificity of critique (4), constructiveness and actionability (3), correct application of methodological standards (2), professional tone (1).
+
+---

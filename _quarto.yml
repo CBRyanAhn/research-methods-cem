@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "handouts/*.qmd"
+    - "!instructor/"
+
+website:
+  title: "Research Methods in CEM"
+  description: "Graduate seminar, Dept. of Architecture and Architectural Engineering, Seoul National University"
+  site-url: "https://cbryanahn.github.io/research-methods-cem/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: calendar.qmd
+        text: Calendar
+      - href: schedule.qmd
+        text: Weekly schedule
+      - href: syllabus.qmd
+        text: How the course works
+      - href: methods.qmd
+        text: Methods inventory
+      - href: readings.qmd
+        text: Reference shelf
+      - text: Handouts
+        menu:
+          - href: handouts/week05-roles.qmd
+            text: "Week 5 — role walkthrough"
+    right:
+      - href: changelog.qmd
+        text: What changed
+  page-footer:
+    center: "Last updated: {{< meta last-updated >}} · [What changed](changelog.qmd)"
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    anchor-sections: true
+    link-external-newwindow: true
+    css: []
+
+last-updated: "2026-09-02"

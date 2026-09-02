@@ -1,0 +1,65 @@
+---
+title: "Inventory of research methodologies used in CEM"
+---
+
+This is the menu the course draws from. Frequency labels reflect what dominates JCEM / CME / *Automation in Construction* / JME, not what is necessarily best.
+
+### A. Empirical–inferential (people, projects, organizations as the object)
+
+| # | Method | Typical CEM use | Week |
+|---|---|---|---|
+| A1 | Questionnaire survey + statistical inference | Perception, climate, adoption, success-factor studies | W7, W9 |
+| A2 | Structural equation modeling (CB-SEM / PLS-SEM) | Latent constructs: safety climate, trust, BIM adoption | W9 |
+| A3 | Semi-structured interviews + thematic analysis / grounded theory | Practice, barriers, meaning-making | W5 |
+| A4 | Case study research (single / multiple, embedded) | Project-level phenomena in context | W6 |
+| A5 | Ethnography / participant observation / shadowing | Site culture, craft work, informal coordination | W6 |
+| A6 | Delphi and structured expert elicitation | Risk quantification where data are absent | W7 |
+| A7 | Content analysis of documents (contracts, claims, accident records) | Disputes, regulation, safety causation | W4, W13 |
+| A8 | Archival / secondary data analysis and econometrics | Cost overrun, productivity, bid behavior, delivery-method performance | W10 |
+| A9 | Social network analysis | Project team communication, supply-chain structure | Elective |
+| A10 | Mixed methods (sequential, convergent) | Most PhD-scale CEM projects, whether admitted or not | W6, W14 |
+
+### B. Experimental and quasi-experimental
+
+| # | Method | Typical CEM use | Week |
+|---|---|---|---|
+| B1 | Controlled laboratory experiment with human subjects | Decision-making, hazard recognition, visualization | W10 |
+| B2 | Field / quasi-experiment, single-case and multiple-baseline designs | Safety interventions, training effectiveness | W10 |
+| B3 | Natural experiments and causal identification (DiD, IV, RDD, matching) | Policy and contract-form effects | W10 |
+| B4 | XR-enabled (VR/AR/MR) experimental research | Behavior under hazardous or non-existent conditions | W11 |
+| B5 | Wearable / physiological sensing (EEG, EDA, HR, IMU), eye-tracking | Stress, workload, attention, ergonomics | W11 |
+| B6 | Remote sensing, UAS, computer-vision field observation | Progress, productivity, safety monitoring | W11 |
+
+### C. Model-building and computational
+
+| # | Method | Typical CEM use | Week |
+|---|---|---|---|
+| C1 | Discrete-event simulation | Operations, earthmoving, tunneling, resource allocation | W12 |
+| C2 | System dynamics | Rework, change, project feedback structures | W12 |
+| C3 | Agent-based modeling | Crew behavior, emergent productivity, evacuation | W12 |
+| C4 | Optimization / metaheuristics / multi-objective | Time–cost–quality trade-off, site layout, scheduling | W14 |
+| C5 | Machine learning (supervised, deep, sequence models) | Prediction of cost, safety incidents, activity recognition | W13 |
+| C6 | NLP / text mining / LLM-assisted analysis | Regulatory compliance, contract and claim analysis | W13 |
+| C7 | Reinforcement learning and sequential decision modeling | Decisions under uncertainty over time | W13 (short) |
+
+### D. Design-oriented and engaged
+
+| # | Method | Typical CEM use | Week |
+|---|---|---|---|
+| D0 | **CIFE horseshoe research process** | The field's own formalization of problem-driven, artifact-producing research | **W3 (opened), W14 (closed)** |
+| D1 | Design science research / artifact-building research | Frameworks, tools, systems — the most common unexamined CEM mode | W14 |
+| D2 | Action research / action design research | Lean implementation, industry-embedded change | W14 |
+| D3 | Academia–industry collaborative research | Consortium- and CII-style research programs | W14 |
+
+### E. Synthesis and meta-level
+
+| # | Method | Typical CEM use | Week |
+|---|---|---|---|
+| E1 | Systematic literature review (PRISMA) | Evidence synthesis | W4 |
+| E2 | Scientometric / bibliometric mapping | Field mapping, trend identification | W2 (lab), W4 |
+| E3 | Meta-analysis | Rare in CEM; large opportunity | W4 |
+| E4 | Conceptual / theory-building papers | Framework papers | W3, W4 |
+
+**Cross-cutting concerns**, taught alongside rather than as separate weeks: construct validity and measurement (W7), reliability and intercoder agreement (W5), common method bias (W7), causal identification (W10), verification & validation (W12), generalization and external validity (W14), reproducibility and preregistration (W10, W13), research ethics and IRB (pre-course module + W4 briefing + W5 opening, see §4.6).
+
+---
