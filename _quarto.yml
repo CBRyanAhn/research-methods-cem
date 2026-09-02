@@ -32,7 +32,7 @@ website:
       - href: changelog.qmd
         text: What changed
   page-footer:
-    center: "Last updated: {{< meta last-updated >}} · [What changed](changelog.qmd)"
+    center: "Last updated: {{< meta last-updated >}} · [What changed](/changelog.qmd)"
   search: true
 
 format:
