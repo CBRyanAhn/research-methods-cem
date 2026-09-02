@@ -73,6 +73,7 @@ You are not summarizing the reading. You are explaining **the logic of the metho
 **Read closely:** Kvale & Brinkmann Ch. 5–7.
 
 Your 10 minutes should get at:
+
 - What kind of object an interview transcript is. Kvale & Brinkmann's "miner vs. traveler" framing is the useful lever here: is the interview extracting knowledge that already sits inside the informant, or is it producing knowledge jointly in the conversation? These two positions lead to different interview guides and different claims.
 - The decision points a researcher actually faces: how structured, how many, when to stop, whether to send questions ahead, whether to record.
 - One thing people get wrong. Suggested: treating "number of interviews" as the quality signal, when the binding constraint is usually the quality of the guide and the researcher's follow-up probes.
@@ -83,6 +84,7 @@ Your 10 minutes should get at:
 **Read closely:** Braun & Clarke (2006); Gioia et al. (2013); Saldaña Ch. 1–3; O'Connor & Joffe (2020).
 
 Your 10 minutes should get at:
+
 - Braun & Clarke's six phases, but the part worth your airtime is their insistence that themes do not "emerge" — the researcher constructs them. Explain why that matters for how you write a methods section.
 - The inductive/deductive and semantic/latent axes, with one CEM example of each.
 - The Gioia structure (1st-order informant terms → 2nd-order theoretical themes → aggregate dimensions) as a *different* answer to the same problem, and when you'd pick it over Braun & Clarke.
@@ -147,6 +149,7 @@ Also: state clearly what the *unit of analysis* is. Is it the utility? The commu
 Very different animal: ethnographic observation of BIM coordination meetings, building an argument that the technology's structure does not dissolve the organizational divisions between trades — the productive work happens in informal, unstructured "messy talk" that clean technology tends to squeeze out.
 
 Your job:
+
 - Reconstruct how they got from field observation to that argument. What counted as evidence? How many sites, how much time?
 - Be precise about the claim's scope. Is this a claim about BIM, about these projects, or about the relationship between technological structure and organizational structure generally?
 - Read the 2010 *JCEM* paper as background. Same fieldwork, different argument. **Put one line on your slide about how the same data supported two papers** — that's a genuinely useful thing for MS students to see.
@@ -170,6 +173,7 @@ Attack the paper's validity — properly, in writing, on the form real reviewers
 ### Where to look, for these two papers
 
 For a qualitative study, productive lines of attack usually run through:
+
 - **Sampling and access.** Who could have been interviewed but wasn't, and would their absence change the conclusion? For Spearing et al., who in rural Alaskan water systems is structurally hard to reach? For Dossick & Neff, whose meetings were observed and whose weren't?
 - **The coding apparatus.** Was a codebook developed before or after seeing the data? Was any of the corpus double-coded, and if so, is the reported agreement statistic the right one for that coding scheme? Read O'Connor & Joffe before you write this section — it will keep you from making the lazy version of this critique.
 - **The inferential leap.** Between a coded excerpt and a claimed theme there is a gap. Point at a specific place where you think the gap is too wide, and say what additional evidence would close it.
@@ -212,6 +216,7 @@ Choose for productivity, not politeness. The best opening question is one where 
 
 ### During class (25 minutes)
 You are chairing, not presenting. Practically:
+
 - Open with your first chosen ticket, addressed to a specific person — "Seoyeon, you argued X in your Method Card; this ticket says the opposite. Take it."
 - Track who has spoken. In a 16-person room, four people will take 80% of the airtime unless someone stops it. Stopping it is your job.
 - When the discussion loops, say so and move to the second question.
@@ -219,6 +224,7 @@ You are chairing, not presenting. Practically:
 
 ### After class (by Sat 10/3, 18:00)
 A **300-word synthesis** posted to the course site. Not minutes. Structure:
+
 1. The question the room actually spent its time on (often not the one on the syllabus)
 2. The two strongest opposing positions, stated fairly
 3. What remained unresolved
@@ -262,6 +268,7 @@ Everyone, in pairs.
 3. **(15 min)** Half the room (assigned in class) re-codes with LLM assistance. Compare: does α go up? Does code granularity change? **What disappears?**
 
 **Deliverable (2–3 pages, due 10/8):**
+
 - Coding memo — where you and your partner diverged, and why
 - Reliability table — α per code, not just overall
 - One page: where human and LLM-assisted coding diverged, and what that implies for whether an LLM can be a "second coder" at all
