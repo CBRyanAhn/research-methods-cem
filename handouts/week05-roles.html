@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Week 5 — How the seminar actually works – Research Methods in CEM</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-e3adbaa939bcd423dddc8c8a834270b4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Research Methods in CEM</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../calendar.html"> 
+<span class="menu-text">Calendar</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../schedule.html"> 
+<span class="menu-text">Weekly schedule</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../syllabus.html"> 
+<span class="menu-text">How the course works</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../methods.html"> 
+<span class="menu-text">Methods inventory</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../readings.html"> 
+<span class="menu-text">Reference shelf</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-handouts" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Handouts</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-handouts">    
+        <li>
+    <a class="dropdown-item" href="../handouts/week05-roles.html">
+ <span class="dropdown-text">Week 5 — role walkthrough</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../changelog.html"> 
+<span class="menu-text">What changed</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-week-at-a-glance" id="toc-the-week-at-a-glance" class="nav-link active" data-scroll-target="#the-week-at-a-glance">1. The week at a glance</a></li>
+  <li><a href="#the-readings-and-who-owns-what" id="toc-the-readings-and-who-owns-what" class="nav-link" data-scroll-target="#the-readings-and-who-owns-what">2. The readings, and who owns what</a></li>
+  <li><a href="#running-order-for-101" id="toc-running-order-for-101" class="nav-link" data-scroll-target="#running-order-for-101">3. Running order for 10/1</a></li>
+  <li><a href="#role-method-lead-2-students" id="toc-role-method-lead-2-students" class="nav-link" data-scroll-target="#role-method-lead-2-students">4. Role: Method Lead (2 students)</a>
+  <ul class="collapse">
+  <li><a href="#what-you-are-for" id="toc-what-you-are-for" class="nav-link" data-scroll-target="#what-you-are-for">What you are for</a></li>
+  <li><a href="#minjae-method-lead-1-the-interview-as-an-instrument" id="toc-minjae-method-lead-1-the-interview-as-an-instrument" class="nav-link" data-scroll-target="#minjae-method-lead-1-the-interview-as-an-instrument">Minjae — Method Lead 1: the interview as an instrument</a></li>
+  <li><a href="#seoyeon-method-lead-2-from-transcript-to-theme-and-the-reliability-question" id="toc-seoyeon-method-lead-2-from-transcript-to-theme-and-the-reliability-question" class="nav-link" data-scroll-target="#seoyeon-method-lead-2-from-transcript-to-theme-and-the-reliability-question">Seoyeon — Method Lead 2: from transcript to theme, and the reliability question</a></li>
+  <li><a href="#what-you-submit-mon-928" id="toc-what-you-submit-mon-928" class="nav-link" data-scroll-target="#what-you-submit-mon-928">What you submit (Mon 9/28)</a></li>
+  </ul></li>
+  <li><a href="#role-exemplar-analyst-2-students" id="toc-role-exemplar-analyst-2-students" class="nav-link" data-scroll-target="#role-exemplar-analyst-2-students">5. Role: Exemplar Analyst (2 students)</a>
+  <ul class="collapse">
+  <li><a href="#what-you-are-for-1" id="toc-what-you-are-for-1" class="nav-link" data-scroll-target="#what-you-are-for-1">What you are for</a></li>
+  <li><a href="#the-one-slide" id="toc-the-one-slide" class="nav-link" data-scroll-target="#the-one-slide">The one slide</a></li>
+  <li><a href="#haneul-spearing-et-al.-2022" id="toc-haneul-spearing-et-al.-2022" class="nav-link" data-scroll-target="#haneul-spearing-et-al.-2022">Haneul — Spearing et al.&nbsp;(2022)</a></li>
+  <li><a href="#jiwon-dossick-neff-2011" id="toc-jiwon-dossick-neff-2011" class="nav-link" data-scroll-target="#jiwon-dossick-neff-2011">Jiwon — Dossick &amp; Neff (2011)</a></li>
+  <li><a href="#what-you-submit-mon-928-1" id="toc-what-you-submit-mon-928-1" class="nav-link" data-scroll-target="#what-you-submit-mon-928-1">What you submit (Mon 9/28)</a></li>
+  </ul></li>
+  <li><a href="#role-skeptic-2-students" id="toc-role-skeptic-2-students" class="nav-link" data-scroll-target="#role-skeptic-2-students">6. Role: Skeptic (2 students)</a>
+  <ul class="collapse">
+  <li><a href="#what-you-are-for-2" id="toc-what-you-are-for-2" class="nav-link" data-scroll-target="#what-you-are-for-2">What you are for</a></li>
+  <li><a href="#where-to-look-for-these-two-papers" id="toc-where-to-look-for-these-two-papers" class="nav-link" data-scroll-target="#where-to-look-for-these-two-papers">Where to look, for these two papers</a></li>
+  <li><a href="#what-you-submit-mon-928-2" id="toc-what-you-submit-mon-928-2" class="nav-link" data-scroll-target="#what-you-submit-mon-928-2">What you submit (Mon 9/28)</a></li>
+  </ul></li>
+  <li><a href="#role-discussant-scribe-1-student" id="toc-role-discussant-scribe-1-student" class="nav-link" data-scroll-target="#role-discussant-scribe-1-student">7. Role: Discussant / Scribe (1 student)</a>
+  <ul class="collapse">
+  <li><a href="#before-class-wed-evening" id="toc-before-class-wed-evening" class="nav-link" data-scroll-target="#before-class-wed-evening">Before class (Wed evening)</a></li>
+  <li><a href="#during-class-25-minutes" id="toc-during-class-25-minutes" class="nav-link" data-scroll-target="#during-class-25-minutes">During class (25 minutes)</a></li>
+  <li><a href="#after-class-by-sat-103-1800" id="toc-after-class-by-sat-103-1800" class="nav-link" data-scroll-target="#after-class-by-sat-103-1800">After class (by Sat 10/3, 18:00)</a></li>
+  </ul></li>
+  <li><a href="#if-you-dont-have-a-role-this-week-nine-of-you" id="toc-if-you-dont-have-a-role-this-week-nine-of-you" class="nav-link" data-scroll-target="#if-you-dont-have-a-role-this-week-nine-of-you">8. If you don’t have a role this week (nine of you)</a></li>
+  <li><a href="#lab-2-40-min-in-class-deliverable-due-108" id="toc-lab-2-40-min-in-class-deliverable-due-108" class="nav-link" data-scroll-target="#lab-2-40-min-in-class-deliverable-due-108">9. Lab 2 (40 min in class, deliverable due 10/8)</a></li>
+  <li><a href="#how-this-is-graded" id="toc-how-this-is-graded" class="nav-link" data-scroll-target="#how-this-is-graded">10. How this is graded</a></li>
+  <li><a href="#one-thing-to-keep-in-mind-this-week" id="toc-one-thing-to-keep-in-mind-this-week" class="nav-link" data-scroll-target="#one-thing-to-keep-in-mind-this-week">11. One thing to keep in mind this week</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Week 5 — How the seminar actually works</h1>
+<p class="subtitle lead">Qualitative I: interviews, coding, and the reliability problem · Thursday 10/1 · 150 minutes</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>This handout exists so nobody has to guess what their role means. It follows one week — Week 5 — from the moment roles are announced to the moment the Discussant’s synthesis is posted. Read the section for your role; skim the others so you know what your classmates are preparing.</p>
+<p>Seven of you hold roles this week. The other nine submit entry tickets. Everybody does the lab.</p>
+<hr>
+<section id="the-week-at-a-glance" class="level2">
+<h2 class="anchored" data-anchor-id="the-week-at-a-glance">1. The week at a glance</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>When</th>
+<th>Who</th>
+<th>What happens</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Thu 9/24, in class</strong></td>
+<td>Instructor</td>
+<td>Week 5 roles confirmed; papers assigned to the Exemplar Analysts and Skeptics</td>
+</tr>
+<tr class="even">
+<td><strong>Sun 9/27</strong></td>
+<td>Method Leads</td>
+<td>Method Card draft emailed to instructor (optional but recommended — you’ll get comments back by Monday)</td>
+</tr>
+<tr class="odd">
+<td><strong>Mon 9/28</strong></td>
+<td>Everyone with a role</td>
+<td>Slides + written deliverable uploaded to the course site by 18:00. Uploading late means the class can’t prepare.</td>
+</tr>
+<tr class="even">
+<td><strong>Wed 9/30, 18:00</strong></td>
+<td>The other nine</td>
+<td>Entry ticket posted (one question, 2–3 sentences)</td>
+</tr>
+<tr class="odd">
+<td><strong>Wed 9/30, evening</strong></td>
+<td>Discussant</td>
+<td>Read all nine entry tickets; pick two to open with; sketch a running order</td>
+</tr>
+<tr class="even">
+<td><strong>Thu 10/1</strong></td>
+<td>Everyone</td>
+<td>Class</td>
+</tr>
+<tr class="odd">
+<td><strong>Sat 10/3, 18:00</strong></td>
+<td>Discussant</td>
+<td>300-word synthesis posted</td>
+</tr>
+<tr class="even">
+<td><strong>Thu 10/8</strong></td>
+<td>Everyone</td>
+<td>Lab 2 deliverable due (coding memo + reliability table + one page)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="the-readings-and-who-owns-what" class="level2">
+<h2 class="anchored" data-anchor-id="the-readings-and-who-owns-what">2. The readings, and who owns what</h2>
+<p>Everyone reads the ★ items. Role-holders read their own additional items closely.</p>
+<p><strong>Methods readings</strong> | | Reading | Owned by | |—|—|—| | ★ | Braun, V., &amp; Clarke, V. (2006). “Using thematic analysis in psychology.” <em>Qualitative Research in Psychology</em>, 3(2), 77–101. | Everyone (this is the “if you only read one”) | | | Kvale, S., &amp; Brinkmann, S. (2015). <em>InterViews</em> (3rd ed.), Ch. 5–7 | Method Lead 1 | | | Gioia, D. A., Corley, K. G., &amp; Hamilton, A. L. (2013). “Seeking qualitative rigor in inductive research.” <em>Organizational Research Methods</em>, 16(1), 15–31 | Method Lead 2 | | | Saldaña, J. (2021). <em>The Coding Manual for Qualitative Researchers</em> (4th ed.), Ch. 1–3 | Method Lead 2 | | | O’Connor, C., &amp; Joffe, H. (2020). “Intercoder reliability in qualitative research.” <em>IJQM</em>, 19 | Method Lead 2 + both Skeptics |</p>
+<p><strong>CEM exemplars</strong> | | Reading | Owned by | |—|—|—| | ★ | Spearing, L. A., Hamlet, L. C., Stephens, K. K., Kaminsky, J. A., &amp; Faust, K. M. (2022). “Comparing qualitative analysis techniques for CEM research: The case of Arctic water infrastructure.” <em>JCEM</em> | Everyone · analyzed by Exemplar Analyst 1 · attacked by Skeptic 1 | | | Dossick, C. S., &amp; Neff, G. (2011). “Messy talk and clean technology: Communication, problem-solving and collaboration using BIM.” <em>Engineering Project Organization Journal</em>, 1(2), 83–93 | Exemplar Analyst 2 · Skeptic 2 | | | Dossick, C. S., &amp; Neff, G. (2010). “Organizational divisions in BIM-enabled commercial construction.” <em>JCEM</em>, 136(4), 459–467 | Exemplar Analyst 2 (background — same fieldwork, different argument) |</p>
+<hr>
+</section>
+<section id="running-order-for-101" class="level2">
+<h2 class="anchored" data-anchor-id="running-order-for-101">3. Running order for 10/1</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Clock</th>
+<th>Segment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0:00–0:10</td>
+<td><strong>IRB Q&amp;A</strong> — instructor answers common problems in the protocol drafts you submitted today</td>
+</tr>
+<tr class="even">
+<td>0:10–0:25</td>
+<td>Instructor framing: what an interview study can and cannot establish</td>
+</tr>
+<tr class="odd">
+<td>0:25–0:45</td>
+<td><strong>Method Leads</strong> (2 × 10 min)</td>
+</tr>
+<tr class="even">
+<td>0:45–1:00</td>
+<td><strong>Exemplar Analysts</strong> (2 × 7 min)</td>
+</tr>
+<tr class="odd">
+<td>1:00–1:10</td>
+<td><strong>Skeptics</strong> (2 × 5 min)</td>
+</tr>
+<tr class="even">
+<td>1:10–1:35</td>
+<td><strong>Open discussion</strong>, chaired by the Discussant</td>
+</tr>
+<tr class="odd">
+<td>1:35–1:45</td>
+<td>Break</td>
+</tr>
+<tr class="even">
+<td>1:45–2:25</td>
+<td><strong>Lab 2</strong> — coding the shared transcript</td>
+</tr>
+<tr class="odd">
+<td>2:25–2:40</td>
+<td>Instructor synthesis + link back to your Horseshoe Wall entry</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="role-method-lead-2-students" class="level2">
+<h2 class="anchored" data-anchor-id="role-method-lead-2-students">4. Role: Method Lead (2 students)</h2>
+<p><em>This week: Minjae (interviewing) and Seoyeon (coding &amp; reliability)</em></p>
+<section id="what-you-are-for" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-are-for">What you are for</h3>
+<p>You are not summarizing the reading. You are explaining <strong>the logic of the method</strong> — what it assumes, where the researcher has to make a choice, and what the method licenses you to claim at the end. A classmate who missed the reading should leave able to <em>use</em> the method, not just name it.</p>
+</section>
+<section id="minjae-method-lead-1-the-interview-as-an-instrument" class="level3">
+<h3 class="anchored" data-anchor-id="minjae-method-lead-1-the-interview-as-an-instrument">Minjae — Method Lead 1: the interview as an instrument</h3>
+<p><strong>Read closely:</strong> Kvale &amp; Brinkmann Ch. 5–7.</p>
+<p>Your 10 minutes should get at: - What kind of object an interview transcript is. Kvale &amp; Brinkmann’s “miner vs.&nbsp;traveler” framing is the useful lever here: is the interview extracting knowledge that already sits inside the informant, or is it producing knowledge jointly in the conversation? These two positions lead to different interview guides and different claims. - The decision points a researcher actually faces: how structured, how many, when to stop, whether to send questions ahead, whether to record. - One thing people get wrong. Suggested: treating “number of interviews” as the quality signal, when the binding constraint is usually the quality of the guide and the researcher’s follow-up probes.</p>
+<p><strong>Bring a concrete artifact.</strong> Take one question from your own Horseshoe Wall entry and show the class two versions of an interview question that could address it — one leading, one not — and explain which follow-up probes you’d have ready. Two minutes of this is worth ten minutes of abstraction.</p>
+</section>
+<section id="seoyeon-method-lead-2-from-transcript-to-theme-and-the-reliability-question" class="level3">
+<h3 class="anchored" data-anchor-id="seoyeon-method-lead-2-from-transcript-to-theme-and-the-reliability-question">Seoyeon — Method Lead 2: from transcript to theme, and the reliability question</h3>
+<p><strong>Read closely:</strong> Braun &amp; Clarke (2006); Gioia et al.&nbsp;(2013); Saldaña Ch. 1–3; O’Connor &amp; Joffe (2020).</p>
+<p>Your 10 minutes should get at: - Braun &amp; Clarke’s six phases, but the part worth your airtime is their insistence that themes do not “emerge” — the researcher constructs them. Explain why that matters for how you write a methods section. - The inductive/deductive and semantic/latent axes, with one CEM example of each. - The Gioia structure (1st-order informant terms → 2nd-order theoretical themes → aggregate dimensions) as a <em>different</em> answer to the same problem, and when you’d pick it over Braun &amp; Clarke. - Then the hard one: O’Connor &amp; Joffe. When does intercoder reliability make sense at all, and when is reporting a κ or α a ritual borrowed from a paradigm that doesn’t fit? How much of the corpus should be double-coded? Which coefficient, and why not percentage agreement?</p>
+<p><strong>Common failure mode:</strong> spending nine minutes on the six phases and thirty seconds on reliability. The reliability question is the one your classmates will need in the lab an hour later. Budget accordingly.</p>
+</section>
+<section id="what-you-submit-mon-928" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-submit-mon-928">What you submit (Mon 9/28)</h3>
+<p>A <strong>1-page Method Card</strong>. One page means one page. Template:</p>
+<pre><code>METHOD CARD — [method name]                        [your name] · Week 5
+
+WHAT IT IS (2 sentences, no jargon)
+
+CORE ASSUMPTIONS (3 bullets — what must be true for this to work)
+
+DECISION POINTS (the 3–4 choices a researcher must make, and what
+                 each choice costs)
+
+WHAT IT LICENSES YOU TO CLAIM
+WHAT IT DOES NOT LICENSE
+
+MOST COMMON MISUSE IN CEM PAPERS
+
+HORSESHOE BOX SERVED: ____________________
+   (and one sentence on why)</code></pre>
+<p>The last line is not decoration. Every Method Card in this course ends by placing the method inside Fischer’s horseshoe. For Week 5 the honest answer is probably <em>Research Tasks</em>, but a good argument that thematic analysis can also reshape your <em>Theoretical Limitation</em> box would be more interesting.</p>
+<hr>
+</section>
+</section>
+<section id="role-exemplar-analyst-2-students" class="level2">
+<h2 class="anchored" data-anchor-id="role-exemplar-analyst-2-students">5. Role: Exemplar Analyst (2 students)</h2>
+<p><em>This week: Haneul (Spearing et al.) and Jiwon (Dossick &amp; Neff)</em></p>
+<section id="what-you-are-for-1" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-are-for-1">What you are for</h3>
+<p>Reverse-engineer the paper. Not “what did they find” — <strong>how is the claim built, and what holds it up.</strong> You get 7 minutes and one slide.</p>
+</section>
+<section id="the-one-slide" class="level3">
+<h3 class="anchored" data-anchor-id="the-one-slide">The one slide</h3>
+<pre><code>[Paper, one line]
+
+RESEARCH QUESTION      →  as actually answered, not as stated in the abstract
+DESIGN                 →  what kind of study is this
+DATA                   →  who, how many, how long, collected how
+ANALYSIS               →  what was done to the data, in what order
+CLAIM                  →  the single sentence the paper is really asserting
+WHAT HOLDS IT UP       →  the specific evidence for that sentence
+LIMITS                 →  where the claim stops</code></pre>
+</section>
+<section id="haneul-spearing-et-al.-2022" class="level3">
+<h3 class="anchored" data-anchor-id="haneul-spearing-et-al.-2022">Haneul — Spearing et al.&nbsp;(2022)</h3>
+<p>This is an unusual paper and that’s why it’s here: the authors apply <strong>more than one analysis technique to the same interview dataset</strong> (Arctic water and wastewater infrastructure in rural Alaska) and compare what each surfaces. Deductive content analysis produces frequency tables of pre-specified challenge categories; other passes surface challenges the researchers hadn’t anticipated.</p>
+<p>Your job is to show the class exactly <strong>where the techniques diverged</strong>. Find a specific finding that one technique produced and another did not, and put it on the slide. That single concrete divergence is the whole point of assigning this paper.</p>
+<p>Also: state clearly what the <em>unit of analysis</em> is. Is it the utility? The community? The excerpt? Papers like this are easy to misread on that point, and it determines what the frequency tables mean.</p>
+</section>
+<section id="jiwon-dossick-neff-2011" class="level3">
+<h3 class="anchored" data-anchor-id="jiwon-dossick-neff-2011">Jiwon — Dossick &amp; Neff (2011)</h3>
+<p>Very different animal: ethnographic observation of BIM coordination meetings, building an argument that the technology’s structure does not dissolve the organizational divisions between trades — the productive work happens in informal, unstructured “messy talk” that clean technology tends to squeeze out.</p>
+<p>Your job: - Reconstruct how they got from field observation to that argument. What counted as evidence? How many sites, how much time? - Be precise about the claim’s scope. Is this a claim about BIM, about these projects, or about the relationship between technological structure and organizational structure generally? - Read the 2010 <em>JCEM</em> paper as background. Same fieldwork, different argument. <strong>Put one line on your slide about how the same data supported two papers</strong> — that’s a genuinely useful thing for MS students to see.</p>
+</section>
+<section id="what-you-submit-mon-928-1" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-submit-mon-928-1">What you submit (Mon 9/28)</h3>
+<p>The slide itself. That’s it — one slide, uploaded as PDF or image.</p>
+<p><strong>Common failure mode:</strong> producing a summary. If your slide could have been written after reading only the abstract and conclusion, you haven’t done the assignment. The Design/Data/Analysis rows are where the work is.</p>
+<hr>
+</section>
+</section>
+<section id="role-skeptic-2-students" class="level2">
+<h2 class="anchored" data-anchor-id="role-skeptic-2-students">6. Role: Skeptic (2 students)</h2>
+<p><em>This week: Taeyang (Spearing et al.) and Eunji (Dossick &amp; Neff)</em></p>
+<section id="what-you-are-for-2" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-are-for-2">What you are for</h3>
+<p>Attack the paper’s validity — properly, in writing, on the form real reviewers use. You get 5 minutes to present the sharpest two points from your report.</p>
+<p><strong>The rule that matters:</strong> repeating a limitation the authors already stated in their own limitations section scores low. They already know. Your job is to find what they <em>didn’t</em> say.</p>
+</section>
+<section id="where-to-look-for-these-two-papers" class="level3">
+<h3 class="anchored" data-anchor-id="where-to-look-for-these-two-papers">Where to look, for these two papers</h3>
+<p>For a qualitative study, productive lines of attack usually run through: - <strong>Sampling and access.</strong> Who could have been interviewed but wasn’t, and would their absence change the conclusion? For Spearing et al., who in rural Alaskan water systems is structurally hard to reach? For Dossick &amp; Neff, whose meetings were observed and whose weren’t? - <strong>The coding apparatus.</strong> Was a codebook developed before or after seeing the data? Was any of the corpus double-coded, and if so, is the reported agreement statistic the right one for that coding scheme? Read O’Connor &amp; Joffe before you write this section — it will keep you from making the lazy version of this critique. - <strong>The inferential leap.</strong> Between a coded excerpt and a claimed theme there is a gap. Point at a specific place where you think the gap is too wide, and say what additional evidence would close it. - <strong>Rival explanations.</strong> Name one alternative account of the same data that the paper doesn’t rule out. - <strong>Transferability.</strong> Not “this is only one context” — that’s the lazy version. Instead: <em>which specific feature</em> of this context does the finding depend on, and what would have to be true elsewhere for it to travel?</p>
+</section>
+<section id="what-you-submit-mon-928-2" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-submit-mon-928-2">What you submit (Mon 9/28)</h3>
+<p>A <strong>1-page referee report</strong> on the ASCE reviewer form. Structure it like a real one:</p>
+<pre><code>SUMMARY OF THE PAPER (3 sentences, neutral — prove you read it fairly)
+
+MAJOR CONCERNS (2–3, numbered, each with: what the problem is,
+                why it threatens the conclusion, and what would fix it)
+
+MINOR CONCERNS (2–3, brief)
+
+RECOMMENDATION (accept / minor revision / major revision / reject)
+                — and you must actually pick one</code></pre>
+<p>A worked fragment, so the register is clear:</p>
+<blockquote class="blockquote">
+<p><strong>Major concern 2.</strong> The codebook (Table 1) is presented as the analytical starting point, but the paper does not state whether it was derived from the literature before data collection or constructed after an initial pass through the transcripts. This matters because the frequency counts in Table 1 are used to support a claim about the <em>relative</em> prominence of challenge categories — and if the categories were drawn from the data, those frequencies are partly an artifact of the coding scheme rather than a finding about the sites. <em>Suggested fix:</em> state the provenance of the codebook explicitly, and if it was data-derived, either drop the comparative language or support it with a second, independently developed coding pass.</p>
+</blockquote>
+<p>Note what that does: names the problem, links it to a specific claim, proposes a remedy. Three sentences. That’s the standard.</p>
+<p><strong>Common failure mode:</strong> hostility. A referee report is not a takedown. The tone that earns full marks is the tone of someone who wants the paper to get better.</p>
+<hr>
+</section>
+</section>
+<section id="role-discussant-scribe-1-student" class="level2">
+<h2 class="anchored" data-anchor-id="role-discussant-scribe-1-student">7. Role: Discussant / Scribe (1 student)</h2>
+<p><em>This week: Dohyun</em></p>
+<section id="before-class-wed-evening" class="level3">
+<h3 class="anchored" data-anchor-id="before-class-wed-evening">Before class (Wed evening)</h3>
+<p>Read all nine entry tickets. Group them — you’ll usually find they cluster into three or four underlying questions even when nine different things were asked. <strong>Pick two to open with</strong>, and email the instructor which two by Wednesday night so the framing segment can set them up.</p>
+<p>Choose for productivity, not politeness. The best opening question is one where two readings of the week genuinely disagree.</p>
+</section>
+<section id="during-class-25-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="during-class-25-minutes">During class (25 minutes)</h3>
+<p>You are chairing, not presenting. Practically: - Open with your first chosen ticket, addressed to a specific person — “Seoyeon, you argued X in your Method Card; this ticket says the opposite. Take it.” - Track who has spoken. In a 16-person room, four people will take 80% of the airtime unless someone stops it. Stopping it is your job. - When the discussion loops, say so and move to the second question. - Reserve the last three minutes to ask the room: <em>what did we not resolve?</em> That unresolved thing goes in your synthesis.</p>
+</section>
+<section id="after-class-by-sat-103-1800" class="level3">
+<h3 class="anchored" data-anchor-id="after-class-by-sat-103-1800">After class (by Sat 10/3, 18:00)</h3>
+<p>A <strong>300-word synthesis</strong> posted to the course site. Not minutes. Structure: 1. The question the room actually spent its time on (often not the one on the syllabus) 2. The two strongest opposing positions, stated fairly 3. What remained unresolved 4. One sentence: what this changes about how you’d design a qualitative study</p>
+<p>These accumulate. By December the class will have built its own methods notebook out of thirteen of these.</p>
+<hr>
+</section>
+</section>
+<section id="if-you-dont-have-a-role-this-week-nine-of-you" class="level2">
+<h2 class="anchored" data-anchor-id="if-you-dont-have-a-role-this-week-nine-of-you">8. If you don’t have a role this week (nine of you)</h2>
+<p><strong>Entry ticket, due Wed 9/30 18:00. One question, 2–3 sentences.</strong></p>
+<p>The bar: your question should be answerable only by someone who did the reading, and it should not have a settled answer.</p>
+<p>Weak: &gt; What is thematic analysis?</p>
+<p>Also weak (a comment, not a question): &gt; I found Braun and Clarke very useful and I agree that themes are constructed.</p>
+<p>Strong: &gt; Braun &amp; Clarke insist themes are constructed by the researcher, not discovered. Spearing et al.&nbsp;report frequency counts of coded categories. Are those two positions compatible — can you count something you constructed and still call the count evidence?</p>
+<p>Strong: &gt; O’Connor &amp; Joffe argue intercoder reliability is only appropriate under certain conditions. Dossick &amp; Neff report ethnographic observation with no reliability statistic at all. Is that a gap in the paper, or is a reliability statistic simply the wrong instrument for what they were doing?</p>
+<p>Strong: &gt; Dossick &amp; Neff got two papers with different arguments out of one body of fieldwork. At what point does that become double-dipping rather than legitimate secondary analysis?</p>
+<p>Both of the first two examples above happen to also work as opening questions — which is what the Discussant is looking for.</p>
+<hr>
+</section>
+<section id="lab-2-40-min-in-class-deliverable-due-108" class="level2">
+<h2 class="anchored" data-anchor-id="lab-2-40-min-in-class-deliverable-due-108">9. Lab 2 (40 min in class, deliverable due 10/8)</h2>
+<p>Everyone, in pairs.</p>
+<ol type="1">
+<li><strong>(15 min)</strong> You’ll receive the same anonymized construction interview transcript and a shared six-code codebook. Code it independently — no talking to your partner yet.</li>
+<li><strong>(10 min)</strong> Compute pairwise Krippendorff’s α against your partner. R: <code>irr::kripp.alpha()</code>. Python: <code>krippendorff.alpha()</code>. Both will be pre-installed on the lab machines; a starter script is on the course site.</li>
+<li><strong>(15 min)</strong> Half the room (assigned in class) re-codes with LLM assistance. Compare: does α go up? Does code granularity change? <strong>What disappears?</strong></li>
+</ol>
+<p><strong>Deliverable (2–3 pages, due 10/8):</strong> - Coding memo — where you and your partner diverged, and why - Reliability table — α per code, not just overall - One page: where human and LLM-assisted coding diverged, and what that implies for whether an LLM can be a “second coder” at all</p>
+<p>The interesting result is usually not the α value. It’s the argument you and your partner have in step 2 about why one of you coded an excerpt as <em>resource constraint</em> and the other as <em>institutional barrier</em>. Write that argument down — it’s the actual finding.</p>
+<hr>
+</section>
+<section id="how-this-is-graded" class="level2">
+<h2 class="anchored" data-anchor-id="how-this-is-graded">10. How this is graded</h2>
+<p>Seminar roles are 20% of the course, spread over your ~4 turns. Each turn is scored 0–5 on four criteria:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>5</th>
+<th>3</th>
+<th>1</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Grasp of the method’s logic</td>
+<td>Explains assumptions and what the method licenses</td>
+<td>Describes procedure correctly</td>
+<td>Summarizes the reading</td>
+</tr>
+<tr class="even">
+<td>Critical engagement</td>
+<td>Identifies non-obvious threats and alternatives</td>
+<td>Names standard limitations</td>
+<td>Repeats the paper’s stated limitations</td>
+</tr>
+<tr class="odd">
+<td>Transfer</td>
+<td>Connects to the horseshoe and to classmates’ proposals</td>
+<td>Generic connection</td>
+<td>None</td>
+</tr>
+<tr class="even">
+<td>Delivery</td>
+<td>On time, clear, discussion-provoking</td>
+<td>Clear</td>
+<td>Reads slides</td>
+</tr>
+</tbody>
+</table>
+<p>The written deliverable (Method Card / slide / referee report) and the live segment are graded together as one turn.</p>
+<p>Entry tickets are credit/no-credit, part of the 10% attendance component. You have two free passes for the semester.</p>
+<hr>
+</section>
+<section id="one-thing-to-keep-in-mind-this-week" class="level2">
+<h2 class="anchored" data-anchor-id="one-thing-to-keep-in-mind-this-week">11. One thing to keep in mind this week</h2>
+<p>Week 5 is the first week where the method you’re studying might actually be the method you use. When you leave, go update your Horseshoe Wall entry. If thematic analysis or a Gioia-style structure could fill your <em>Research Tasks</em> box, say so and say what data you’d need. If it clearly can’t, say why — that’s equally useful, and it’s the kind of ruling-out that makes a proposal defensible in December.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/cbryanahn\.github\.io\/research-methods-cem\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Last updated: 2026-09-02 · <a href="../changelog.html">What changed</a></p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
