@@ -36,14 +36,20 @@ Dates match §1.
 
 **Era teams and landmark works.** Read both works for your era before class.
 
-- **1955–75 (emergence).** Bidding theory and bidding models (Gates, Carr and others) · Discrete-event simulation: CYCLONE (Halpin and others).
-- **1975–95 (institutionalization).** Lean construction (Howell, Tommelein, Ballard) · Construction innovation (Tatum).
-- **1995–2005.** 4D CAD (Fischer) · Economic input–output life cycle assessment, EIO-LCA (Hendrickson, Horvath).
-- **2005–present (reality capture, automation, and the turn toward social science).** D4AR automated progress monitoring (Golparvar-Fard, Peña-Mora) · Institutional analysis of global projects (Scott, Levitt, Orr).
+- **1955–75 — emergence**
+  - Gates, M. (1967). "Bidding strategies and probabilities." *Journal of the Construction Division*, 93(1), 75–110.
+  - Halpin, D. W. (1977). "CYCLONE — method for modeling job site processes." *Journal of the Construction Division*, 103(3), 489–499.
+- **1975–95 — institutionalization**
+  - Tatum, C. B. (1987). "Process of innovation in construction firm." *JCEM*, 113(4), 648–663.
+  - Ballard, G., & Howell, G. (1998). "Shielding production: Essential step in production control." *JCEM*, 124(1), 11–17.
+- **1995–2005**
+  - Hendrickson, C., Horvath, A., Joshi, S., & Lave, L. (1998). "Economic input–output models for environmental life-cycle assessment." *Environmental Science & Technology*, 32(7), 184A–191A.
+  - Koo, B., & Fischer, M. (2000). "Feasibility study of 4D CAD in commercial construction." *JCEM*, 126(4), 251–260.
+- **2005–present — reality capture, automation, and the turn toward social science**
+  - Golparvar-Fard, M., Peña-Mora, F., & Savarese, S. (2011). "Integrated sequential as-built and as-planned representation with D4AR tools in support of decision-making tasks in the AEC/FM industry." *JCEM*, 137(12), 1099–1116.
+  - Scott, W. R., Levitt, R. E., & Orr, R. J. (Eds.) (2011). *Global Projects: Institutional and Political Challenges*. Cambridge University Press. **Editors' introduction plus one case chapter of your choice** — not the whole book.
 
-Two of these carry across the semester: 4D CAD is Fischer's own work, which Week 3 uses to build the horseshoe, and D4AR returns in Week 11 as an exemplar you will reverse-engineer. Reading them now is not wasted effort.
-
-<!-- VERIFY: the eight entries name research programmes and principal authors, not specific papers. Pin exact paper, year, volume and DOI before the Week 1 handout. Rationale in instructor/notes.md. -->
+Two of these carry across the semester: Koo & Fischer is Fischer's own work, which Week 3 uses to build the horseshoe, and Golparvar-Fard et al. returns in Week 11 as an exemplar you will reverse-engineer. Reading them now is not wasted effort.
 
 **Readings**
 
