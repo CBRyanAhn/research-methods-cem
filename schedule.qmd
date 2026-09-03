@@ -23,7 +23,7 @@ Dates match §1.
 
 **Admin:** submit your three-choice role preferences; you'll be assigned one published CEM paper to bring to Week 3; **the pre-course ethics module is assigned today, due before Week 4.**
 
-**Assignment for W2:** three things are handed out at the end of today's class — your era team (drawn at random), the two landmark works your team presents, and your individual JCEM volume for the Week 2 lab. Read both landmark works before Week 2. The workshop is a prepared presentation, not an in-class reading session.
+**Assignment for W2:** three things are handed out at the end of today's class — your era team (drawn at random), the landmark works your team presents, and your individual JCEM volume for the Week 2 lab. Read all of your team's landmark works before Week 2. The workshop is a prepared presentation, not an in-class reading session.
 
 ---
 
@@ -32,12 +32,13 @@ Dates match §1.
 
 **Instructor segment (25 min):** the four-era arc — 1955–75 (emergence: Peurifoy, Fondahl's precedence diagramming, Oglesby & Parker's operations analysis, Gates/Carr bidding debate, Halpin's CYCLONE), 1975–95 (institutionalization: JCEM, CRC, CII, CIFE; Ashley on risk sharing; Tatum on innovation; Howell/Tommelein/Ballard on lean; Levitt on organizational design; expert systems, neural nets, GAs), 1995–2005 (Peña-Mora on collaboration technology; sensors, RFID, GPS; Fischer's 4D CAD; Martinez & Kamat simulation; Hendrickson & Horvath EIO-LCA), 2005–present (reality capture, automation, and the turn toward social science).
 
-**Student workshop (4 teams × 4):** teams are drawn at random at the end of Week 1, and each is assigned one era together with the two landmark works listed below. The presentation question is *not* "what did they find" but **"what counted as a legitimate method then, what data existed, and what got it published?"** Each team closes by mapping current CRC / i3CE track names onto their era.
+**Student workshop (4 teams × 4):** teams are drawn at random at the end of Week 1, and each is assigned one era together with the landmark works listed below. The presentation question is *not* "what did they find" but **"what counted as a legitimate method then, what data existed, and what got it published?"** Each team closes by mapping current CRC / i3CE track names onto their era.
 
-**Era teams and landmark works.** Read both works for your era before class.
+**Era teams and landmark works.** Read the works for your era before class — two for most eras, three for 1955–75.
 
-- **1955–75 — emergence**
+- **1955–75 — emergence.** Gates and Carr are a matched pair: read them against each other and report what changed in fifteen years of argument about the same problem. Carr's reply lands in 1982, outside this era's window — the boundary is analytic, not a fence, and saying so out loud is a better presentation than pretending it lines up.
   - Gates, M. (1967). "Bidding strategies and probabilities." *Journal of the Construction Division*, 93(1), 75–110.
+  - Carr, R. I. (1982). "General bidding model." *Journal of the Construction Division*, 108(4), 639–650.
   - Halpin, D. W. (1977). "CYCLONE — method for modeling job site processes." *Journal of the Construction Division*, 103(3), 489–499.
 - **1975–95 — institutionalization**
   - Tatum, C. B. (1987). "Process of innovation in construction firm." *JCEM*, 113(4), 648–663.
