@@ -46,10 +46,10 @@ Dates match §1.
   - Hendrickson, C., Horvath, A., Joshi, S., & Lave, L. (1998). "Economic input–output models for environmental life-cycle assessment." *Environmental Science & Technology*, 32(7), 184A–191A.
   - Koo, B., & Fischer, M. (2000). "Feasibility study of 4D CAD in commercial construction." *JCEM*, 126(4), 251–260.
 - **2005–present — reality capture, automation, and the turn toward social science**
+  - Orr, R. J., & Scott, W. R. (2008). "Institutional exceptions on global projects: a process model." *Journal of International Business Studies*, 39(4), 562–588.
   - Golparvar-Fard, M., Peña-Mora, F., & Savarese, S. (2011). "Integrated sequential as-built and as-planned representation with D4AR tools in support of decision-making tasks in the AEC/FM industry." *JCEM*, 137(12), 1099–1116.
-  - Scott, W. R., Levitt, R. E., & Orr, R. J. (Eds.) (2011). *Global Projects: Institutional and Political Challenges*. Cambridge University Press. **Editors' introduction plus one case chapter of your choice** — not the whole book.
 
-Two of these carry across the semester: Koo & Fischer is Fischer's own work, which Week 3 uses to build the horseshoe, and Golparvar-Fard et al. returns in Week 11 as an exemplar you will reverse-engineer. Reading them now is not wasted effort.
+Two of these carry across the semester: Koo & Fischer is Fischer's own work, which Week 3 uses to build the horseshoe, and Golparvar-Fard et al. returns in Week 11 as an exemplar you will reverse-engineer. Reading them now is not wasted effort. Note also that Orr & Scott is the one item on this list that did not appear in a CEM journal — worth holding onto when your team gets to "what got it published?"
 
 **Readings**
 
