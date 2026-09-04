@@ -55,11 +55,12 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 **Readings**
 
 - Levitt, R. E. (2007). "CEM research for the next 50 years: Maximizing economic, environmental, and societal value of the built environment." *JCEM*, 133(9), 619–628. [Peurifoy Award Lecture]
+- Halpin, D. W. (2007). "Fifty years of progress in construction engineering research." *JCEM*, 133(9), 635–639.
 - Taylor, J. E., & Jaselskis, E. J. (2010). "Introduction to the special issue on research methodologies in CEM." *JCEM*, 136(1), 1–2.
 - Jahren, C. T., et al. (2023). "Second special collection on research methodologies in CEM." *JCEM*, 149(2).
 - CRC and i3CE current track listings (2 pp., handout).
 
-→ **If you only have time for one:** Levitt (2007). It's short, it's the field talking about itself, and every team will need it regardless of which era they draw.
+→ **If you only have time for one:** Halpin (2007). It is the field's own fifty-year retrospective, written by the author of the CYCLONE paper one of your teams is presenting — so it hands you the arc the workshop is built on, from someone who is himself a point on it.
 
 **Lab (method archaeology):** you code the table of contents of the JCEM volume assigned to you in Week 1 — half the class works a volume from the 1980s–90s, half one from the last three years — using the §3 taxonomy. The class assembles a shared method-frequency chart across eras. Bring the volume's contents with you; do not spend lab time hunting for access.
 
