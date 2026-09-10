@@ -105,7 +105,7 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 ---
 
 ## Week 4 (9/24) — Theoretical point of departure: problematization and literature as data
-**⚠️ Falls on Chuseok — see make-up options in §1.**
+**⚠️ Does not meet — 추석 연휴. Asynchronous make-up; your role turn still counts, written instead of presented. See "Sessions that cannot meet" in §1.**
 **Focus:** Filling the left side of the horseshoe — turning "there's a gap" into a defensible theoretical limitation. Framing segment extended by ~15 minutes for the IRB/ethics briefing (§4.6, item 2).
 
 **Methods readings**
@@ -220,6 +220,7 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 ---
 
 ## Week 8 (10/22) — Pre-proposal presentations, peer review, and journal fit
+**⚠️ Does not meet on 10/22 — 건축학회 학술발표대회. This session needs a live make-up rather than an asynchronous one; the date is being fixed and will be announced on ETL. See "Sessions that cannot meet" in §1.**
 No new readings.
 
 1. Present the pre-proposal in 6 minutes + 4 minutes Q&A — problem, gap, question, proposed design, why that design. The horseshoe is the required slide format.
@@ -254,6 +255,7 @@ No new readings.
 ---
 
 ## Week 10 (11/5) — Causal inference: experiments, quasi-experiments, and archival identification
+**⚠️ Does not meet — 건설관리학회 학술발표대회. Asynchronous make-up; your role turn still counts, written instead of presented. See "Sessions that cannot meet" in §1.**
 **Focus:** Internal validity; randomization; single-case and multiple-baseline designs; DiD / IV / matching; preregistration
 *Fischer's "variation studies on retrospective cases" and "charrette test" get their formal treatment here*
 **📌 Response-to-reviewers letters from Week 8 due**
@@ -334,6 +336,7 @@ No new readings.
 ---
 
 ## Week 13 (11/26) — Data-driven research: ML, computer vision, NLP
+**⚠️ Does not meet — AKC 2026. Asynchronous make-up; your role turn still counts, written instead of presented. See "Sessions that cannot meet" in §1.**
 **Focus:** Prediction vs. explanation; leakage; generalization across subjects and sites; reproducibility
 
 **Methods readings**

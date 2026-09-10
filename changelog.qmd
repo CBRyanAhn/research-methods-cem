@@ -4,6 +4,20 @@ title: "What changed"
 
 Newest first. Anything that moves a date or a deadline is also announced on ETL.
 
+## 2026-09-10 — Three more sessions cannot meet; make-ups set
+
+Three conference dates collide with the seminar, on top of the Chuseok block already flagged for Week 4:
+
+- **Week 8 (10/22)** — 건축학회 학술발표대회
+- **Week 10 (11/5)** — 건설관리학회 학술발표대회
+- **Week 13 (11/26)** — AKC 2026
+
+All four blocked sessions are made up. **Weeks 4, 10 and 13 run asynchronously with the role rotation intact** — if your turn falls in one of them you write the deliverable instead of presenting it, and it still counts as your turn. **Week 8 needs a live session**, because it is the pre-proposal presentations and peer review; the make-up date is being fixed and will be announced on ETL.
+
+The response-to-reviewers letters, currently due in Week 10, respond to peer review from Week 8. That deadline follows the Week 8 make-up date and will be announced on ETL rather than moved quietly here.
+
+Shifting the whole calendar back a week — listed as an option while Chuseok was the only conflict — is no longer viable. Four blocked Thursdays would push Week 15 past 12/10 into the exam period.
+
 ## 2026-09-04 — Week 2 required reading changed
 
 The one reading to do if you do nothing else for Week 2 is now Halpin, D. W. (2007). "Fifty years of progress in construction engineering research." *JCEM*, 133(9), 635–639. It has been added to the Week 2 list.

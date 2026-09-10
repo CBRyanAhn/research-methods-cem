@@ -9,25 +9,46 @@ title: "Master calendar"
 | 1 | 9/3 | What counts as knowledge in CEM? (paradigms) | — |
 | 2 | 9/10 | History of CEM research | — |
 | 3 | 9/17 | Formalizing construction knowledge — the CIFE horseshoe | — |
-| 4 | 9/24 | Theoretical point of departure (problematization + literature as data) | **한국 공휴일 — 추석 연휴 (9/24–26, Thu–Sat).** This session falls inside the Chuseok holiday block and cannot meet. **Make-up required** — see options below. |
+| 4 | 9/24 | Theoretical point of departure (problematization + literature as data) | **한국 공휴일 — 추석 연휴 (9/24–26, Thu–Sat).** Cannot meet. **Make-up required** — see below. |
 | 5 | 10/1 | Qualitative I: interviews, coding, reliability *(+ 15-min IRB/ethics briefing)* | — |
 | 6 | 10/8 | Qualitative II: case study, ethnography, mixed methods | — |
 | 7 | 10/15 | Surveys, measurement, Delphi, common method bias — **pre-proposal due** | — |
-| 8 | 10/22 | Pre-proposal presentations, peer review, journal fit | — |
+| 8 | 10/22 | Pre-proposal presentations, peer review, journal fit | **건축학회 학술발표대회.** Cannot meet. **Make-up required** — and this one needs a live session, see below. |
 | 9 | 10/29 | Quantitative modeling and reporting (regression, SEM) | — |
-| 10 | 11/5 | Causal inference (experiments, quasi-experiments, archival) | — |
+| 10 | 11/5 | Causal inference (experiments, quasi-experiments, archival) | **건설관리학회 학술발표대회.** Cannot meet. **Make-up required** — see below. |
 | 11 | 11/12 | Instrumented human-subject research (sensing, eye-tracking, XR) — Horseshoe Wall checkpoint | — |
 | 12 | 11/19 | Simulation as a research method (DES, SD, ABM) | — |
-| 13 | 11/26 | Data-driven research (ML, CV, NLP) | — |
+| 13 | 11/26 | Data-driven research (ML, CV, NLP) | **AKC 2026.** Cannot meet. **Make-up required** — see below. |
 | 14 | 12/3 | Closing the horseshoe: design science, action research, optimization, validation — **final proposal due** | — |
 | 15 | 12/10 | **Final proposal defense (mock review panel)** | — |
 
-**Make-up options for Week 4 (9/24 Chuseok):**
+## Sessions that cannot meet
 
-- **(a) Shift the whole calendar back one week.**
-- **(b) Asynchronous make-up.** Recorded framing lecture; Method Lead / Exemplar Analyst / Skeptic segments submitted as write-ups instead of presented live; 15 minutes of live Q&A folded into the start of Week 5.
-- **(c) Use a university-designated make-up day**, if the academic calendar has one near Chuseok.
+Four of the fifteen Thursdays are blocked — one public holiday and three conferences. All four are made up. The form of the make-up is not the same for all of them, because what those sessions do is not the same.
 
-Option (b) is the lowest-disruption choice if the rest of the calendar must stay fixed. No other Thursday in this span coincides with a 2026 Korean public holiday (Gaecheonjeol falls on Saturday 10/3, its substitute holiday on Monday 10/5; Hangeul Day falls on Friday 10/9 — neither touches a Thursday). Reconfirm both closer to the semester.
+| Week | Date | Why | What that session carries |
+|---|---|---|---|
+| 4 | 9/24 | 추석 연휴 (9/24–26) | Framing week; the 15-minute IRB/ethics briefing; roles run |
+| 8 | 10/22 | 건축학회 학술발표대회 | Pre-proposal presentations and live peer review |
+| 10 | 11/5 | 건설관리학회 학술발표대회 | Causal inference; roles run; response-to-reviewers letters due |
+| 13 | 11/26 | AKC 2026 | Data-driven research; roles run |
+
+**Shifting the whole calendar is no longer on the table.** It was a live option when Chuseok was the only conflict. With four blocked Thursdays spread from September to November, shifting would push Week 15 past 12/10 and into the exam period.
+
+**Weeks 4, 10 and 13 — asynchronous, with the role rotation preserved.** Recorded framing lecture; Method Lead, Exemplar Analyst and Skeptic segments submitted as written deliverables instead of presented live; entry tickets posted on the usual schedule; 15 minutes of live Q&A folded into the start of the following session. If you hold a role in one of these weeks, **it still counts as your turn** — you write it instead of presenting it.
+
+**Week 8 needs a live meeting.** It is sixteen people presenting to each other and reviewing each other in the room; converting it to uploads removes the thing being assessed. Two workable options:
+
+- **(a) A rescheduled session in the week of 10/22**, on a day the room and the class are both free.
+- **(b) Fold the presentations into Week 9 (10/29)** and run that session long, with the regression/SEM material compressed and its overflow moved into the Week 10 make-up package.
+
+Option (a) is better if a slot exists. Option (b) costs Week 9 its own depth and leans on a Week 10 that is already a make-up.
+
+**One knock-on to watch.** Response-to-reviewers letters are currently due in Week 10 (11/5), and they respond to peer review from Week 8 (10/22). Both of those sessions have moved. Whatever is decided for Week 8, the letters follow it — the deadline is announced on ETL once the Week 8 date is fixed, not silently changed here.
+
+**Still to be fixed:** the Week 8 make-up date, and therefore the response-to-reviewers deadline. Everything else on this page is settled.
+
+No other Thursday in this span coincides with a 2026 Korean public holiday (Gaecheonjeol falls on Saturday 10/3, its substitute holiday on Monday 10/5; Hangeul Day falls on Friday 10/9 — neither touches a Thursday).
+
 
 ---
