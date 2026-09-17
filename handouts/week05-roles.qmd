@@ -1,11 +1,11 @@
 ---
-title: "Week 5 — How the seminar actually works"
-subtitle: "Qualitative I: interviews, coding, and the reliability problem · Thursday 10/1 · 150 minutes"
+title: "Week 6 — How the seminar actually works"
+subtitle: "Qualitative I: interviews, coding, and the reliability problem · Thursday 10/8 · 150 minutes"
 ---
 
-This handout exists so nobody has to guess what their role means. It follows one week — Week 5 — from the moment roles are announced to the moment the Discussant's synthesis is posted. Read the section for your role; skim the others so you know what your classmates are preparing.
+This handout exists so nobody has to guess what their role means. It follows one week — Week 6 — from the moment roles are announced to the moment the Discussant's synthesis is posted. Read the section for your role; skim the others so you know what your classmates are preparing.
 
-Seven of you hold roles this week. The other nine submit entry tickets. Everybody does the lab.
+Seven of you hold roles this week. The other five submit entry tickets. Everybody does the lab.
 
 ---
 
@@ -13,14 +13,14 @@ Seven of you hold roles this week. The other nine submit entry tickets. Everybod
 
 | When | Who | What happens |
 |---|---|---|
-| **Thu 9/24** | Instructor | Week 5 roles confirmed; papers assigned to the Exemplar Analysts and Skeptics. Week 4 does not meet (추석 연휴), so this arrives with the Week 4 make-up materials rather than in class. |
-| **Sun 9/27** | Method Leads | Method Card draft emailed to instructor (optional but recommended — you'll get comments back by Monday) |
-| **Mon 9/28** | Everyone with a role | Slides + written deliverable uploaded to the course site by 18:00. Uploading late means the class can't prepare. |
-| **Wed 9/30, 18:00** | The other nine | Entry ticket posted (one question, 2–3 sentences) |
-| **Wed 9/30, evening** | Discussant | Read all nine entry tickets; pick two to open with; sketch a running order |
-| **Thu 10/1** | Everyone | Class |
-| **Sat 10/3, 18:00** | Discussant | 300-word synthesis posted |
-| **Thu 10/8** | Everyone | Lab 2 deliverable due (coding memo + reliability table + one page) |
+| **Thu 10/1, in class** | Instructor | Week 6 roles confirmed; papers assigned to the Exemplar Analysts and Skeptics |
+| **Sun 10/4** | Method Leads | Method Card draft emailed to instructor (optional but recommended — you'll get comments back by Monday) |
+| **Mon 10/5** | Everyone with a role | Slides + written deliverable uploaded to the course site by 18:00. Uploading late means the class can't prepare. |
+| **Wed 10/7, 18:00** | The other five | Entry ticket posted (one question, 2–3 sentences) |
+| **Wed 10/7, evening** | Discussant | Read all five entry tickets; pick two to open with; sketch a running order |
+| **Thu 10/8** | Everyone | Class |
+| **Sat 10/10, 18:00** | Discussant | 300-word synthesis posted |
+| **Thu 10/15** | Everyone | Lab 2 deliverable due (coding memo + reliability table + one page) |
 
 ---
 
@@ -46,7 +46,7 @@ Everyone reads the ★ items. Role-holders read their own additional items close
 
 ---
 
-## 3. Running order for 10/1
+## 3. Running order for 10/8
 
 | Clock | Segment |
 |---|---|
@@ -92,11 +92,11 @@ Your 10 minutes should get at:
 
 **Common failure mode:** spending nine minutes on the six phases and thirty seconds on reliability. The reliability question is the one your classmates will need in the lab an hour later. Budget accordingly.
 
-### What you submit (Mon 9/28)
+### What you submit (Mon 10/5)
 A **1-page Method Card**. One page means one page. Template:
 
 ```
-METHOD CARD — [method name]                        [your name] · Week 5
+METHOD CARD — [method name]                        [your name] · Week 6
 
 WHAT IT IS (2 sentences, no jargon)
 
@@ -114,7 +114,7 @@ HORSESHOE BOX SERVED: ____________________
    (and one sentence on why)
 ```
 
-The last line is not decoration. Every Method Card in this course ends by placing the method inside Fischer's horseshoe. For Week 5 the honest answer is probably *Research Tasks*, but a good argument that thematic analysis can also reshape your *Theoretical Limitation* box would be more interesting.
+The last line is not decoration. Every Method Card in this course ends by placing the method inside Fischer's horseshoe. For Week 6 the honest answer is probably *Research Tasks*, but a good argument that thematic analysis can also reshape your *Theoretical Limitation* box would be more interesting.
 
 ---
 
@@ -154,7 +154,7 @@ Your job:
 - Be precise about the claim's scope. Is this a claim about BIM, about these projects, or about the relationship between technological structure and organizational structure generally?
 - Read the 2010 *JCEM* paper as background. Same fieldwork, different argument. **Put one line on your slide about how the same data supported two papers** — that's a genuinely useful thing for MS students to see.
 
-### What you submit (Mon 9/28)
+### What you submit (Mon 10/5)
 The slide itself. That's it — one slide, uploaded as PDF or image.
 
 **Common failure mode:** producing a summary. If your slide could have been written after reading only the abstract and conclusion, you haven't done the assignment. The Design/Data/Analysis rows are where the work is.
@@ -180,7 +180,7 @@ For a qualitative study, productive lines of attack usually run through:
 - **Rival explanations.** Name one alternative account of the same data that the paper doesn't rule out.
 - **Transferability.** Not "this is only one context" — that's the lazy version. Instead: *which specific feature* of this context does the finding depend on, and what would have to be true elsewhere for it to travel?
 
-### What you submit (Mon 9/28)
+### What you submit (Mon 10/5)
 A **1-page referee report** on the ASCE reviewer form. Structure it like a real one:
 
 ```
@@ -210,7 +210,7 @@ Note what that does: names the problem, links it to a specific claim, proposes a
 *This week: Dohyun*
 
 ### Before class (Wed evening)
-Read all nine entry tickets. Group them — you'll usually find they cluster into three or four underlying questions even when nine different things were asked. **Pick two to open with**, and email the instructor which two by Wednesday night so the framing segment can set them up.
+Read all five entry tickets. Group them — you'll usually find they cluster into two or three underlying questions even when five different things were asked. **Pick two to open with**, and email the instructor which two by Wednesday night so the framing segment can set them up.
 
 Choose for productivity, not politeness. The best opening question is one where two readings of the week genuinely disagree.
 
@@ -222,7 +222,7 @@ You are chairing, not presenting. Practically:
 - When the discussion loops, say so and move to the second question.
 - Reserve the last three minutes to ask the room: *what did we not resolve?* That unresolved thing goes in your synthesis.
 
-### After class (by Sat 10/3, 18:00)
+### After class (by Sat 10/10, 18:00)
 A **300-word synthesis** posted to the course site. Not minutes. Structure:
 
 1. The question the room actually spent its time on (often not the one on the syllabus)
@@ -234,9 +234,9 @@ These accumulate. By December the class will have built its own methods notebook
 
 ---
 
-## 8. If you don't have a role this week (nine of you)
+## 8. If you don't have a role this week (five of you)
 
-**Entry ticket, due Wed 9/30 18:00. One question, 2–3 sentences.**
+**Entry ticket, due Wed 10/7 18:00. One question, 2–3 sentences.**
 
 The bar: your question should be answerable only by someone who did the reading, and it should not have a settled answer.
 
@@ -259,7 +259,7 @@ Both of the first two examples above happen to also work as opening questions �
 
 ---
 
-## 9. Lab 2 (40 min in class, deliverable due 10/8)
+## 9. Lab 2 (40 min in class, deliverable due 10/15)
 
 Everyone, in pairs.
 
@@ -267,7 +267,7 @@ Everyone, in pairs.
 2. **(10 min)** Compute pairwise Krippendorff's α against your partner. R: `irr::kripp.alpha()`. Python: `krippendorff.alpha()`. Both will be pre-installed on the lab machines; a starter script is on the course site.
 3. **(15 min)** Half the room (assigned in class) re-codes with LLM assistance. Compare: does α go up? Does code granularity change? **What disappears?**
 
-**Deliverable (2–3 pages, due 10/8):**
+**Deliverable (2–3 pages, due 10/15):**
 
 - Coding memo — where you and your partner diverged, and why
 - Reliability table — α per code, not just overall
@@ -296,4 +296,4 @@ Entry tickets are credit/no-credit, part of the 10% attendance component. You ha
 
 ## 11. One thing to keep in mind this week
 
-Week 5 is the first week where the method you're studying might actually be the method you use. When you leave, go update your Horseshoe Wall entry. If thematic analysis or a Gioia-style structure could fill your *Research Tasks* box, say so and say what data you'd need. If it clearly can't, say why — that's equally useful, and it's the kind of ruling-out that makes a proposal defensible in December.
+Week 6 is the first week where the method you're studying might actually be the method you use. When you leave, go update your Horseshoe Wall entry. If thematic analysis or a Gioia-style structure could fill your *Research Tasks* box, say so and say what data you'd need. If it clearly can't, say why — that's equally useful, and it's the kind of ruling-out that makes a proposal defensible in December.

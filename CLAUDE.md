@@ -13,7 +13,7 @@ This is the live syllabus for a graduate seminar in Research Methods in Construc
 
 Most papers in the ASCE *Second Special Collection on Research Methodologies in CEM* (JCEM 2022–23) and the 2010 JCEM special issue (Vol. 136 No. 1) are methods readings, **not** exemplars. Spearing et al. (2022) is the notable exception — it is genuinely empirical. Never file a methods reading under exemplars; the Exemplar Analyst role becomes impossible to perform.
 
-**Every method week needs at least two exemplars.** Weeks 4–14. If a good second exemplar genuinely does not exist for a method (as with mixed methods in Week 6), say so honestly in the text and treat the absence as information about the field. Do not pad with a weak paper.
+**Every method week needs at least two exemplars.** Weeks 5–15. If a good second exemplar genuinely does not exist for a method (as with mixed methods in Week 7), say so honestly in the text and treat the absence as information about the field. Do not pad with a weak paper.
 
 **Every Methods readings list ends with a recommendation line:**
 
@@ -38,12 +38,12 @@ Getting this wrong has happened before. Check all seven.
 
 ## The horseshoe is the spine
 
-Fischer's CIFE horseshoe is introduced in Week 3 and closed in Week 14. Preserve these threads:
+Fischer's CIFE horseshoe is introduced in Week 3 and closed in Week 15. Preserve these threads:
 
 - Every **Method Card** ends by naming which horseshoe box the method serves.
-- Week 3 flags honestly that the horseshoe fits artifact-producing research better than interpretive research; Week 6 supplies the contrast (Eisenhardt's inductive process model); Week 14 supplies the rival (Hevner's DSR). Do not quietly drop any of these three beats.
-- The **Horseshoe Wall** is revised weekly and graded twice (W3, W11).
-- The Yoon, Kim, Park & Ahn (2023) deictic-gesture line of work is the worked local example, introduced in Week 3 and returning as an exemplar in Week 11.
+- Week 3 flags honestly that the horseshoe fits artifact-producing research better than interpretive research; Week 7 supplies the contrast (Eisenhardt's inductive process model); Week 15 supplies the rival (Hevner's DSR). Do not quietly drop any of these three beats.
+- The **Horseshoe Wall** is revised weekly and graded twice (W3, W12).
+- The Yoon, Kim, Park & Ahn (2023) deictic-gesture line of work is the worked local example, introduced in Week 3 and returning as an exemplar in Week 12.
 
 ## Voice
 
@@ -65,9 +65,9 @@ Keep the honest caveats. Where the field lacks a clean exemplar, where a framewo
 Commit messages: short imperative subject, one line of why if it is not obvious.
 
 ```
-Add Week 9 SEM exemplar from Doloi (2013)
+Add Week 10 SEM exemplar from Doloi (2013)
 
-Week 9 had only one exemplar; the regression half of the lab had no model paper.
+Week 10 had only one exemplar; the regression half of the lab had no model paper.
 ```
 
 Do not commit `_site/` or `.quarto/` — both are gitignored.

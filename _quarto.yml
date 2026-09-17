@@ -27,7 +27,7 @@ website:
       - text: Handouts
         menu:
           - href: handouts/week05-roles.qmd
-            text: "Week 5 — role walkthrough"
+            text: "Week 6 — role walkthrough"
     right:
       - href: changelog.qmd
         text: What changed
@@ -44,4 +44,4 @@ format:
     link-external-newwindow: true
     css: []
 
-last-updated: "2026-09-10"
+last-updated: "2026-09-17"

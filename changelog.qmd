@@ -4,6 +4,27 @@ title: "What changed"
 
 Newest first. Anything that moves a date or a deadline is also announced on ETL.
 
+## 2026-09-17 — Calendar reset: sixteen weeks, four Tuesday sessions, role roster published
+
+**This replaces the 2026-09-10 plan below.** No session is asynchronous any more; every session meets in person.
+
+**No class on 9/24 (추석).** Every session from the old Week 4 onward now runs one week later, and the final defense moves to **Week 16, Thursday 12/17** — the university's official make-up week. Week numbers on this site have changed accordingly: the problematization session is now Week 5 (10/1), Qualitative I is Week 6 (10/8), and so on through the defense in Week 16.
+
+**Four sessions meet on a Tuesday** because the Thursday is unavailable: Week 8 (Tue 10/20), Week 10 (Tue 11/3), Week 11 (Tue 11/10), Week 13 (Tue 11/24).
+
+Deadlines that moved as a result:
+
+- Pre-proposal due: 10/15 → **Tue 10/20** (Week 8)
+- Pre-proposal presentations: 10/22 → **10/29** (Week 9)
+- Response-to-reviewers letters: 11/5 → **Tue 11/10** (Week 11)
+- Horseshoe Wall graded checkpoint: 11/12 → **11/19** (Week 12)
+- Final proposal due: 12/3 → **12/10** (Week 15)
+- Final defense: 12/10 → **12/17** (Week 16)
+- IRB protocol draft: 10/1 → **10/8** (start of Week 6)
+- The Week 6 role walkthrough handout now runs on the 10/1–10/15 dates
+
+**The role roster is published** in §4.1 of *How the course works*, with names as initials. The class has twelve students, so the numbers there were corrected: five or six turns each, and five entry tickets per week rather than nine.
+
 ## 2026-09-10 — Three more sessions cannot meet; make-ups set
 
 Three conference dates collide with the seminar, on top of the Chuseok block already flagged for Week 4:

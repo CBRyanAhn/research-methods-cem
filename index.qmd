@@ -12,15 +12,15 @@ The version here is always current. Anything posted on ETL links back to this pa
 :::
 
 **Format:** Seminar (student-led) · **Language:** English · **Enrollment:** ~16 (mostly MS) · **Credits:** 3
-**Meeting pattern:** one 150-minute block per week, Thursdays
+**Meeting pattern:** one 150-minute block per week, Thursdays — except four Tuesday sessions and no class in the Chuseok week; see the [calendar](calendar.qmd)
 
 ## How the course runs
 
 This is a seminar, not a lecture course. Most weeks, four of you are in an assigned role — Method Lead, Exemplar Analyst, Skeptic, or Discussant — and everyone else has submitted a question in advance. The instructor frames the method at the start of class and ties it together at the end; the middle is yours.
 
-Two things anchor the whole semester: the **history** of the field (Week 2) and the **CIFE horseshoe** research process (Week 3), which you will use to structure your own proposal from Week 3 through the final defense in Week 15.
+Two things anchor the whole semester: the **history** of the field (Week 2) and the **CIFE horseshoe** research process (Week 3), which you will use to structure your own proposal from Week 3 through the final defense in Week 16.
 
-If you are not sure what your role actually requires, read the [Week 5 role walkthrough](handouts/week05-roles.qmd) — it follows one week end to end with worked examples of every deliverable.
+If you are not sure what your role actually requires, read the [Week 6 role walkthrough](handouts/week05-roles.qmd) — it follows one week end to end with worked examples of every deliverable.
 
 ## Start here
 

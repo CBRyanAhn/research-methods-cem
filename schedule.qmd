@@ -8,7 +8,7 @@ Dates match §1.
 ---
 
 ## Week 1 (9/3) — What counts as knowledge in CEM?
-**Focus:** Research paradigms; the anatomy of an empirical claim · *Instructor-led; roles begin W4*
+**Focus:** Research paradigms; the anatomy of an empirical claim · *Instructor-led; roles begin W5*
 
 **Readings**
 
@@ -19,9 +19,9 @@ Dates match §1.
 
 → **If you only have time for one:** Creswell & Creswell, Ch. 1–3. It sets the vocabulary (paradigm, design, method) that every later week assumes you already have.
 
-**In-class activity:** The "Poang chair" exercise — classify ten candidate statements as science / engineering / consulting, then state for each what evidence would count as disconfirmation. Ends with each student writing a one-sentence research interest on a card; the cards return in Week 15.
+**In-class activity:** The "Poang chair" exercise — classify ten candidate statements as science / engineering / consulting, then state for each what evidence would count as disconfirmation. Ends with each student writing a one-sentence research interest on a card; the cards return in Week 16.
 
-**Admin:** submit your three-choice role preferences; you'll be assigned one published CEM paper to bring to Week 3; **the pre-course ethics module is assigned today, due before Week 4.**
+**Admin:** submit your three-choice role preferences; you'll be assigned one published CEM paper to bring to Week 3; **the pre-course ethics module is assigned today, due before Week 5.**
 
 **Assignment for W2:** three things are handed out at the end of today's class — your era team (drawn at random), the landmark works your team presents, and your individual JCEM volume for the Week 2 lab. Read all of your team's landmark works before Week 2. The workshop is a prepared presentation, not an in-class reading session.
 
@@ -32,7 +32,7 @@ Dates match §1.
 
 **Instructor segment (25 min):** the four-era arc — 1955–75 (emergence: Peurifoy, Fondahl's precedence diagramming, Oglesby & Parker's operations analysis, Gates/Carr bidding debate, Halpin's CYCLONE), 1975–95 (institutionalization: JCEM, CRC, CII, CIFE; Ashley on risk sharing; Tatum on innovation; Howell/Tommelein/Ballard on lean; Levitt on organizational design; expert systems, neural nets, GAs), 1995–2005 (Peña-Mora on collaboration technology; sensors, RFID, GPS; Fischer's 4D CAD; Martinez & Kamat simulation; Hendrickson & Horvath EIO-LCA), 2005–present (reality capture, automation, and the turn toward social science).
 
-**Student workshop (4 teams × 4):** teams are drawn at random at the end of Week 1, and each is assigned one era together with the landmark works listed below. The presentation question is *not* "what did they find" but **"what counted as a legitimate method then, what data existed, and what got it published?"** Each team closes by mapping current CRC / i3CE track names onto their era.
+**Student workshop (4 teams × 3):** teams are drawn at random at the end of Week 1, and each is assigned one era together with the landmark works listed below. The presentation question is *not* "what did they find" but **"what counted as a legitimate method then, what data existed, and what got it published?"** Each team closes by mapping current CRC / i3CE track names onto their era.
 
 **Era teams and landmark works.** Read the works for your era before class — two for most eras, three for 1955–75.
 
@@ -50,7 +50,7 @@ Dates match §1.
   - Orr, R. J., & Scott, W. R. (2008). "Institutional exceptions on global projects: a process model." *Journal of International Business Studies*, 39(4), 562–588.
   - Golparvar-Fard, M., Peña-Mora, F., & Savarese, S. (2011). "Integrated sequential as-built and as-planned representation with D4AR tools in support of decision-making tasks in the AEC/FM industry." *JCEM*, 137(12), 1099–1116.
 
-Two of these carry across the semester: Koo & Fischer is Fischer's own work, which Week 3 uses to build the horseshoe, and Golparvar-Fard et al. returns in Week 11 as an exemplar you will reverse-engineer. Reading them now is not wasted effort. Note also that Orr & Scott is the one item on this list that did not appear in a CEM journal — worth holding onto when your team gets to "what got it published?"
+Two of these carry across the semester: Koo & Fischer is Fischer's own work, which Week 3 uses to build the horseshoe, and Golparvar-Fard et al. returns in Week 12 as an exemplar you will reverse-engineer. Reading them now is not wasted effort. Note also that Orr & Scott is the one item on this list that did not appear in a CEM journal — worth holding onto when your team gets to "what got it published?"
 
 **Readings**
 
@@ -79,33 +79,37 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 
 | Fischer's test method | Where this course teaches it |
 |---|---|
-| Variation studies on retrospective cases | W10 (archival identification), W12 (simulation experiments) |
-| Expert panel review | W7 (Delphi and structured elicitation) |
-| Charrette test | W10 (controlled experiment design), W11 (XR-enabled charrettes) |
-| Prospective / intervention case study | W6 (case study design), W10 (multiple-baseline field designs), W14 (action research) |
+| Variation studies on retrospective cases | W11 (archival identification), W13 (simulation experiments) |
+| Expert panel review | W8 (Delphi and structured elicitation) |
+| Charrette test | W11 (controlled experiment design), W12 (XR-enabled charrettes) |
+| Prospective / intervention case study | W7 (case study design), W11 (multiple-baseline field designs), W15 (action research) |
 
 **Readings**
 
 - Fischer, M. (2006). "Formalizing construction knowledge for concurrent performance-based design." *Proc. 13th EG-ICE Workshop*, Ascona, Switzerland. (Springer LNCS 4200.)
 - Van de Ven, A. H. (1989). "Nothing is quite so practical as a good theory." *AMR*, 14(4), 486–489.
 - Clayton, M. J., Kunz, J. C., & Fischer, M. A. (1998). *The Charrette Test Method*. CIFE Technical Report #120, Stanford University.
-- Hevner, A. R., March, S. T., Park, J., & Ram, S. (2004). "Design science in information systems research." *MIS Quarterly*, 28(1), 75–105. **§1–2 only** — for comparison in W14.
+- Hevner, A. R., March, S. T., Park, J., & Ram, S. (2004). "Design science in information systems research." *MIS Quarterly*, 28(1), 75–105. **§1–2 only** — for comparison in W15.
 - *Reference:* Akbas, R. (2003). *Geometry Based Modeling and Simulation of Construction Processes*. PhD thesis, Stanford University.
 
 → **If you only have time for one:** Fischer (2006) itself. Everything else this week supports it.
 
-**⚠️ A limit worth knowing now.** The horseshoe grew out of CIFE/VDC work and fits artifact-producing research beautifully. It fits interpretive and purely descriptive research much less well — if you're running an interview study, you'll struggle to fill *Practical Significance* honestly. Keep this in mind; Week 6 introduces a contrasting map (Eisenhardt's inductive process model) for exactly this reason.
+**⚠️ A limit worth knowing now.** The horseshoe grew out of CIFE/VDC work and fits artifact-producing research beautifully. It fits interpretive and purely descriptive research much less well — if you're running an interview study, you'll struggle to fill *Practical Significance* honestly. Keep this in mind; Week 7 introduces a contrasting map (Eisenhardt's inductive process model) for exactly this reason.
 
-**A worked local example.** Alongside Fischer's Disney-lagoon case, we'll trace one research line from this department all the way around the horseshoe: deictic gesture-based spatial referencing for human–robot collaboration. Observed problem (site instructions to robots are improvised and imprecise) → theoretical limitation (gesture-based HRI evaluated only in small, controlled spaces) → question → tasks → results → contribution → practical significance. The published endpoint is Yoon, Kim, Park & Ahn (2023), *JCEM*, 149(7), which returns as an exemplar in Week 11. Seeing a full horseshoe from a project you could walk down the hall and ask about makes the abstract boxes concrete.
+**A worked local example.** Alongside Fischer's Disney-lagoon case, we'll trace one research line from this department all the way around the horseshoe: deictic gesture-based spatial referencing for human–robot collaboration. Observed problem (site instructions to robots are improvised and imprecise) → theoretical limitation (gesture-based HRI evaluated only in small, controlled spaces) → question → tasks → results → contribution → practical significance. The published endpoint is Yoon, Kim, Park & Ahn (2023), *JCEM*, 149(7), which returns as an exemplar in Week 12. Seeing a full horseshoe from a project you could walk down the hall and ask about makes the abstract boxes concrete.
 
-**Assignment (ongoing):** build the horseshoe for your own research idea. Post it to the Horseshoe Wall — it's revised weekly from here and becomes the W7 pre-proposal.
+**Assignment (ongoing):** build the horseshoe for your own research idea. Post it to the Horseshoe Wall — it's revised weekly from here and becomes the W8 pre-proposal.
 
 **Admin:** the fixed role roster is published today.
 
 ---
 
-## Week 4 (9/24) — Theoretical point of departure: problematization and literature as data
-**⚠️ Does not meet — 추석 연휴. Asynchronous make-up; your role turn still counts, written instead of presented. See "Sessions that cannot meet" in §1.**
+## Week 4 (9/24) — No class: 추석 연휴
+**Focus:** None. The seminar does not meet in the Chuseok block (9/24–26). Every session from here on runs one week later than in the original calendar, and the final defense moves into Week 16, the university's official make-up week. See §1.
+
+---
+
+## Week 5 (10/1) — Theoretical point of departure: problematization and literature as data
 **Focus:** Filling the left side of the horseshoe — turning "there's a gap" into a defensible theoretical limitation. Framing segment extended by ~15 minutes for the IRB/ethics briefing (§4.6, item 2).
 
 **Methods readings**
@@ -134,13 +138,11 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 
 **Lab 1 (graded):** Build a search string for your own horseshoe topic, export from Scopus/WoS, deduplicate, produce a PRISMA flow diagram and a VOSviewer co-occurrence map. Deliverable: PRISMA diagram + map + one page on (a) what the map does *not* tell you, and (b) the revised *Theoretical Limitation* box for your horseshoe.
 
-**Homework due start of W5** (not a formal lab, feeds the final proposal rubric): draft the IRB protocol section for your own horseshoe study — recruitment, consent script, data handling, risk. Sensor- and XR-based projects add the physical-risk section.
-
-**If Week 4 is displaced by the Chuseok make-up (§1, option b):** the framing lecture and ethics briefing run asynchronously; the PRISMA/VOSviewer lab and the IRB homework keep their posted deadlines, with a short live Q&A folded into the start of Week 5.
+**Homework due start of W6** (not a formal lab, feeds the final proposal rubric): draft the IRB protocol section for your own horseshoe study — recruitment, consent script, data handling, risk. Sensor- and XR-based projects add the physical-risk section.
 
 ---
 
-## Week 5 (10/1) — Qualitative I: interviews, coding, and the reliability problem
+## Week 6 (10/8) — Qualitative I: interviews, coding, and the reliability problem
 **Focus:** Semi-structured interviewing; thematic analysis; grounded theory; intercoder agreement. Opens with the 10-minute IRB Q&A (§4.6, item 3).
 
 **Methods readings**
@@ -163,7 +165,7 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 
 ---
 
-## Week 6 (10/8) — Qualitative II: case study, ethnography, and mixed methods
+## Week 7 (10/15) — Qualitative II: case study, ethnography, and mixed methods
 **Focus:** Case selection, embedded units, replication logic, trustworthiness; combining strands
 
 **Methods readings**
@@ -181,9 +183,9 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 
 - Taylor, J. E. (2007). "Antecedents of successful three-dimensional computer-aided design implementation in design and construction networks." *JCEM*, 133(12), 993–1002. [Case study exemplar]
 - Ham, N., Moon, S., Kim, J.-H., & Kim, J.-J. (2018). "Economic analysis of design errors in BIM-based high-rise construction projects: Case study of Haeundae L project." *JCEM*, 144(6), 05018006. [Case study exemplar]
-- Tutt, D., Pink, S., Dainty, A. R. J., & Gibb, A. (2013). "Building networks to work..." *CME*, 31(10), 1025–1037. [Already read in Week 4 — reread with an ethnography lens: what does the fieldwork itself look like, not just its ethical texture?]
+- Tutt, D., Pink, S., Dainty, A. R. J., & Gibb, A. (2013). "Building networks to work..." *CME*, 31(10), 1025–1037. [Already read in Week 5 — reread with an ethnography lens: what does the fieldwork itself look like, not just its ethical texture?]
 
-*On mixed methods specifically:* a clean, single-paper CEM exemplar that is unambiguously "mixed methods done well" is genuinely hard to find — it's an underused design in this field. Revisit Spearing et al. (2022, Week 5) through a mixed-methods lens: it applies three qualitative techniques to one dataset, which is adjacent to but not the same as integrating qualitative and quantitative strands. Treat the absence of a tidy exemplar here as data about the field, and flag it in your own proposal if you're the one attempting a genuine mixed-methods design.
+*On mixed methods specifically:* a clean, single-paper CEM exemplar that is unambiguously "mixed methods done well" is genuinely hard to find — it's an underused design in this field. Revisit Spearing et al. (2022, Week 6) through a mixed-methods lens: it applies three qualitative techniques to one dataset, which is adjacent to but not the same as integrating qualitative and quantitative strands. Treat the absence of a tidy exemplar here as data about the field, and flag it in your own proposal if you're the one attempting a genuine mixed-methods design.
 
 *CEM methods readings (position papers on the method, not exemplars):* Taylor, J. E., Dossick, C. S., & Garvin, M. (2011). "Meeting the burden of proof with case-study research." *JCEM*, 137(4), 303–311. · Phelps, A. F., & Horman, M. J. (2010). "Ethnographic theory-building research in construction." *JCEM*, 136(1), 58–65. · Abowitz, D. A., & Toole, T. M. (2010). "Mixed method research: Fundamental issues of design, validity, and reliability in construction research." *JCEM*, 136(1), 108–116. · Pink, S., Tutt, D., & Dainty, A. (Eds.) (2013). *Ethnographic Research in the Construction Industry*. Routledge. Ch. 1.
 
@@ -193,7 +195,8 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 
 ---
 
-## Week 7 (10/15) — Surveys, measurement, and expert elicitation
+## Week 8 (Tue 10/20) — Surveys, measurement, and expert elicitation
+**📅 Meets Tuesday 10/20, not Thursday** — Thursday 10/22 is 건축학회 학술발표대회. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
 **Focus:** Construct operationalization; scale development; sampling; Delphi; common method bias
 **📌 Pre-proposal due (2 pages) at the start of this week**
 
@@ -219,18 +222,18 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 
 ---
 
-## Week 8 (10/22) — Pre-proposal presentations, peer review, and journal fit
-**⚠️ Does not meet on 10/22 — 건축학회 학술발표대회. This session needs a live make-up rather than an asynchronous one; the date is being fixed and will be announced on ETL. See "Sessions that cannot meet" in §1.**
+## Week 9 (10/29) — Pre-proposal presentations, peer review, and journal fit
 No new readings.
 
 1. Present the pre-proposal in 6 minutes + 4 minutes Q&A — problem, gap, question, proposed design, why that design. The horseshoe is the required slide format.
 2. You're assigned two peers' pre-proposals and write a referee report using the ASCE reviewer form and the COPE *Ethical Guidelines for Peer Reviewers* (2017).
-3. Reports are returned anonymously; write a one-page response-to-reviewers letter (due W10).
+3. Reports are returned anonymously; write a one-page response-to-reviewers letter (due W11).
 4. **Journal fit clinic:** name a target journal and justify the fit against its aims, typical methods, and recent volumes.
 
 ---
 
-## Week 9 (10/29) — Quantitative modeling and reporting
+## Week 10 (Tue 11/3) — Quantitative modeling and reporting
+**📅 Meets Tuesday 11/3, not Thursday** — Thursday 11/5 is 건설관리학회 학술발표대회. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
 **Focus:** Regression; SEM (covariance-based and PLS); reporting standards; effect sizes over p-values
 
 **Methods readings**
@@ -254,11 +257,11 @@ No new readings.
 
 ---
 
-## Week 10 (11/5) — Causal inference: experiments, quasi-experiments, and archival identification
-**⚠️ Does not meet — 건설관리학회 학술발표대회. Asynchronous make-up; your role turn still counts, written instead of presented. See "Sessions that cannot meet" in §1.**
+## Week 11 (Tue 11/10) — Causal inference: experiments, quasi-experiments, and archival identification
+**📅 Meets Tuesday 11/10, not Thursday** — Thursday 11/12 is unavailable. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
 **Focus:** Internal validity; randomization; single-case and multiple-baseline designs; DiD / IV / matching; preregistration
 *Fischer's "variation studies on retrospective cases" and "charrette test" get their formal treatment here*
-**📌 Response-to-reviewers letters from Week 8 due**
+**📌 Response-to-reviewers letters from Week 9 due**
 
 **Methods readings**
 
@@ -283,7 +286,7 @@ No new readings.
 
 ---
 
-## Week 11 (11/12) — Instrumented human-subject research: sensing, eye-tracking, and XR
+## Week 12 (11/19) — Instrumented human-subject research: sensing, eye-tracking, and XR
 **Focus:** Physiological and behavioral measurement; ecological validity; XR as a research instrument, not a demo
 **📌 Horseshoe Wall checkpoint — second graded review of your horseshoe**
 
@@ -309,7 +312,8 @@ No new readings.
 
 ---
 
-## Week 12 (11/19) — Simulation as a research method
+## Week 13 (Tue 11/24) — Simulation as a research method
+**📅 Meets Tuesday 11/24, not Thursday** — Thursday 11/26 is AKC 2026. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
 **Focus:** DES, system dynamics, ABM; the verification and validation problem
 
 **Methods readings**
@@ -335,8 +339,7 @@ No new readings.
 
 ---
 
-## Week 13 (11/26) — Data-driven research: ML, computer vision, NLP
-**⚠️ Does not meet — AKC 2026. Asynchronous make-up; your role turn still counts, written instead of presented. See "Sessions that cannot meet" in §1.**
+## Week 14 (12/3) — Data-driven research: ML, computer vision, NLP
 **Focus:** Prediction vs. explanation; leakage; generalization across subjects and sites; reproducibility
 
 **Methods readings**
@@ -363,7 +366,7 @@ No new readings.
 
 ---
 
-## Week 14 (12/3) — Closing the horseshoe: design science, action research, optimization, and validation
+## Week 15 (12/10) — Closing the horseshoe: design science, action research, optimization, and validation
 **Focus:** When the contribution is a method, tool, or framework — how to make that a defensible research claim, and how far it generalizes
 **📌 Final proposal due (8–10 pages) at the end of this week**
 
@@ -394,7 +397,7 @@ No new readings.
 
 ---
 
-## Week 15 (12/10) — Final proposal defense (mock review panel)
+## Week 16 (12/17) — Final proposal defense (mock review panel)
 Present for 8 minutes and take 7 minutes of questions from a three-person panel of classmates plus the instructor, using the ASCE review criteria. Panel members submit scored review forms; the instructor moderates.
 
 Close the loop twice: the Week 1 interest cards come back, and the Week 3 horseshoe sits beside the final one. What changed, and why?

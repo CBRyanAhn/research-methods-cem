@@ -20,11 +20,11 @@ By the end of the course, you should be able to:
 
 ### 4.1 Weekly roles (rotating)
 
-Roles run in **W4, W5, W6, W7 and W9–W14** (ten weeks). W1–W3 are framing weeks with their own formats (§5); W8 and W15 are presentation/defense days with no role rotation.
+Roles run in **W5, W6, W7, W8 and W10–W15** (ten weeks). W1–W3 are framing weeks with their own formats (§5); W4 does not meet (추석 연휴); W9 and W16 are presentation/defense days with no role rotation.
 
-Three of those ten role weeks — W4 (추석), W10 (건설관리학회) and W13 (AKC 2026) — fall on Thursdays the seminar cannot meet. They are made up asynchronously with the rotation intact: if your turn lands in one of them you write the deliverable instead of presenting it, and it counts as your turn. The slot arithmetic below is therefore unchanged. See "Sessions that cannot meet" on the calendar page.
+Four of the role weeks meet on a **Tuesday** instead of Thursday — W8 (10/20), W10 (11/3), W11 (11/10) and W13 (11/24). The role runs exactly as it would on a Thursday.
 
-Ten weeks × 7 slots = 70 slots for 16 students, so you'll get roughly **four turns: each of the four roles at least once**, with any fifth turn falling in the week closest to your own topic. A three-choice preference list is collected in Week 1 and the fixed roster is published in Week 3, alongside the horseshoe assignment. One backup per week is designated so an absence doesn't collapse the session.
+Ten weeks × 7 slots = 70 slots for 12 students, so you get **five or six turns**. Everyone holds Method Lead, Exemplar Analyst and Skeptic at least once. Discussant / Scribe has ten slots for twelve people, so two of you will not hold it — that is arithmetic, not a judgement. A three-choice preference list was collected in Week 1 and the fixed roster is below. One backup per week is designated so an absence doesn't collapse the session.
 
 | Role | # per week | Time | Deliverable |
 |---|---|---|---|
@@ -32,7 +32,26 @@ Ten weeks × 7 slots = 70 slots for 16 students, so you'll get roughly **four tu
 | **Exemplar Analyst** | 2 | 15 min | Reverse-engineer a CEM exemplar onto one slide: RQ → design → data → analysis → claim → limits. |
 | **Skeptic** | 2 | 10 min | Attack the exemplar's validity. Submit a 1-page referee report on the ASCE reviewer form. Repeating the authors' own stated limitations scores low. |
 | **Discussant / Scribe** | 1 | — | Chair the open discussion, then post a 300-word synthesis within 48 h. |
-| **Everyone else** | 9 | — | **Entry ticket**: one substantive question posted 24 h before class. Two are chosen to open discussion. |
+| **Everyone else** | 5 | — | **Entry ticket**: one substantive question posted 24 h before class. Two are chosen to open discussion. |
+
+#### Role roster
+
+Names are shown as initials. If you cannot find yourself or think a slot is wrong, tell the instructor before the week in question — not after.
+
+| Week | Date | Topic | Method Lead | Exemplar Analyst | Skeptic | Discussant / Scribe |
+|---|---|---|---|---|---|---|
+| 5 | 10/1 | Theoretical point of departure | 최JM, 배JH | 김SJ, 박SJ | 김WB, 김DH | 이JW |
+| 6 | 10/8 | Qualitative I | 이JW, 김NY | 배JH, 김DH | 최JM, 주JH | 구MJ |
+| 7 | 10/15 | Qualitative II | 구MJ, 박SJ | 김CG, 김WB | 심GS, 주JH | 배JH |
+| 8 | Tue 10/20 | Surveys and measurement | 김SJ, 김CG | 김NY, 이JW | 배JH, 김DH | 주JH |
+| 10 | Tue 11/3 | Quantitative modeling | 배JH, 김DH | 김SJ, 주JH | 박SJ, 김CG | 김NY |
+| 11 | Tue 11/10 | Causal inference | 김DH, 김SJ | 심GS, 김NY | 구MJ, 최JM | 박SJ |
+| 12 | 11/19 | Instrumented human-subject research | 심GS, 김NY | 구MJ, 최JM | 김SJ, 이JW | 김CG |
+| 13 | Tue 11/24 | Simulation | 박SJ, 주JH | 김CG, 김WB | 구MJ, 김NY | 심GS |
+| 14 | 12/3 | Data-driven research | 구MJ, 이JW | 김WB, 최JM | 배JH, 심GS | 김DH |
+| 15 | 12/10 | Closing the horseshoe | 김WB, 심GS | 박SJ, 김CG | 주JH, 최JM | 김SJ |
+
+Four of these weeks meet on a **Tuesday** — W8, W10, W11 and W13. Your deadlines for those weeks are counted back from the Tuesday, not the Thursday.
 
 ### 4.2 Standard 150-minute running order
 
@@ -47,13 +66,13 @@ Ten weeks × 7 slots = 70 slots for 16 students, so you'll get roughly **four tu
 | 1:35–2:15 | **Method Lab** — hands-on, in pairs, laptops required |
 | 2:15–2:30 | Instructor synthesis + explicit link back to your horseshoe |
 
-(Week 5 runs 10–15 minutes longer to absorb the IRB briefing — see §4.6.)
+(Week 6 runs 10–15 minutes longer to absorb the IRB briefing — see §4.6.)
 
 ### 4.3 If the course meets 2 × 75 min
 Session A = framing + Method Leads + Exemplar Analysts + Skeptics. Session B = discussion + lab + synthesis. Labs then need to be sized to 45 minutes.
 
 ### 4.4 The Horseshoe Wall
-Your horseshoe, built in W3, is posted on the course site and revised weekly. After each method week, update the *Research Tasks* box if that week gave you a better instrument, or the *Theoretical Limitation* box if it gave you a better argument. The W7 pre-proposal is a prose expansion of your wall entry.
+Your horseshoe, built in W3, is posted on the course site and revised weekly. After each method week, update the *Research Tasks* box if that week gave you a better instrument, or the *Theoretical Limitation* box if it gave you a better argument. The W8 pre-proposal is a prose expansion of your wall entry.
 
 ### 4.5 Tools
 R/RStudio or Python; Zotero; Taguette or NVivo/ATLAS.ti; VOSviewer; G*Power or the `pwr` package; `lavaan` and `seminr` (or SmartPLS); Simphony/AnyLogic or SimPy; OSF for preregistration. All lab datasets are provided; you don't need to collect your own data for a lab.
@@ -62,9 +81,9 @@ R/RStudio or Python; Zotero; Taguette or NVivo/ATLAS.ti; VOSviewer; G*Power or t
 
 Research ethics doesn't map well onto the Method Lead / Exemplar Analyst / Skeptic format — there's no single paper to reverse-engineer the way there is for a method, and the useful skill (writing a correct protocol) benefits from direct instruction more than adversarial debate. It's handled in three small, well-timed touchpoints instead:
 
-1. **Pre-course module** (assigned Week 1, due before Week 4). Read the Belmont Report (12 pp.) and Munafò et al. (2017), "A manifesto for reproducible science," and review the SNU IRB submission process. No seminar time is spent; completion is checked with a two-question reflection submitted online (credit/no-credit).
-2. **A 15-minute briefing in Week 4's framing segment** — carried in the Week 4 recording, since 9/24 falls inside the Chuseok block and the session does not meet. What a defensible protocol looks like for construction research specifically — site access, vulnerable populations (migrant labor, as in the Tutt et al. reading), and physical risk for sensor/XR studies. You leave with the assignment: draft the IRB protocol section for your own horseshoe study, due at the start of Week 5.
-3. **A 10-minute Q&A at the open of Week 5**, before the qualitative-interviewing content begins, addressing common problems in the submitted drafts. The drafts themselves aren't separately graded as a lab — they feed directly into the "Ethics, feasibility, and timeline" line of the final proposal rubric (§7.3).
+1. **Pre-course module** (assigned Week 1, due before Week 5). Read the Belmont Report (12 pp.) and Munafò et al. (2017), "A manifesto for reproducible science," and review the SNU IRB submission process. No seminar time is spent; completion is checked with a two-question reflection submitted online (credit/no-credit).
+2. **A 15-minute briefing in Week 5's framing segment.** What a defensible protocol looks like for construction research specifically — site access, vulnerable populations (migrant labor, as in the Tutt et al. reading), and physical risk for sensor/XR studies. You leave with the assignment: draft the IRB protocol section for your own horseshoe study, due at the start of Week 6.
+3. **A 10-minute Q&A at the open of Week 6**, before the qualitative-interviewing content begins, addressing common problems in the submitted drafts. The drafts themselves aren't separately graded as a lab — they feed directly into the "Ethics, feasibility, and timeline" line of the final proposal rubric (§7.3).
 
 If your program's IRB office requires a certified training module (e.g., CITI training) before you can submit protocols, that sits alongside item 1 above.
 
@@ -75,16 +94,16 @@ If your program's IRB office requires a certified training module (e.g., CITI tr
 | Component | Weight | Notes |
 |---|---|---|
 | Attendance, entry tickets, and pre-course ethics module | 10% | Credit/no credit; 2 free passes |
-| Seminar roles | 20% | ~4 turns per student; rubric in §7.1 |
-| Horseshoe assignments (W3 reconstruction + own horseshoe, maintained on the wall) | 10% | Graded twice: W3 and W11 |
+| Seminar roles | 20% | 5–6 turns per student; rubric in §7.1 |
+| Horseshoe assignments (W3 reconstruction + own horseshoe, maintained on the wall) | 10% | Graded twice: W3 and W12 |
 | Method Labs (6 graded deliverables) | 15% | Labs 1, 2, 4, 5, 6, 9 below; 2–3 pages each, due one week after |
 | Peer review assignment | 10% | Two referee reports on classmates' pre-proposals |
-| Pre-proposal (2 pages) + presentation | 10% | Due W7; presented at the Week 8 make-up session, since 10/22 falls on 건축학회 학술발표대회. Date announced on ETL. |
-| Final proposal (8–10 pages) + panel defense | 25% | Due end of W14, defended W15 |
+| Pre-proposal (2 pages) + presentation | 10% | Due W8 (Tue 10/20), presented W9 (10/29) |
+| Final proposal (8–10 pages) + panel defense | 25% | Due end of W15 (12/10), defended W16 (12/17) |
 
 Grade-on-a-curve, A–F. Absence over 1/3 of sessions results in F/U except where the instructor deems the cause unavoidable.
 
-**Note on generative AI.** You may use LLMs for language editing, code scaffolding, and literature triage, and must disclose usage in a short appendix to each written deliverable. LLM output may not be submitted as the analytic contribution — an LLM may not be the sole coder in the qualitative lab. Weeks 5 and 13 treat LLM-assisted analysis as a methodological question in its own right, which is the productive way to handle this.
+**Note on generative AI.** You may use LLMs for language editing, code scaffolding, and literature triage, and must disclose usage in a short appendix to each written deliverable. LLM output may not be submitted as the analytic contribution — an LLM may not be the sole coder in the qualitative lab. Weeks 6 and 13 treat LLM-assisted analysis as a methodological question in its own right, which is the productive way to handle this.
 
 ---
 
@@ -98,7 +117,7 @@ Grade-on-a-curve, A–F. Absence over 1/3 of sessions results in F/U except wher
 | Transfer | Connects to the horseshoe and to classmates' proposals | Generic connection | None |
 | Delivery | On time, clear, discussion-provoking | Clear | Reads slides |
 
-### 7.2 Horseshoe rubric (0–20, applied in W3 and W11)
+### 7.2 Horseshoe rubric (0–20, applied in W3 and W12)
 | Criterion | Pts |
 |---|---|
 | Observed problem is specific enough that success criteria are visible | 4 |
@@ -115,7 +134,7 @@ Grade-on-a-curve, A–F. Absence over 1/3 of sessions results in F/U except wher
 | Methodological fit — design justified against alternatives | 25 |
 | Data, sampling, and analysis plan feasible at MS scale | 15 |
 | Threats to validity identified and addressed | 15 |
-| **Ethics, feasibility, and timeline (includes the IRB protocol drafted in Week 4–5)** | 5 |
+| **Ethics, feasibility, and timeline (includes the IRB protocol drafted in Week 5–6)** | 5 |
 | Writing and reference quality | 10 |
 
 ### 7.4 Referee report rubric (per report, 0–10)
