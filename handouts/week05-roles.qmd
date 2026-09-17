@@ -64,12 +64,12 @@ Everyone reads the ★ items. Role-holders read their own additional items close
 
 ## 4. Role: Method Lead (2 students)
 
-*This week: Minjae (interviewing) and Seoyeon (coding & reliability)*
+*This week: 이JW (interviewing) and 김NY (coding & reliability)*
 
 ### What you are for
 You are not summarizing the reading. You are explaining **the logic of the method** — what it assumes, where the researcher has to make a choice, and what the method licenses you to claim at the end. A classmate who missed the reading should leave able to *use* the method, not just name it.
 
-### Minjae — Method Lead 1: the interview as an instrument
+### 이JW — Method Lead 1: the interview as an instrument
 **Read closely:** Kvale & Brinkmann Ch. 5–7.
 
 Your 10 minutes should get at:
@@ -80,7 +80,7 @@ Your 10 minutes should get at:
 
 **Bring a concrete artifact.** Take one question from your own Horseshoe Wall entry and show the class two versions of an interview question that could address it — one leading, one not — and explain which follow-up probes you'd have ready. Two minutes of this is worth ten minutes of abstraction.
 
-### Seoyeon — Method Lead 2: from transcript to theme, and the reliability question
+### 김NY — Method Lead 2: from transcript to theme, and the reliability question
 **Read closely:** Braun & Clarke (2006); Gioia et al. (2013); Saldaña Ch. 1–3; O'Connor & Joffe (2020).
 
 Your 10 minutes should get at:
@@ -120,7 +120,7 @@ The last line is not decoration. Every Method Card in this course ends by placin
 
 ## 5. Role: Exemplar Analyst (2 students)
 
-*This week: Haneul (Spearing et al.) and Jiwon (Dossick & Neff)*
+*This week: 배JH (Spearing et al.) and 김DH (Dossick & Neff)*
 
 ### What you are for
 Reverse-engineer the paper. Not "what did they find" — **how is the claim built, and what holds it up.** You get 7 minutes and one slide.
@@ -138,14 +138,14 @@ WHAT HOLDS IT UP       →  the specific evidence for that sentence
 LIMITS                 →  where the claim stops
 ```
 
-### Haneul — Spearing et al. (2022)
+### 배JH — Spearing et al. (2022)
 This is an unusual paper and that's why it's here: the authors apply **more than one analysis technique to the same interview dataset** (Arctic water and wastewater infrastructure in rural Alaska) and compare what each surfaces. Deductive content analysis produces frequency tables of pre-specified challenge categories; other passes surface challenges the researchers hadn't anticipated.
 
 Your job is to show the class exactly **where the techniques diverged**. Find a specific finding that one technique produced and another did not, and put it on the slide. That single concrete divergence is the whole point of assigning this paper.
 
 Also: state clearly what the *unit of analysis* is. Is it the utility? The community? The excerpt? Papers like this are easy to misread on that point, and it determines what the frequency tables mean.
 
-### Jiwon — Dossick & Neff (2011)
+### 김DH — Dossick & Neff (2011)
 Very different animal: ethnographic observation of BIM coordination meetings, building an argument that the technology's structure does not dissolve the organizational divisions between trades — the productive work happens in informal, unstructured "messy talk" that clean technology tends to squeeze out.
 
 Your job:
@@ -163,7 +163,7 @@ The slide itself. That's it — one slide, uploaded as PDF or image.
 
 ## 6. Role: Skeptic (2 students)
 
-*This week: Taeyang (Spearing et al.) and Eunji (Dossick & Neff)*
+*This week: 최JM (Spearing et al.) and 주JH (Dossick & Neff)*
 
 ### What you are for
 Attack the paper's validity — properly, in writing, on the form real reviewers use. You get 5 minutes to present the sharpest two points from your report.
@@ -207,7 +207,7 @@ Note what that does: names the problem, links it to a specific claim, proposes a
 
 ## 7. Role: Discussant / Scribe (1 student)
 
-*This week: Dohyun*
+*This week: 구MJ*
 
 ### Before class (Wed evening)
 Read all five entry tickets. Group them — you'll usually find they cluster into two or three underlying questions even when five different things were asked. **Pick two to open with**, and email the instructor which two by Wednesday night so the framing segment can set them up.
@@ -217,7 +217,7 @@ Choose for productivity, not politeness. The best opening question is one where 
 ### During class (25 minutes)
 You are chairing, not presenting. Practically:
 
-- Open with your first chosen ticket, addressed to a specific person — "Seoyeon, you argued X in your Method Card; this ticket says the opposite. Take it."
+- Open with your first chosen ticket, addressed to a specific person — "김NY, you argued X in your Method Card; this ticket says the opposite. Take it."
 - Track who has spoken. In a 16-person room, four people will take 80% of the airtime unless someone stops it. Stopping it is your job.
 - When the discussion loops, say so and move to the second question.
 - Reserve the last three minutes to ask the room: *what did we not resolve?* That unresolved thing goes in your synthesis.

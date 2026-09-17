@@ -4,6 +4,12 @@ title: "What changed"
 
 Newest first. Anything that moves a date or a deadline is also announced on ETL.
 
+## 2026-09-17 — What each role holder prepares, week by week
+
+Every role week in the [Weekly schedule](schedule.qmd) now opens with a **Roles this week** table: who holds each role, which method each Method Lead covers, which exemplar each Exemplar Analyst reads, and which exemplar each Skeptic attacks. Roles run in two tracks — Method Lead 1, Exemplar Analyst 1 and Skeptic 1 work one method and the paper that uses it; track 2 does the same for the other.
+
+The Week 6 role walkthrough now uses this semester's actual Week 6 role holders instead of placeholder names.
+
 ## 2026-09-17 — Calendar reset: sixteen weeks, four Tuesday sessions, role roster published
 
 **This replaces the 2026-09-10 plan below.** No session is asynchronous any more; every session meets in person.

@@ -53,6 +53,8 @@ Names are shown as initials. If you cannot find yourself or think a slot is wron
 
 Four of these weeks meet on a **Tuesday** — W8, W10, W11 and W13. Your deadlines for those weeks are counted back from the Tuesday, not the Thursday.
 
+What each role holder prepares — which method each Method Lead covers, which paper each Exemplar Analyst reads, which paper each Skeptic attacks — is listed at the top of each week in the [Weekly schedule](schedule.qmd). Method Lead 1, Exemplar Analyst 1 and Skeptic 1 form one track: the exemplar puts that Method Lead's method to work, and the Skeptic attacks that same exemplar. Track 2 works the same way.
+
 ### 4.2 Standard 150-minute running order
 
 | Time | Segment |
