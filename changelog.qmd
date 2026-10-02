@@ -4,6 +4,19 @@ title: "What changed"
 
 Newest first. Anything that moves a date or a deadline is also announced on ETL.
 
+## 2026-10-02 — Week 5 exemplars replaced
+
+**Week 5 has already met (10/1). Nothing you submitted for it needs redoing** — this change is for the record and for anyone returning to the week later.
+
+The two exemplars for Week 5 are now:
+
+- Tarekegn Gurmu, A., & Mahmood, M. N. (2024). "Critical factors affecting quality in building construction projects: Systematic review and meta-analysis." *JCEM*, 150(3) — a PRISMA systematic review, the design you drew a flow diagram for in Lab 1.
+- Darko et al. (2020), unchanged — the scientometric side of the same question.
+
+Zhao (2017) is dropped: its style of scientometric analysis no longer holds up well as a model. Javernick-Will & Scott (2010) stays on the page, but as a theory-driven study listed for reference rather than as the week's exemplar — it is not a clear model of problematization, which is what it was standing in for.
+
+Problematization is now explicitly the framing segment and everyone's reading. The two role tracks for the week are the two ways of treating a literature as data: reviewing it systematically, and mapping it.
+
 ## 2026-09-17 — What each role holder prepares, week by week
 
 Every role week in the [Weekly schedule](schedule.qmd) now opens with a **Roles this week** table: who holds each role, which method each Method Lead covers, which exemplar each Exemplar Analyst reads, and which exemplar each Skeptic attacks. Roles run in two tracks — Method Lead 1, Exemplar Analyst 1 and Skeptic 1 work one method and the paper that uses it; track 2 does the same for the other.

@@ -112,16 +112,16 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 ## Week 5 (10/1) — Theoretical point of departure: problematization and literature as data
 **Focus:** Filling the left side of the horseshoe — turning "there's a gap" into a defensible theoretical limitation. Framing segment extended by ~15 minutes for the IRB/ethics briefing (§4.6, item 2).
 
-**Roles this week** — track 1 (Method Lead 1, Exemplar Analyst 1, Skeptic 1) works one method and the paper that uses it; track 2 does the same for the other.
+**Roles this week** — problematization is the framing segment and everyone's reading (Edmondson & McManus, Alvesson & Sandberg, Whetten). The two tracks are the two ways of treating a literature as data: track 1 reviews it systematically, track 2 maps it.
 
 | Role | Who | What you prepare |
 |---|---|---|
-| Method Lead 1 | 최JM | Problematization and theoretical contribution — Alvesson & Sandberg (2011), Whetten (1989), Edmondson & McManus (2007) |
-| Method Lead 2 | 배JH | Literature as data: systematic review and scientometric mapping — Page et al. (2021), Webster & Watson (2002), van Eck & Waltman (2010) |
-| Exemplar Analyst 1 | 김SJ | Javernick-Will & Scott (2010) |
-| Exemplar Analyst 2 | 박SJ | Zhao (2017) |
-| Skeptic 1 | 김WB | Attack Javernick-Will & Scott (2010) |
-| Skeptic 2 | 김DH | Attack Zhao (2017) |
+| Method Lead 1 | 최JM | Systematic review as a method — Page et al. (2021) on PRISMA, Webster & Watson (2002); Borenstein et al. (2021) Ch. 1–5 if you want the meta-analysis half |
+| Method Lead 2 | 배JH | Bibliometric and scientometric mapping — van Eck & Waltman (2010): what a co-occurrence map is built from, and what it can and cannot support as a claim |
+| Exemplar Analyst 1 | 김SJ | Tarekegn Gurmu & Mahmood (2024) |
+| Exemplar Analyst 2 | 박SJ | Darko et al. (2020) |
+| Skeptic 1 | 김WB | Attack Tarekegn Gurmu & Mahmood (2024). Ask what the screening decisions excluded, and whether the pooled factors are commensurable enough to pool |
+| Skeptic 2 | 김DH | Attack Darko et al. (2020). Press on the gap between what the map shows and what the paper concludes from it |
 | Discussant / Scribe | 이JW | Chair the discussion; post the 300-word synthesis within 48 h |
 
 **Methods readings**
@@ -142,9 +142,9 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 
 **CEM exemplars**
 
-- Javernick-Will, A., & Scott, W. R. (2010). "Who needs to know what? Institutional knowledge and global projects." *JCEM*, 136(5), 546–557. [Theory-driven exemplar]
-- Zhao, X. (2017). "A scientometric review of global BIM research: Analysis and visualization." *Automation in Construction*, 80, 37–47. [Scientometric exemplar]
+- Tarekegn Gurmu, A., & Mahmood, M. N. (2024). "Critical factors affecting quality in building construction projects: Systematic review and meta-analysis." *JCEM*, 150(3). DOI: 10.1061/JCEMD4.COENG-13794. [Systematic review exemplar — PRISMA screening and a quantitative synthesis, the design you build a flow diagram for in Lab 1]
 - Darko, A., Chan, A. P. C., Adabre, M. A., Edwards, D. J., Hosseini, M. R., & Ameyaw, E. E. (2020). "Artificial intelligence in the AEC industry: Scientometric analysis and visualization." *Automation in Construction*, 112, 103081. [Scientometric exemplar]
+- *Theory-driven study, listed for reference rather than as this week's exemplar:* Javernick-Will, A., & Scott, W. R. (2010). "Who needs to know what? Institutional knowledge and global projects." *JCEM*, 136(5), 546–557. [Read it for how an institutional frame drives a design — not as a model of problematization, which is the part of it we are least sure about]
 - *CEM methods reading (position paper, not an exemplar):* Schweber, L. (2015). "Putting theory to work: The use of theory in construction research." *CME*, 33(10), 840–860. · Koskela, L. (2017). "Why is management research irrelevant?" *CME*, 35(1–2), 4–23.
 - *Meta-analysis exemplar, deliberately outside CEM:* Nahrgang, J. D., Morgeson, F. P., & Hofmann, D. A. (2011). "Safety at work: A meta-analytic investigation." *JAP*, 96(1), 71–94.
 
