@@ -299,8 +299,7 @@ No new readings.
 
 ---
 
-## Week 11 (Tue 11/10) — Causal inference: experiments, quasi-experiments, and archival identification
-**📅 Meets Tuesday 11/10, not Thursday** — Thursday 11/12 is unavailable. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
+## Week 11 (11/12) — Causal inference: experiments, quasi-experiments, and archival identification
 **Focus:** Internal validity; randomization; single-case and multiple-baseline designs; DiD / IV / matching; preregistration
 *Fischer's "variation studies on retrospective cases" and "charrette test" get their formal treatment here*
 **📌 Response-to-reviewers letters from Week 10 due**

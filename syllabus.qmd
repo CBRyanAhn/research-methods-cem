@@ -22,7 +22,7 @@ By the end of the course, you should be able to:
 
 Roles run in **W5, W6, W7, W8 and W11–W15** (nine weeks). W1–W3 are framing weeks with their own formats (§5); W4 does not meet (추석 연휴); W9 is Dr. Kunhee Choi's guest lecture; W10 and W16 are presentation and defense days. None of those four carry a role rotation.
 
-Three role weeks do not meet on a Thursday: **W8 is Monday 10/26 at 18:00**, and W11 (11/10) and W13 (11/24) are Tuesdays. The role runs exactly as it would on a Thursday.
+Two role weeks do not meet on a Thursday: **W8 is Monday 10/26 at 18:00**, and W13 (11/24) is a Tuesday. The role runs exactly as it would on a Thursday.
 
 Nine weeks × 7 slots = 63 slots for 12 students, so you get **five or six turns**. Everyone holds Method Lead, Exemplar Analyst and Skeptic at least once. Discussant / Scribe has nine slots for twelve people, so three of you will not hold it — that is arithmetic, not a judgement. A three-choice preference list was collected in Week 1 and the fixed roster is below. One backup per week is designated so an absence doesn't collapse the session.
 
@@ -44,13 +44,13 @@ Names are shown as initials. If you cannot find yourself or think a slot is wron
 | 6 | 10/8 | Qualitative I | 이JW, 김NY | 배JH, 김DH | 최JM, 주JH | 구MJ |
 | 7 | 10/15 | Qualitative II | 구MJ, 박SJ | 김CG, 김WB | 심GS, 주JH | 배JH |
 | 8 | Mon 10/26 | Surveys and quantitative modeling | 김CG, 배JH | 이JW, 주JH | 박SJ, 김DH | 김NY |
-| 11 | Tue 11/10 | Causal inference | 김DH, 김SJ | 심GS, 김NY | 구MJ, 김CG | 박SJ |
+| 11 | 11/12 | Causal inference | 김DH, 김SJ | 심GS, 김NY | 구MJ, 김CG | 박SJ |
 | 12 | 11/19 | Instrumented human-subject research | 심GS, 김NY | 구MJ, 최JM | 김SJ, 이JW | 김CG |
 | 13 | Tue 11/24 | Simulation | 박SJ, 주JH | 김CG, 김WB | 김SJ, 김NY | 심GS |
 | 14 | 12/3 | Data-driven research | 구MJ, 이JW | 김WB, 최JM | 배JH, 심GS | 김DH |
 | 15 | 12/10 | Closing the horseshoe | 김WB, 심GS | 박SJ, 김CG | 주JH, 최JM | 김SJ |
 
-Three of these weeks do not meet on a Thursday — W8 is Monday 10/26 at 18:00, W11 and W13 are Tuesdays. Your deadlines for those weeks are counted back from the day the class actually meets.
+Two of these weeks do not meet on a Thursday — W8 is Monday 10/26 at 18:00, and W13 is a Tuesday. Your deadlines for those weeks are counted back from the day the class actually meets.
 
 What each role holder prepares — which method each Method Lead covers, which paper each Exemplar Analyst reads, which paper each Skeptic attacks — is listed at the top of each week in the [Weekly schedule](schedule.qmd). Method Lead 1, Exemplar Analyst 1 and Skeptic 1 form one track: the exemplar puts that Method Lead's method to work, and the Skeptic attacks that same exemplar. Track 2 works the same way.
 
