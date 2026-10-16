@@ -2,7 +2,7 @@
 title: "Master calendar"
 ---
 
-15 sessions over 16 weeks, starting **Thursday 9/3/2026**. Sessions are on Thursdays except the four marked **Tue**.
+15 sessions over 16 weeks, starting **Thursday 9/3/2026**. Sessions are on Thursdays except the Monday and Tuesday ones marked in the table.
 
 | Week | Date | Topic | Notes |
 |---|---|---|---|
@@ -13,9 +13,9 @@ title: "Master calendar"
 | 5 | 10/1 | Theoretical point of departure (problematization + literature as data) | IRB/ethics briefing |
 | 6 | 10/8 | Qualitative I: interviews, coding, reliability *(+ IRB/ethics Q&A)* | — |
 | 7 | 10/15 | Qualitative II: case study, ethnography, mixed methods | — |
-| 8 | **Tue 10/20** | Surveys, measurement, Delphi, common method bias — **pre-proposal due** | Thu 10/22 is 건축학회 학술발표대회 |
-| 9 | 10/29 | Pre-proposal presentations, peer review, journal fit | — |
-| 10 | **Tue 11/3** | Quantitative modeling and reporting (regression, SEM) | Thu 11/5 is 건설관리학회 학술발표대회 |
+| 8 | **Mon 10/26, 18:00** | From instrument to model: surveys, measurement, and quantitative modeling — **pre-proposal due** | Evening session. Merged from two weeks |
+| 9 | 10/29 | **Special lecture — Dr. Kunhee Choi, "Making the most of your paper: what no one tells you!"** | No readings, no roles |
+| 10 | **Tue 11/3** | Pre-proposal presentations, peer review, journal fit | Thu 11/5 is 건설관리학회 학술발표대회 |
 | 11 | **Tue 11/10** | Causal inference (experiments, quasi-experiments, archival) | Thu 11/12 unavailable |
 | 12 | 11/19 | Instrumented human-subject research (sensing, eye-tracking, XR) — Horseshoe Wall checkpoint | — |
 | 13 | **Tue 11/24** | Simulation as a research method (DES, SD, ABM) | Thu 11/26 is AKC 2026 |
@@ -25,12 +25,13 @@ title: "Master calendar"
 
 ## What changed from the original calendar
 
-The first version of this page ran fifteen consecutive Thursdays, 9/3 to 12/10. Two things moved it:
+The first version of this page ran fifteen consecutive Thursdays, 9/3 to 12/10. Three things moved it:
 
 - **Chuseok.** 9/24 falls in the 추석 연휴, so there is no class that week. Rather than lose a session, every session from the old Week 4 onward runs **one week later**, and the final defense moves into Week 16 (12/17), the university's official make-up week. If you saw "Week 4 — Theoretical point of departure" on an earlier version, that session is now **Week 5 on 10/1**.
-- **Conference Thursdays.** In four weeks the Thursday slot is unavailable, so the session meets on the **Tuesday of the same week** instead: 10/20, 11/3, 11/10 and 11/24. Nothing else about those sessions changes — same format, same roles.
+- **Conference Thursdays.** In three weeks the Thursday slot is unavailable, so the session meets on the **Tuesday of the same week** instead: 11/3, 11/10 and 11/24. Nothing else about those sessions changes — same format, same roles. The 10/22 conference is covered by the Monday 10/26 session described below.
+- **A guest lecture, and one week built from two.** Dr. Kunhee Choi gives a special lecture on 10/29, so the pre-proposal presentations move to Week 10 (11/3) and everything after them shifts with it. To make that fit before the defense on 12/17, the survey-measurement week and the quantitative-modeling week are now a single session — Week 8, Monday 10/26 at 18:00. They were always one pipeline: you build an instrument, then you model what it produces. Weeks 11 to 16 keep both their numbers and their dates.
 
-For Tuesday sessions, anything due "before class" is counted back from the Tuesday. Time and room for the Tuesday sessions are announced on ETL.
+For sessions that are not on a Thursday, anything due "before class" is counted back from the day the class actually meets. Time and room for those sessions are announced on ETL.
 
 No other session date in this span coincides with a 2026 Korean public holiday (Gaecheonjeol falls on Saturday 10/3, its substitute holiday on Monday 10/5; Hangeul Day falls on Friday 10/9).
 

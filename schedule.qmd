@@ -231,24 +231,26 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 
 ---
 
-## Week 8 (Tue 10/20) — Surveys, measurement, and expert elicitation
-**📅 Meets Tuesday 10/20, not Thursday** — Thursday 10/22 is 건축학회 학술발표대회. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
-**Focus:** Construct operationalization; scale development; sampling; Delphi; common method bias
+## Week 8 (Mon 10/26, 18:00) — From instrument to model: surveys, measurement, and quantitative modeling
+**📅 Moved to Monday 10/26, 18:00.** This session merges two weeks that used to be separate — survey measurement, and the regression and SEM you run on what the instrument produces. Room announced on ETL. Anything due before class is counted back from the Monday.
+**Focus:** Construct operationalization; scale development; common method bias; regression; SEM (covariance-based and PLS); effect sizes over p-values
 **📌 Pre-proposal due (2 pages) at the start of this week**
 
-**Roles this week** — track 1 (Method Lead 1, Exemplar Analyst 1, Skeptic 1) works one method and the paper that uses it; track 2 does the same for the other.
+**Roles this week** — track 1 takes the measurement half, track 2 the modeling half, and each works the exemplar that uses it.
 
 | Role | Who | What you prepare |
 |---|---|---|
-| Method Lead 1 | 김SJ | Survey design, scale development, and common method bias — Dillman et al. (2014), Hinkin (1998), MacKenzie et al. (2011), Podsakoff et al. (2003, 2024) |
-| Method Lead 2 | 김CG | Delphi and structured expert elicitation — Okoli & Pawlowski (2004); Hallowell & Gambatese (2010) for the CEM how-to |
-| Exemplar Analyst 1 | 김NY | Fang, Chen & Wong (2006) |
-| Exemplar Analyst 2 | 이JW | Hallowell & Gambatese (2009) |
-| Skeptic 1 | 배JH | Attack Fang, Chen & Wong (2006). Use Zhang et al. (2022) for the common-method-bias diagnosis. |
-| Skeptic 2 | 김DH | Attack Hallowell & Gambatese (2009) |
-| Discussant / Scribe | 주JH | Chair the discussion; post the 300-word synthesis within 48 h |
+| Method Lead 1 | 김CG | Survey design, scale development, and common method bias — Dillman et al. (2014), Hinkin (1998), MacKenzie et al. (2011), Podsakoff et al. (2003, 2024) |
+| Method Lead 2 | 배JH | Regression and structural equation modeling — Wooldridge (2019), Kline (2023), Hair et al. (2022), Rönkkö & Cho (2022), Cumming (2014) |
+| Exemplar Analyst 1 | 이JW | Fang, Chen & Wong (2006) |
+| Exemplar Analyst 2 | 주JH | Molenaar, Washington & Diekmann (2000) |
+| Skeptic 1 | 박SJ | Attack Fang, Chen & Wong (2006). Use Zhang et al. (2022) for the common-method-bias diagnosis |
+| Skeptic 2 | 김DH | Attack Molenaar, Washington & Diekmann (2000) |
+| Discussant / Scribe | 김NY | Chair the discussion; post the 300-word synthesis within 48 h |
 
-**Methods readings**
+Delphi lost its own Method Lead when the two weeks merged. Okoli & Pawlowski and the two Hallowell & Gambatese papers stay on the list and the framing segment says what expert elicitation is for, but nobody presents it. If your own design needs structured elicitation, that reading is where to start.
+
+**Methods readings** — this is a double session, so the list is long. Everyone reads Hinkin; the rest is split between the two Method Leads, who present it to you.
 
 - Dillman, D. A., Smyth, J. D., & Christian, L. M. (2014). *Internet, Phone, Mail, and Mixed-Mode Surveys* (4th ed.). Wiley. Ch. 4–6.
 - Hinkin, T. R. (1998). "A brief tutorial on the development of measures for use in survey questionnaires." *ORM*, 1(1), 104–121.
@@ -256,21 +258,38 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 - Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). "Common method biases in behavioral research." *JAP*, 88(5), 879–903.
 - Podsakoff, P. M., Podsakoff, N. P., Williams, L. J., Huang, C., & Yang, J. (2024). "Common method bias: It's bad, it's complex, it's widespread, and it's not easy to fix." *Annual Review of Organizational Psychology and Organizational Behavior*, 11, 17–61.
 - Okoli, C., & Pawlowski, S. D. (2004). "The Delphi method as a research tool." *Information & Management*, 42(1), 15–29.
+- Wooldridge, J. M. (2019). *Introductory Econometrics* (7th ed.). Cengage. Ch. 3–4 (skim), Ch. 9 (specification).
+- Kline, R. B. (2023). *Principles and Practice of Structural Equation Modeling* (5th ed.). Guilford. Ch. 1–3, 9.
+- Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2022). *A Primer on PLS-SEM* (3rd ed.). SAGE. Ch. 1–2, 6.
+- Rönkkö, M., & Cho, E. (2022). "An updated guideline for assessing discriminant validity." *ORM*, 25(1), 6–14.
+- Cumming, G. (2014). "The new statistics: Why and how." *Psychological Science*, 25(1), 7–29.
 
-→ **If you only have time for one:** Hinkin (1998). It's the most directly usable for the instrument you'll draft in this week's lab.
+→ **If you only have time for one:** Hinkin (1998). It's the most directly usable for the instrument you draft in Lab 4, and a model you cannot specify an instrument for is not a model you can defend. If you are heading straight for SEM, read Kline Ch. 1–3 next.
 
 **CEM readings and exemplars**
 
-- Zhang, et al. (2022). "Mitigating common method bias in construction engineering and management research." *JCEM*, 148(9). DOI: 10.1061/(ASCE)CO.1943-7862.0002364. [Finds ~90% of survey-based JCEM papers likely affected. This is a review/discussion piece, not itself a substantive exemplar — read it for the diagnosis, not as a model to imitate.]
-- Hallowell, M. R., & Gambatese, J. A. (2010). "Qualitative research: Application of the Delphi method to CEM research." *JCEM*, 136(1), 99–107. [*CEM methods reading — a how-to essay, not an exemplar.*]
-- Hallowell, M. R., & Gambatese, J. A. (2009). "Activity-based safety risk quantification for concrete formwork construction." *JCEM*, 135(10), 990–998. [Delphi exemplar]
 - Fang, D., Chen, Y., & Wong, L. (2006). "Safety climate in construction industry: A case study in Hong Kong." *JCEM*, 132(6), 573–584. [Survey exemplar]
+- Molenaar, K., Washington, S., & Diekmann, J. (2000). "Structural equation model of construction contract dispute potential." *JCEM*, 126(4), 268–277. [SEM exemplar]
+- Doloi, H. (2013). "Cost overruns and failure in project management: Understanding the roles of key stakeholders in construction projects." *JCEM*, 139(3), 267–279. [Regression exemplar — factor analysis plus multivariate regression on survey data]
+- Hallowell, M. R., & Gambatese, J. A. (2009). "Activity-based safety risk quantification for concrete formwork construction." *JCEM*, 135(10), 990–998. [Delphi exemplar]
+- Zhang, et al. (2022). "Mitigating common method bias in construction engineering and management research." *JCEM*, 148(9). DOI: 10.1061/(ASCE)CO.1943-7862.0002364. [Finds ~90% of survey-based JCEM papers likely affected. This is a review/discussion piece, not itself a substantive exemplar — read it for the diagnosis, not as a model to imitate.]
+- *CEM methods readings (how-to and discussion pieces, not exemplars):* Hallowell, M. R., & Gambatese, J. A. (2010). "Qualitative research: Application of the Delphi method to CEM research." *JCEM*, 136(1), 99–107. · "Methodological consistency for quantitative analysis and reporting in project delivery system performance research." *JCEM* (Second Special Collection, 2022).
 
-**Lab 4 (graded):** (a) Draft a 10-item instrument for one construct from your own pre-proposal; run a 15-minute cognitive pretest on a classmate and revise. (b) On the provided dataset, run Harman's single-factor test and a marker-variable test, then argue whether CMB is a real threat or a ritual in that case.
+**Lab 4 (graded, in class):** (a) Draft a 10-item instrument for one construct from your own pre-proposal; run a 15-minute cognitive pretest on a classmate and revise. (b) On the provided dataset, run Harman's single-factor test and a marker-variable test, then argue whether CMB is a real threat or a ritual in that case.
+
+**Lab 5 (graded, take-home — the two labs no longer fit in one session):** On one provided dataset, fit (i) OLS with a mediator tested by regression and (ii) a PLS-SEM model of the same theory. Deliverable: 2-page memo — "Would a reviewer accept both? Which would you defend, and on what grounds?" Due one week after class, same as every other graded lab.
 
 ---
 
-## Week 9 (10/29) — Pre-proposal presentations, peer review, and journal fit
+## Week 9 (10/29) — Special lecture: "Making the most of your paper: what no one tells you!"
+**Guest: Dr. Kunhee Choi.** No readings, no roles, no deliverable.
+
+This sits between the pre-proposal you hand in on 10/26 and the presentations in Week 10. Come with the questions you could not answer while writing the pre-proposal — the ones about what happens to a paper after the research is done.
+
+---
+
+## Week 10 (Tue 11/3) — Pre-proposal presentations, peer review, and journal fit
+**📅 Meets Tuesday 11/3, not Thursday** — Thursday 11/5 is 건설관리학회 학술발표대회. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
 No new readings.
 
 1. Present the pre-proposal in 6 minutes + 4 minutes Q&A — problem, gap, question, proposed design, why that design. The horseshoe is the required slide format.
@@ -280,48 +299,11 @@ No new readings.
 
 ---
 
-## Week 10 (Tue 11/3) — Quantitative modeling and reporting
-**📅 Meets Tuesday 11/3, not Thursday** — Thursday 11/5 is 건설관리학회 학술발표대회. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
-**Focus:** Regression; SEM (covariance-based and PLS); reporting standards; effect sizes over p-values
-
-**Roles this week** — track 1 (Method Lead 1, Exemplar Analyst 1, Skeptic 1) works one method and the paper that uses it; track 2 does the same for the other.
-
-| Role | Who | What you prepare |
-|---|---|---|
-| Method Lead 1 | 배JH | Regression, specification, and effect sizes — Wooldridge (2019), Cumming (2014) |
-| Method Lead 2 | 김DH | Structural equation modeling, covariance-based and PLS — Kline (2023), Hair et al. (2022), Rönkkö & Cho (2022) |
-| Exemplar Analyst 1 | 김SJ | Doloi (2013) |
-| Exemplar Analyst 2 | 주JH | Molenaar, Washington & Diekmann (2000) |
-| Skeptic 1 | 박SJ | Attack Doloi (2013) |
-| Skeptic 2 | 김CG | Attack Molenaar, Washington & Diekmann (2000) |
-| Discussant / Scribe | 김NY | Chair the discussion; post the 300-word synthesis within 48 h |
-
-**Methods readings**
-
-- Wooldridge, J. M. (2019). *Introductory Econometrics* (7th ed.). Cengage. Ch. 3–4 (skim), Ch. 9 (specification).
-- Kline, R. B. (2023). *Principles and Practice of Structural Equation Modeling* (5th ed.). Guilford. Ch. 1–3, 9.
-- Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2022). *A Primer on PLS-SEM* (3rd ed.). SAGE. Ch. 1–2, 6.
-- Rönkkö, M., & Cho, E. (2022). "An updated guideline for assessing discriminant validity." *ORM*, 25(1), 6–14.
-- Cumming, G. (2014). "The new statistics: Why and how." *Psychological Science*, 25(1), 7–29.
-
-→ **If you only have time for one:** Kline, Ch. 1–3. It's the conceptual foundation for the SEM half of this week's lab, and Hair et al. only makes sense once Kline's basics are in place.
-
-**CEM exemplars**
-
-- Molenaar, K., Washington, S., & Diekmann, J. (2000). "Structural equation model of construction contract dispute potential." *JCEM*, 126(4), 268–277. [SEM exemplar]
-- Doloi, H. (2013). "Cost overruns and failure in project management: Understanding the roles of key stakeholders in construction projects." *JCEM*, 139(3), 267–279. [Regression exemplar — factor analysis plus multivariate regression on survey data]
-
-*CEM methods reading (discussion piece, not an exemplar):* "Methodological consistency for quantitative analysis and reporting in project delivery system performance research." *JCEM* (Second Special Collection, 2022).
-
-**Lab 5 (graded):** On one provided dataset, fit (i) OLS with a mediator tested by regression and (ii) a PLS-SEM model of the same theory. Deliverable: 2-page memo — "Would a reviewer accept both? Which would you defend, and on what grounds?"
-
----
-
 ## Week 11 (Tue 11/10) — Causal inference: experiments, quasi-experiments, and archival identification
 **📅 Meets Tuesday 11/10, not Thursday** — Thursday 11/12 is unavailable. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
 **Focus:** Internal validity; randomization; single-case and multiple-baseline designs; DiD / IV / matching; preregistration
 *Fischer's "variation studies on retrospective cases" and "charrette test" get their formal treatment here*
-**📌 Response-to-reviewers letters from Week 9 due**
+**📌 Response-to-reviewers letters from Week 10 due**
 
 **Roles this week** — track 1 (Method Lead 1, Exemplar Analyst 1, Skeptic 1) works one method and the paper that uses it; track 2 does the same for the other.
 
@@ -332,7 +314,7 @@ No new readings.
 | Exemplar Analyst 1 | 심GS | Albert et al. (2015) |
 | Exemplar Analyst 2 | 김NY | Flyvbjerg, Holm & Buhl (2002) |
 | Skeptic 1 | 구MJ | Attack Albert et al. (2015) |
-| Skeptic 2 | 최JM | Attack Flyvbjerg, Holm & Buhl (2002). Ask whether the design can actually separate "error" from "lie". |
+| Skeptic 2 | 김CG | Attack Flyvbjerg, Holm & Buhl (2002). Ask whether the design can actually separate "error" from "lie". |
 | Discussant / Scribe | 박SJ | Chair the discussion; post the 300-word synthesis within 48 h |
 
 **Methods readings**
@@ -408,7 +390,7 @@ No new readings.
 | Method Lead 2 | 주JH | Agent-based modeling and the ODD protocol — Railsback & Grimm (2019) Ch. 1–3, Grimm et al. (2020) |
 | Exemplar Analyst 1 | 김CG | Peña-Mora & Park (2001) |
 | Exemplar Analyst 2 | 김WB | Watkins et al. (2009) |
-| Skeptic 1 | 구MJ | Attack Peña-Mora & Park (2001). Read Howell's published Discussion and the reply first, then go beyond them. |
+| Skeptic 1 | 김SJ | Attack Peña-Mora & Park (2001). Read Howell's published Discussion and the reply first, then go beyond them. |
 | Skeptic 2 | 김NY | Attack Watkins et al. (2009). Use Jung et al. (2017) as the contrast on what counts as an agent. |
 | Discussant / Scribe | 심GS | Chair the discussion; post the 300-word synthesis within 48 h |
 

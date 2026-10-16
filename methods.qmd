@@ -8,8 +8,8 @@ This is the menu the course draws from. Frequency labels reflect what dominates 
 
 | # | Method | Typical CEM use | Week |
 |---|---|---|---|
-| A1 | Questionnaire survey + statistical inference | Perception, climate, adoption, success-factor studies | W8, W10 |
-| A2 | Structural equation modeling (CB-SEM / PLS-SEM) | Latent constructs: safety climate, trust, BIM adoption | W10 |
+| A1 | Questionnaire survey + statistical inference | Perception, climate, adoption, success-factor studies | W8 |
+| A2 | Structural equation modeling (CB-SEM / PLS-SEM) | Latent constructs: safety climate, trust, BIM adoption | W8 |
 | A3 | Semi-structured interviews + thematic analysis / grounded theory | Practice, barriers, meaning-making | W6 |
 | A4 | Case study research (single / multiple, embedded) | Project-level phenomena in context | W7 |
 | A5 | Ethnography / participant observation / shadowing | Site culture, craft work, informal coordination | W7 |
