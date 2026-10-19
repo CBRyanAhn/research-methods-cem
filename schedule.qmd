@@ -231,8 +231,8 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 
 ---
 
-## Week 8 (Mon 10/26, 18:00) — From instrument to model: surveys, measurement, and quantitative modeling
-**📅 Moved to Monday 10/26, 18:00.** This session merges two weeks that used to be separate — survey measurement, and the regression and SEM you run on what the instrument produces. Room announced on ETL. Anything due before class is counted back from the Monday.
+## Week 8 (Tue 10/27, 18:00) — From instrument to model: surveys, measurement, and quantitative modeling
+**📅 Moved to Tuesday 10/27, 18:00.** This session merges two weeks that used to be separate — survey measurement, and the regression and SEM you run on what the instrument produces. Room announced on ETL. Anything due before class is counted back from the Monday.
 **Focus:** Construct operationalization; scale development; common method bias; regression; SEM (covariance-based and PLS); effect sizes over p-values
 **📌 Pre-proposal due (2 pages) at the start of this week**
 
@@ -284,7 +284,7 @@ Delphi lost its own Method Lead when the two weeks merged. Okoli & Pawlowski and
 ## Week 9 (10/29) — Special lecture: "Making the most of your paper: what no one tells you!"
 **Guest: Dr. Kunhee Choi.** No readings, no roles, no deliverable.
 
-This sits between the pre-proposal you hand in on 10/26 and the presentations in Week 10. Come with the questions you could not answer while writing the pre-proposal — the ones about what happens to a paper after the research is done.
+This sits between the pre-proposal you hand in on 10/27 and the presentations in Week 10. Come with the questions you could not answer while writing the pre-proposal — the ones about what happens to a paper after the research is done.
 
 ---
 

@@ -12,7 +12,7 @@ The version here is always current. Anything posted on ETL links back to this pa
 :::
 
 **Format:** Seminar (student-led) · **Language:** English · **Enrollment:** ~16 (mostly MS) · **Credits:** 3
-**Meeting pattern:** one 150-minute block per week, Thursdays — except a Monday evening session, two Tuesday sessions, and no class in the Chuseok week; see the [calendar](calendar.qmd)
+**Meeting pattern:** one 150-minute block per week, Thursdays — except three Tuesday sessions, one of them an evening session, and no class in the Chuseok week; see the [calendar](calendar.qmd)
 
 ## How the course runs
 
