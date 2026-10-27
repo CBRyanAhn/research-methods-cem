@@ -99,7 +99,7 @@ If your program's IRB office requires a certified training module (e.g., CITI tr
 | Horseshoe assignments (W3 reconstruction + own horseshoe, maintained on the wall) | 10% | Graded twice: W3 and W12 |
 | Method Labs (6 graded deliverables) | 15% | Labs 1, 2, 4, 5, 6, 9 below; 2–3 pages each, due one week after |
 | Peer review assignment | 10% | Two referee reports on classmates' pre-proposals |
-| Pre-proposal (2 pages) + presentation | 10% | Due W8 (Tue 10/27), presented W10 (Tue 11/3) |
+| Pre-proposal (2 pages) + presentation | 10% | Due **Sunday 11/1**; presented W10 (Tue 11/3) |
 | Final proposal (8–10 pages) + panel defense | 25% | Due end of W15 (12/10), defended W16 (12/17) |
 
 Grade-on-a-curve, A–F. Absence over 1/3 of sessions results in F/U except where the instructor deems the cause unavoidable.

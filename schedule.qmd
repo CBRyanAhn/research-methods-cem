@@ -234,7 +234,7 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 ## Week 8 (Tue 10/27, 18:00) — From instrument to model: surveys, measurement, and quantitative modeling
 **📅 Moved to Tuesday 10/27, 18:00.** This session merges two weeks that used to be separate — survey measurement, and the regression and SEM you run on what the instrument produces. Room announced on ETL. Anything due before class is counted back from the Monday.
 **Focus:** Construct operationalization; scale development; common method bias; regression; SEM (covariance-based and PLS); effect sizes over p-values
-**📌 Pre-proposal due (2 pages) at the start of this week**
+**📌 The pre-proposal is no longer due at this session — it is due Sunday 11/1.**
 
 **Roles this week** — track 1 takes the measurement half, track 2 the modeling half, and each works the exemplar that uses it.
 
@@ -284,12 +284,13 @@ Delphi lost its own Method Lead when the two weeks merged. Okoli & Pawlowski and
 ## Week 9 (10/29) — Special lecture: "Making the most of your paper: what no one tells you!"
 **Guest: Dr. Kunhee Choi.** No readings, no roles, no deliverable.
 
-This sits between the pre-proposal you hand in on 10/27 and the presentations in Week 10. Come with the questions you could not answer while writing the pre-proposal — the ones about what happens to a paper after the research is done.
+This lands while you are still writing the pre-proposal, which is due Sunday 11/1, and two days before you present it in Week 10. Come with the questions you cannot answer while writing it — the ones about what happens to a paper after the research is done.
 
 ---
 
 ## Week 10 (Tue 11/3) — Pre-proposal presentations, peer review, and journal fit
 **📅 Meets Tuesday 11/3, not Thursday** — Thursday 11/5 is 건설관리학회 학술발표대회. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
+**📌 Pre-proposal (2 pages) due Sunday 11/1**, before this session.
 No new readings.
 
 1. Present the pre-proposal in 6 minutes + 4 minutes Q&A — problem, gap, question, proposed design, why that design. The horseshoe is the required slide format.

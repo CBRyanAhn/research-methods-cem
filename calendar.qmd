@@ -13,9 +13,9 @@ title: "Master calendar"
 | 5 | 10/1 | Theoretical point of departure (problematization + literature as data) | IRB/ethics briefing |
 | 6 | 10/8 | Qualitative I: interviews, coding, reliability *(+ IRB/ethics Q&A)* | — |
 | 7 | 10/15 | Qualitative II: case study, ethnography, mixed methods | — |
-| 8 | **Tue 10/27, 18:00** | From instrument to model: surveys, measurement, and quantitative modeling — **pre-proposal due** | Evening session. Merged from two weeks |
+| 8 | **Tue 10/27, 18:00** | From instrument to model: surveys, measurement, and quantitative modeling | Evening session. Merged from two weeks |
 | 9 | 10/29 | **Special lecture — Dr. Kunhee Choi, "Making the most of your paper: what no one tells you!"** | No readings, no roles |
-| 10 | **Tue 11/3** | Pre-proposal presentations, peer review, journal fit | Thu 11/5 is 건설관리학회 학술발표대회 |
+| 10 | **Tue 11/3** | Pre-proposal presentations, peer review, journal fit — **pre-proposal due Sun 11/1** | Thu 11/5 is 건설관리학회 학술발표대회 |
 | 11 | 11/12 | Causal inference (experiments, quasi-experiments, archival) | — |
 | 12 | 11/19 | Instrumented human-subject research (sensing, eye-tracking, XR) — Horseshoe Wall checkpoint | — |
 | 13 | **Tue 11/24** | Simulation as a research method (DES, SD, ABM) | Thu 11/26 is AKC 2026 |
