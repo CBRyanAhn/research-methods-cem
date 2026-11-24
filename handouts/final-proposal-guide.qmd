@@ -1,0 +1,228 @@
+---
+title: "Final proposal — format, page budget, and grading"
+subtitle: "Due Sunday 12/13, 24:00 · Panel discussion Thursday 12/17"
+---
+
+::: {.callout-important}
+## The short version
+
+**Five pages, references not counted, graded on the proposal rubric in [How the course works §7.3](../syllabus.qmd#proposal-rubric-100-pts).** Upload a PDF to ETL by **Sunday 12/13, 24:00**. Everything below is a way of spending five pages in proportion to the points on offer.
+:::
+
+This guide replaces the earlier "8–10 pages" figure. Downloads are in [§7](#downloads) and the peer-review process is in [§8](#panels). The five pages are not a shortened version of a longer proposal; they force the same decisions earlier. A reader who finishes page 5 should be able to say what you will study, why that is worth doing, how you will study it, what could make you wrong, and whether you can finish.
+
+## 1. Format rules
+
+| | |
+|---|---|
+| **Length** | 5 pages. Title block, text, figures, tables, and footnotes all count. |
+| **Not counted** | References, and the short AI-use disclosure the course already requires (5 lines at most). |
+| **Layout** | A4, single column, 11 pt, single-spaced, 2 cm margins. Do not shrink fonts or margins to fit. |
+| **Cover page** | None. Put the title block at the top of page 1 (see §3). |
+| **Language** | English. |
+| **Citations** | Author–date. Every reference carries a DOI or a stable URL. |
+| **Separate, not attached** | Your IRB protocol draft (due at the start of Week 6) is its own document. Do not paste it in; §6 summarizes it in a few lines. |
+| **File** | PDF, named `FamilyName_FinalProposal.pdf`. |
+| **Deadline** | Sunday 12/13, 24:00, on ETL. Your classmates read it on Monday–Wednesday, so a late file costs them time as well as you. |
+
+::: {.callout-warning}
+## One rule about references
+
+Every paper in your reference list is one **you have opened and read**. A citation you saw in an AI answer, a slide, or another paper's reference list, and did not check, does not go in. Fabricated and mis-attributed citations are the most common serious error in student proposals, and a reviewer who finds one stops trusting the rest.
+:::
+
+## 2. Where the five pages go
+
+The budget follows the rubric. Method and validity carry 55 of the 100 points, so they get just over half the space.
+
+| § | Section | Rubric line | Points | Pages | Horseshoe boxes |
+|---|---|---|---|---|---|
+| — | Title block + summary | (writing quality) | — | 0.3 | — |
+| 1 | Problem and significance | Problem significance and framing | 15 | 0.8 | Observed Problem · Theoretical Limitation · Contribution · Practical Significance |
+| 2 | Research question and scope | Question: answerable, specific, non-trivial | 15 | 0.8 (incl. Figure 1) | Research Questions |
+| 3 | Design and methodological fit | Methodological fit — design justified against alternatives | 25 | 1.1 | Research Tasks |
+| 4 | Data, sampling, and analysis plan | Feasible at MS scale | 15 | 0.8 | Research Tasks · Research Results |
+| 5 | Threats to validity | Threats identified and addressed | 15 | 0.6 | Research Results |
+| 6 | Ethics, feasibility, and timeline | Ethics, feasibility, and timeline | 5 | 0.6 | — |
+| | **Whole document** | Writing and reference quality | 10 | **5.0** | |
+
+Section 6 gets more space than its 5 points suggest because the timeline is a table, and tables are hungry. Keep the prose in §6 short.
+
+## 3. What to write, section by section
+
+### Title block and summary (0.3 page)
+
+- Title: at most 15 words. Name the object of study and the approach.
+- Your name, your lab or advisor, one line.
+- **Summary, 150 words at most**: the problem, the question, the design, the expected contribution. Write it last.
+
+### §1 Problem and significance (0.8 page, 15 pts)
+
+Three moves, in this order.
+
+1. **The observed problem.** Specific enough that someone could tell whether it had been solved. "Construction safety is a concern" is not an observed problem; "workers on scaffolds under time pressure skip hazard checks, and near-miss logs do not capture it" is.
+2. **The theoretical limitation.** What the literature cannot yet explain or do. State the gap in one sentence of the form *X is established; Y is not; Y matters because Z.* Support it with the three to six papers that actually carry the argument, not a survey of the area.
+3. **Contribution and practical significance.** Two or three sentences, and keep them distinct. The contribution is what we will *know* that we did not; the practical significance is what someone could *do* differently.
+
+| Reads as strong | Reads as weak |
+|---|---|
+| The gap is stated as a claim a reviewer could dispute. | The gap is "few studies have examined…". |
+| Citations are the ones the argument depends on. | Citations are a list of everything found. |
+| Contribution and practical significance are different sentences. | "This will improve safety and advance knowledge." |
+
+### §2 Research question and scope (0.8 page including Figure 1, 15 pts)
+
+- **At most two research questions.** Each one must be answerable by a kind of evidence you can name, and each should name its metric or the observation that would count as an answer.
+- **Scope:** the population, setting, and period, and one or two things you are deliberately *not* studying.
+- **Figure 1: your horseshoe, compact.** One line per box, no more than a third of a page. It must agree with the text. If your horseshoe changed after the Week 12 checkpoint, show the current one.
+
+A question that fails the "what would count as an answer?" test cannot be rescued in §3 or §4. Fix it here.
+
+### §3 Design and methodological fit (1.1 pages, 25 pts)
+
+This is the most heavily weighted section, and the one where proposals most often say least. Cover these, in about this order.
+
+1. **Design family and method.** One or two sentences.
+2. **Why it fits this question.** Argue from the state of the literature and the kind of claim you want to make, not from familiarity. The methodological-fit argument from Week 5 is the tool here: a nascent topic, an intermediate one, and a mature one call for different designs.
+3. **Two alternatives you rejected.** Name each, say what it would have given you, and say what it would have cost. This is what "justified against alternatives" means in the rubric. A rejected alternative with no stated cost does not count.
+4. **Your test method.** If you are working in the horseshoe tradition, say which of Fischer's four you are using and why. If your study is interpretive, say which logic of inference you are relying on (for example, Eisenhardt-style theory building from cases) and what makes a conclusion defensible under it.
+5. **What the design licenses, and what it does not.** One sentence each. This is where you show you know the limits of your own method.
+6. **What changed after your pre-proposal review.** Two or three sentences, if the review changed anything. If it changed nothing, say why you held your ground.
+
+| Reads as strong | Reads as weak |
+|---|---|
+| "A survey would reach more people but cannot show the sequence of events I need; I accept the narrower sample." | "I chose interviews because they are commonly used in this area." |
+| The method is matched to the *claim* you want to make. | The method is matched to the tools you already have. |
+
+### §4 Data, sampling, and analysis plan (0.8 page, 15 pts)
+
+Include one table that links the pieces:
+
+| RQ | Data | Sample and size (and why that size) | Analysis | What result would answer the question |
+|---|---|---|---|---|
+
+Then, in prose, cover the points that apply to your design: how you get access to data or participants, how you chose the sample size (power analysis, saturation, number of coders, size of the held-out set), which instruments or measures you use and where they come from, and the order of the analysis steps.
+
+"Feasible at MS scale" means one student, within your thesis timeline, with the access and equipment you actually have. If you have already run a pilot or a course lab on this topic, say so and say what it showed. That is the strongest feasibility evidence you can offer.
+
+### §5 Threats to validity (0.6 page, 15 pts)
+
+Name **three or four threats specific to your design**, not a generic list. For each one, say how it could produce your result *falsely*, what you will do about it, and what risk remains after that.
+
+| Threat | How it could produce a false result | What I do about it | Residual risk |
+|---|---|---|---|
+
+The threat types change with the design. A survey study should be asking about common method bias and construct validity. A coded-interview study should be asking about codebook provenance and intercoder agreement. A sensing or XR study should be asking about the distance from signal to construct and about ecological validity. A machine-learning study should be asking about leakage and about whether the test set comes from different subjects and sites. Use the weeks of this course that match your design.
+
+The weak version is a list of five threats, each with the answer "future work". The strong version is three threats that could actually sink the study, each with a concrete response.
+
+### §6 Ethics, feasibility, and timeline (0.6 page, 5 pts)
+
+- **Ethics.** IRB status (not needed, exempt, to be submitted, or submitted), consent and data handling in two or three lines, and any physical risk. Point to your Week 6 protocol draft rather than reproducing it.
+- **Feasibility.** Access to your data, site, participants, or equipment; your advisor's role; any skill you still need to acquire.
+- **Timeline.** A table of phases against months, tied to your actual thesis schedule, with one line on what you will do if the riskiest phase slips.
+
+## 4. Ways proposals lose points
+
+1. A question that cannot be answered by any evidence the design produces.
+2. A method justified by "it is widely used" instead of by fit to the claim.
+3. A gap stated as "few studies have…" with no argument that the gap matters.
+4. Threats to validity written as a disclaimer instead of a plan.
+5. A sample size with no reason attached.
+6. A timeline that ignores coursework, IRB lead time, or data access.
+7. Contribution and practical significance merged into one sentence.
+8. References you did not read.
+
+## 5. Check before you upload
+
+- [ ] 5 pages or fewer, excluding references and the AI-use note. No shrunken fonts or margins.
+- [ ] The summary matches what the document now says.
+- [ ] Each research question can be answered by a named kind of evidence.
+- [ ] Figure 1 matches the text.
+- [ ] §3 names two rejected alternatives and what each would have cost.
+- [ ] §4 has the RQ → data → analysis table, and the sample size has a reason.
+- [ ] §5 names threats specific to *this* design, with a response to each.
+- [ ] §6 states IRB status and gives a timeline with a fallback.
+- [ ] Every reference was opened by you and has a DOI or a stable URL.
+- [ ] The file is a PDF and opens, prints, and copies text correctly.
+
+## 6. A fill-in skeleton
+
+Copy this and replace the prompts. The numbers in parentheses are page budgets.
+
+```
+TITLE (≤ 15 words)
+Name · Lab/Advisor
+
+SUMMARY (≤ 150 words; write last)          (0.3 in total with the title block)
+
+1. PROBLEM AND SIGNIFICANCE                                          (0.8)
+   Observed problem — specific, with visible success criteria.
+   Theoretical limitation — X is established; Y is not; Y matters because Z.
+   Contribution (what we will know) / Practical significance (what someone could do).
+
+2. RESEARCH QUESTION AND SCOPE                                       (0.8)
+   RQ1 [metric / what would count as an answer]
+   RQ2 (optional)
+   Scope: population · setting · period · what is out of scope.
+   Figure 1 — horseshoe, one line per box, ≤ 1/3 page.
+
+3. DESIGN AND METHODOLOGICAL FIT                                     (1.1)
+   Design and method.
+   Why it fits this question (state of the literature → design family).
+   Alternative A — gives / costs.    Alternative B — gives / costs.
+   Test method or logic of inference.
+   What the design licenses / does not license.
+   What changed after the pre-proposal review.
+
+4. DATA, SAMPLING, AND ANALYSIS PLAN                                 (0.8)
+   Table: RQ | Data | Sample and size (why) | Analysis | What would answer it
+   Access · instruments or measures · order of analysis · pilot, if any.
+
+5. THREATS TO VALIDITY                                               (0.6)
+   Table: Threat | How it produces a false result | Response | Residual risk
+   (three or four, specific to this design)
+
+6. ETHICS, FEASIBILITY, AND TIMELINE                                 (0.6)
+   IRB status · consent and data handling · physical risk.
+   Access · advisor role · skills still needed.
+   Timeline table by month, with a fallback for the riskiest phase.
+
+REFERENCES (not counted)
+AI-USE NOTE (not counted; 5 lines at most)
+```
+
+## 7. Downloads {#downloads}
+
+- **Proposal template (HWP)** — [Final_Proposal_Template.hwp](Final_Proposal_Template.hwp). This is a national-research-foundation-style proposal form with a five-page limit on its sections 1–6, and the same exclusions as this course (references, and the cover and supporting material, do not count). It was written for the NRF's 2025 *doctoral* student grant, so its wording refers to a doctoral thesis and an advising professor; read those as "your proposed study" and your advisor. Opening it needs Hancom Office (한글) or the free Hancom Viewer. If you would rather not use it, the skeleton in §6 gives you the same five pages in the order the rubric scores them.
+- **Peer review form** — [English](Final_Proposal_Peer_Review_Form_EN.docx) · [한국어](Final_Proposal_Peer_Review_Form_KO.docx). Same form in both languages; write the review in whichever language you think more clearly in.
+
+**Whichever format you use, you are graded on [§7.3](../syllabus.qmd#proposal-rubric-100-pts), not on the template.** If you use the HWP form, this is how its sections line up with the rubric:
+
+| HWP template section | Where it counts in the rubric |
+|---|---|
+| 1. 연구개발과제의 필요성 | Problem significance and framing; Question |
+| 2. 연구개발과제의 목표 및 내용 | Question; scope |
+| 3. 추진전략·방법 및 추진체계 | Methodological fit; Data, sampling, and analysis; Threats to validity; timeline |
+| 4. 연구자의 연구 수행역량 | Not scored. Keep it to a few lines, or use it for feasibility (access, equipment, skills) |
+| 5. 연구개발성과의 활용방안 및 기대효과 | Contribution and practical significance (part of Problem significance and framing) |
+| 6. 기타 | Ethics and IRB status |
+
+The template has no section for threats to validity, which carries 15 points. Put it inside section 3, with its own sub-heading.
+
+## 8. Panels, peer review, and the discussion {#panels}
+
+The twelve of you are split into **two panels of six**. Each panel discusses and evaluates its six proposals at the Week 16 session on **Thursday 12/17**.
+
+1. **The instructor assigns the panels** and posts them on ETL.
+2. **Before the session, write a peer review of each of the other five proposals in your panel** using the form above. It has four parts: (1) a summary of the research objective, (2) strengths and weaknesses for theoretical contribution, (3) strengths and weaknesses for practical significance, and (4) an overall evaluation on a five-point scale — Excellent, Very good, Good, Fair, Poor. Write the strengths and weaknesses as paragraphs, not bullet fragments. Point to a section, and say what would fix the problem.
+3. **Bring your reviews to the panel.** The discussion works from them, so a review you did not write is a discussion you cannot join.
+4. The review criteria are the ones in [§7.3](../syllabus.qmd#proposal-rubric-100-pts) and the referee-report standards in §7.4 of [How the course works](../syllabus.qmd).
+
+Time per proposal and how the two panels run on the day will be posted on the [Week 16](../schedule.qmd) page.
+
+::: {.callout-note collapse="true"}
+## If you later apply for the NRF master's research grant
+
+The 한국연구재단 석사과정생연구장려금 uses a different, shorter format: according to the 2026 call, a plan of three pages scored on applicant capability and research environment (40), fit between study plan and academic plan (40), and growth potential and expected effect (20). Sections 1–5 above are the research-plan part of that application. You would add the capability, environment, and career material and cut the rest to fit. Eligibility depends on nationality and enrollment semesters, and the call is reissued each year, so read the current announcement before planning around it.
+:::

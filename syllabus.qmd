@@ -20,13 +20,13 @@ By the end of the course, you should be able to:
 
 ### 4.1 Weekly roles (rotating)
 
-Roles run in **W5, W6, W7, W8, W11, W12, W13 and W15** (eight weeks). W1–W3 are framing weeks with their own formats (§5); W4 does not meet (추석 연휴); W9 is Dr. Kunhee Choi's guest lecture; W10 and W16 are presentation and defense days; **W14 has no class session — the building is closed on 12/3**. None of those carry a role rotation.
+Roles run in **W5, W6, W7, W8, W11, W12, W13 and W15** (eight weeks). W1–W3 are framing weeks with their own formats (§5); W4 does not meet (추석 연휴); W9 is Dr. Kunhee Choi's guest lecture; W10 and W16 are presentation and panel days; **W14 has no class session — the building is closed on 12/3**. None of those carry a role rotation.
 
 One role week does not meet on a Thursday: **W8 was Tuesday 10/27, starting at 18:00**. Every other role week is on its Thursday, and the role runs the same way whichever day it falls on.
 
 Six weeks run all seven roles and two (W13, W15) run six, so there are **54 slots** for 12 students and you get **four to six turns** — except 최JM, who is down to three (see below). Everyone still holds Method Lead, Exemplar Analyst and Skeptic at least once. Discussant / Scribe has only six slots for twelve people, so half of you will not hold it — that is arithmetic, not a judgement. A three-choice preference list was collected in Week 1 and the fixed roster is below.
 
-Two things cut into the roster late in the semester. The 12/3 closure removed seven assigned slots, and the Discussant chair has since been dropped in W13 and W15. 최JM is down from five turns to three; 김DH, 심GS and 김SJ each lost a chair they had been assigned. 배JH's only Skeptic turn was in W14, so it moved to W15 in place of 최JM's — a referee report is something all of you write at least once, and that one could not simply be deleted. Everyone still holds Method Lead, Exemplar Analyst and Skeptic. If you want a turn back, say so: the only places left to find one are the W16 defense panels.
+Two things cut into the roster late in the semester. The 12/3 closure removed seven assigned slots, and the Discussant chair has since been dropped in W13 and W15. 최JM is down from five turns to three; 김DH, 심GS and 김SJ each lost a chair they had been assigned. 배JH's only Skeptic turn was in W14, so it moved to W15 in place of 최JM's — a referee report is something all of you write at least once, and that one could not simply be deleted. Everyone still holds Method Lead, Exemplar Analyst and Skeptic. If you want a turn back, say so: the only places left to find one are the two W16 panels.
 
 | Role | # per week | Time | Deliverable |
 |---|---|---|---|
@@ -97,16 +97,16 @@ If your program's IRB office requires a certified training module (e.g., CITI tr
 | Component | Weight | Notes |
 |---|---|---|
 | Attendance, entry tickets, and pre-course ethics module | 10% | Credit/no credit; 2 free passes |
-| Seminar roles | 20% | 5–6 turns per student; rubric in §7.1 |
+| Seminar roles | 20% | 4–6 turns per student; rubric in §7.1 |
 | Horseshoe assignments (W3 reconstruction + own horseshoe, maintained on the wall) | 10% | Graded twice: W3 and W12 |
 | Method Labs (5 graded deliverables) | 15% | Labs 1, 2, 4, 5, 6 below; 2–3 pages each, due one week after. The sixth graded lab was the leakage reproduction in W14; the 12/3 closure removed it, and the exercise is now optional and ungraded rather than squeezed into proposal week |
 | Peer review assignment | 10% | Two referee reports on classmates' pre-proposals |
 | Pre-proposal (2 pages) + presentation | 10% | Due **Sunday 11/1**; presented W10 (Tue 11/3) |
-| Final proposal (8–10 pages) + panel defense | 25% | Due end of W15 (12/10), defended W16 (12/17) |
+| Final proposal (5 pages, references excluded) + panel discussion | 25% | Due **Sunday 12/13, 24:00**; discussed in two panels of six in W16 (12/17). Before the panel you also write a peer review of each of the other five proposals in your panel. Format, template, review form: [Final proposal handout](handouts/final-proposal-guide.qmd) |
 
 Grade-on-a-curve, A–F. Absence over 1/3 of sessions results in F/U except where the instructor deems the cause unavoidable.
 
-**Note on generative AI.** You may use LLMs for language editing, code scaffolding, and literature triage, and must disclose usage in a short appendix to each written deliverable. LLM output may not be submitted as the analytic contribution — an LLM may not be the sole coder in the qualitative lab. Weeks 6 and 13 treat LLM-assisted analysis as a methodological question in its own right, which is the productive way to handle this.
+**Note on generative AI.** You may use LLMs for language editing, code scaffolding, and literature triage, and must disclose usage in a short appendix to each written deliverable. LLM output may not be submitted as the analytic contribution — an LLM may not be the sole coder in the qualitative lab. Week 6 treats LLM-assisted analysis as a methodological question in its own right — Lab 2 has half the class re-code a transcript with LLM assistance and compare reliability — which is the productive way to handle this. The NLP and LLM material that would have extended it was in the cancelled W14 session; the readings on the [Week 14](schedule.qmd) page are what is left of it.
 
 ---
 

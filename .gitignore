@@ -8,3 +8,7 @@
 
 # Instructor-only notes — local, never pushed
 /instructor/
+
+# Staging folder for incoming site edits — applied, not published
+/site-changes/
+/site-changes.zip

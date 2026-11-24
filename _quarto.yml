@@ -5,6 +5,12 @@ project:
     - "*.qmd"
     - "handouts/*.qmd"
     - "!instructor/"
+    - "!site-changes/"
+  resources:
+    - "handouts/*.docx"
+    - "handouts/*.hwp"
+    - "!site-changes/**"
+    - "!site-changes.zip"
 
 website:
   title: "Research Methods in CEM"
@@ -28,6 +34,8 @@ website:
         menu:
           - href: handouts/week05-roles.qmd
             text: "Week 6 — role walkthrough"
+          - href: handouts/final-proposal-guide.qmd
+            text: "Final proposal — format, template, review form"
     right:
       - href: changelog.qmd
         text: What changed

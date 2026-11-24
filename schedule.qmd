@@ -105,7 +105,7 @@ Two of these carry across the semester: Koo & Fischer is Fischer's own work, whi
 ---
 
 ## Week 4 (9/24) — No class: 추석 연휴
-**Focus:** None. The seminar does not meet in the Chuseok block (9/24–26). Every session from here on runs one week later than in the original calendar, and the final defense moves into Week 16, the university's official make-up week. See §1.
+**Focus:** None. The seminar does not meet in the Chuseok block (9/24–26). Every session from here on runs one week later than in the original calendar, and the final session moves into Week 16, the university's official make-up week. See §1.
 
 ---
 
@@ -420,24 +420,24 @@ No new readings.
 ## Week 14 (12/3) — No class session: final proposal work week
 **📅 The building is closed on 12/3 for 수시 면접 (admissions interviews). There is no class session and no roles this week.**
 
-Use the week to finish the final proposal, which is still due at the end of Week 15 (12/10).
+Use the week to finish the final proposal, which is due **Sunday 12/13, 24:00**.
 
 **What to do this week**
 
-- Finish the 8–10 page final proposal. This is the last full week you have for it.
-- Make your final revision to the Horseshoe Wall entry. The W3 version and this one sit side by side at the defense, so make the difference deliberate rather than accidental.
+- Finish the 5-page final proposal (references excluded; [format, template and review form](handouts/final-proposal-guide.qmd)). This is the last full week you have for it.
+- Make your final revision to the Horseshoe Wall entry. The W3 version and this one sit side by side at the Week 16 panel, so make the difference deliberate rather than accidental.
 - Read the two methods papers below. They replace the data-driven session that this closure removed, and they are the only reading for the week.
 
 **Optional individual meetings.** If you want 30 minutes on your proposal, email the instructor to arrange a time — this is by appointment, not a drop-in office hour. Bring a draft, not a plan to write one. Priority goes to anyone whose RQ and design still do not match.
 
-**The data-driven session is cancelled, not rescheduled.** There was one teaching slot left after this closure (12/10), and it stays with Week 15 — closing the horseshoe against Hevner's design-science framework is the week the final defense is built on, and it cannot move after the proposal is already written. So ML, computer vision and NLP are not taught as a session in 2026. That is a real loss, and it is worth being plain about it: if your own proposal is ML-based, nobody will have walked you through leakage, generalization across subjects and sites, or what counts as a held-out test in this field. The two required readings below are the minimum defense against the most common way these papers fail, and the material underneath them is kept here as a reference shelf rather than deleted.
+**The data-driven session is cancelled, not rescheduled.** There was one teaching slot left after this closure (12/10), and it stays with Week 15 — closing the horseshoe against Hevner's design-science framework is the week the Week 16 panel is built on, and it cannot move after the proposal is already written. So ML, computer vision and NLP are not taught as a session in 2026. That is a real loss, and it is worth being plain about it: if your own proposal is ML-based, nobody will have walked you through leakage, generalization across subjects and sites, or what counts as a held-out test in this field. The two required readings below are the minimum defense against the most common way these papers fail, and the material underneath them is kept here as a reference shelf rather than deleted.
 
 **Required reading (replaces the session)**
 
 - Shmueli, G. (2010). "To explain or to predict?" *Statistical Science*, 25(3), 289–310.
 - Kapoor, S., & Narayanan, A. (2023). "Leakage and the reproducibility crisis in machine-learning-based science." *Patterns*, 4(9), 100804.
 
-→ **If you only have time for one:** Shmueli (2010). It is short, and it is the paper that decides whether your proposal's contribution is a prediction claim or an explanation claim — a distinction the defense panel will ask about whether or not your study uses ML.
+→ **If you only have time for one:** Shmueli (2010). It is short, and it is the paper that decides whether your proposal's contribution is a prediction claim or an explanation claim — a distinction your panel will ask about whether or not your study uses ML.
 
 **Optional self-check exercise (not graded, no deadline).** The planted-leakage dataset is posted on ETL. Reproduce the "published" accuracy, find the leak, and re-evaluate under subject-wise cross-validation. If you can do this, you can read the ML literature in your own area critically; if you cannot, that is worth knowing before you propose a study that depends on it. Bring questions to an individual meeting.
 
@@ -456,7 +456,7 @@ Use the week to finish the final proposal, which is still due at the end of Week
 
 ## Week 15 (12/10) — Closing the horseshoe: design science, action research, optimization, and validation
 **Focus:** When the contribution is a method, tool, or framework — how to make that a defensible research claim, and how far it generalizes
-**📌 Final proposal due (8–10 pages) at the end of this week**
+**📌 Final proposal due Sunday 12/13, 24:00 (5 pages, references excluded)** — see the [final proposal handout](handouts/final-proposal-guide.qmd)
 
 **Roles this week** — track 1 (Method Lead 1, Exemplar Analyst 1, Skeptic 1) works one method and the paper that uses it; track 2 does the same for the other.
 
@@ -473,7 +473,7 @@ Use the week to finish the final proposal, which is still due at the end of Week
 
 **No Discussant this week either.** 김SJ was listed to chair and no longer holds that role. The instructor chairs the closing discussion, which is the bookend to Week 3 and the longest discussion of the semester — and there is no 300-word synthesis, because the closing discussion ends in your own proposal rather than in someone else's write-up.
 
-**This is the last teaching session of the semester.** 12/17 is the defense.
+**This is the last teaching session of the semester.** 12/17 is the panel discussion.
 
 **Methods readings**
 
@@ -502,8 +502,10 @@ Use the week to finish the final proposal, which is still due at the end of Week
 
 ---
 
-## Week 16 (12/17) — Final proposal defense (mock review panel)
-Present for 8 minutes and take 7 minutes of questions from a three-person panel of classmates plus the instructor, using the ASCE review criteria. Panel members submit scored review forms; the instructor moderates.
+## Week 16 (12/17) — Final proposal panel discussion
+The class splits into **two panels of six**. Each panel discusses and evaluates its six final proposals, using the proposal rubric (§7.3 of [How the course works](syllabus.qmd)).
+
+**Before the session:** write a peer review of each of the other five proposals in your panel, using the [peer review form](handouts/final-proposal-guide.qmd#downloads) (summary of the research objective · strengths and weaknesses on theoretical contribution · strengths and weaknesses on practical significance · overall evaluation: Excellent / Very good / Good / Fair / Poor). Proposals are due Sunday 12/13, 24:00, so the reviews are written in the days between. Panel assignments, the review deadline, and the timing of the day are posted on ETL.
 
 Close the loop twice: the Week 1 interest cards come back, and the Week 3 horseshoe sits beside the final one. What changed, and why?
 
