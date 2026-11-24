@@ -10,7 +10,7 @@ By the end of the course, you should be able to:
 2. **Construct and defend** a complete horseshoe for your own study — from an observed problem in practice through to a claimed contribution to knowledge and its practical significance.
 3. **Diagnose** a research problem and state a question that is answerable, non-trivial, and matched to an appropriate design (methodological fit).
 4. **Reverse-engineer** any empirical CEM paper: identify its claim, its inferential logic, its threats to validity, and what would falsify it.
-5. **Execute** small-scale instances of six different methods (review, coding, survey, modeling, experiment design, reproduction).
+5. **Execute** small-scale instances of five different methods (review, coding, survey, modeling, experiment design).
 6. **Write and defend** a proposal that would survive a real review panel, and **write a competent referee report** on someone else's.
 7. **Apply** research ethics and IRB requirements to your own proposed study.
 
@@ -20,11 +20,13 @@ By the end of the course, you should be able to:
 
 ### 4.1 Weekly roles (rotating)
 
-Roles run in **W5, W6, W7, W8 and W11–W15** (nine weeks). W1–W3 are framing weeks with their own formats (§5); W4 does not meet (추석 연휴); W9 is Dr. Kunhee Choi's guest lecture; W10 and W16 are presentation and defense days. None of those four carry a role rotation.
+Roles run in **W5, W6, W7, W8, W11, W12, W13 and W15** (eight weeks). W1–W3 are framing weeks with their own formats (§5); W4 does not meet (추석 연휴); W9 is Dr. Kunhee Choi's guest lecture; W10 and W16 are presentation and defense days; **W14 has no class session — the building is closed on 12/3**. None of those carry a role rotation.
 
 One role week does not meet on a Thursday: **W8 was Tuesday 10/27, starting at 18:00**. Every other role week is on its Thursday, and the role runs the same way whichever day it falls on.
 
-Nine weeks × 7 slots = 63 slots for 12 students, so you get **five or six turns**. Everyone holds Method Lead, Exemplar Analyst and Skeptic at least once. Discussant / Scribe has nine slots for twelve people, so three of you will not hold it — that is arithmetic, not a judgement. A three-choice preference list was collected in Week 1 and the fixed roster is below. One backup per week is designated so an absence doesn't collapse the session.
+Eight weeks × 7 slots = 56 slots for 12 students, so you get **four to six turns** — except 최JM, who is down to three (see below). Everyone still holds Method Lead, Exemplar Analyst and Skeptic at least once. Discussant / Scribe has eight slots for twelve people, so four of you will not hold it — that is arithmetic, not a judgement. A three-choice preference list was collected in Week 1 and the fixed roster is below.
+
+The 12/3 closure cost seven role slots that were already assigned, and it is not spread evenly: 최JM drops from five turns to three, and 김DH loses the Discussant chair they were holding. 배JH's only Skeptic turn was in W14, so it moved to W15 in place of 최JM's — a referee report is something all of you write at least once. If you lost a turn and want it back, say so and it will be found in W15 or on a W16 defense panel.
 
 | Role | # per week | Time | Deliverable |
 |---|---|---|---|
@@ -47,8 +49,8 @@ Names are shown as initials. If you cannot find yourself or think a slot is wron
 | 11 | 11/12 | Causal inference | 김DH, 김SJ | 심GS, 김NY | 구MJ, 김CG | 박SJ |
 | 12 | 11/19 | Instrumented human-subject research | 심GS, 김NY | 구MJ, 최JM | 김SJ, 이JW | 김CG |
 | 13 | 11/26 | Simulation | 박SJ, 주JH | 김CG, 김WB | 김SJ, 김NY | 심GS |
-| 14 | 12/3 | Data-driven research | 구MJ, 이JW | 김WB, 최JM | 배JH, 심GS | 김DH |
-| 15 | 12/10 | Closing the horseshoe | 김WB, 심GS | 박SJ, 김CG | 주JH, 최JM | 김SJ |
+| 14 | 12/3 | **No class — building closed** | — | — | — | — |
+| 15 | 12/10 | Closing the horseshoe | 김WB, 심GS | 박SJ, 김CG | 주JH, **배JH** | 김SJ |
 
 One of these weeks was not on a Thursday — W8 ran on Tuesday 10/27 at 18:00. Your deadlines are counted back from the day the class actually meets.
 
@@ -97,7 +99,7 @@ If your program's IRB office requires a certified training module (e.g., CITI tr
 | Attendance, entry tickets, and pre-course ethics module | 10% | Credit/no credit; 2 free passes |
 | Seminar roles | 20% | 5–6 turns per student; rubric in §7.1 |
 | Horseshoe assignments (W3 reconstruction + own horseshoe, maintained on the wall) | 10% | Graded twice: W3 and W12 |
-| Method Labs (6 graded deliverables) | 15% | Labs 1, 2, 4, 5, 6, 9 below; 2–3 pages each, due one week after |
+| Method Labs (5 graded deliverables) | 15% | Labs 1, 2, 4, 5, 6 below; 2–3 pages each, due one week after. The sixth graded lab was the leakage reproduction in W14; the 12/3 closure removed it, and the exercise is now optional and ungraded rather than squeezed into proposal week |
 | Peer review assignment | 10% | Two referee reports on classmates' pre-proposals |
 | Pre-proposal (2 pages) + presentation | 10% | Due **Sunday 11/1**; presented W10 (Tue 11/3) |
 | Final proposal (8–10 pages) + panel defense | 25% | Due end of W15 (12/10), defended W16 (12/17) |

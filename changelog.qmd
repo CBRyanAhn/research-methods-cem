@@ -4,13 +4,33 @@ title: "What changed"
 
 Newest first. Anything that moves a date or a deadline is also announced on ETL.
 
+## 2026-11-24 — No class on 12/3, and the data-driven week is cancelled
+
+The building is closed on **Thursday 12/3** for 수시 면접 (admissions interviews), so **Week 14 has no class session**. Use that week to finish the final proposal, which is still due at the end of Week 15 (12/10). **Individual meetings on your proposal are available by appointment** — email the instructor; bring a draft.
+
+That left one teaching slot before the defense (12/10) and two weeks wanting it. The slot stays with **Week 15, closing the horseshoe**, because the 12/17 defense is judged against exactly that material and it cannot usefully be taught after your proposal is written. So the **data-driven session (ML, computer vision, NLP) is cancelled, not rescheduled.** In its place:
+
+- **Two required readings** for the 12/3 week — Shmueli (2010) and Kapoor & Narayanan (2023). These are the week's only reading.
+- **One optional, ungraded exercise** — the planted-leakage dataset, posted on ETL, with no deadline.
+- **A reference shelf** on the Week 14 page: the CV, NLP, prediction and sensor-fusion exemplars stay listed for anyone whose proposal needs them.
+
+If your own proposal is ML-based, read the Week 14 page — it says plainly what you are not getting and what the readings do and do not cover.
+
+**Role and assessment consequences.**
+
+- Roles now run in **eight weeks, not nine** (W5–W8, W11–W13, W15): 56 slots, so **four to six turns** each instead of five or six. 최JM drops to three turns and 김DH loses the Discussant chair — if you lost a turn and want it back, say so.
+- **배JH moves to Skeptic 2 in W15** (12/10), attacking El-Rayes & Kandil (2005), in the slot 최JM held. W14 was 배JH's only Skeptic turn, and everyone writes at least one referee report.
+- **Graded Method Labs go from six to five** — Labs 1, 2, 4, 5, 6. The weight stays at 15%. The lab that was dropped is the leakage reproduction, which is now the optional exercise above rather than a deliverable due in proposal week.
+- Week 15's in-class DSR lab is renumbered **Lab 9** so the numbering stays sequential.
+
+
 ## 2026-11-24 — Week 13 meets Thursday 11/26, not today
 
 **Week 13 (simulation) is Thursday 11/26.** It was scheduled for Tuesday 11/24 to avoid AKC 2026; that conflict is gone, so the session returns to its Thursday.
 
 If you hold a role this week — 박SJ, 주JH, 김CG, 김WB, 김SJ, 김NY, 심GS — your deadlines move with the session: deliverables are counted back from Thursday, and 심GS's synthesis is due 48 hours after it.
 
-Week 13 was the last session on a Tuesday. Everything from here is on its Thursday: Week 14 on 12/3, Week 15 on 12/10, and the defense on 12/17.
+Week 13 was the last session on a Tuesday. Everything from here is on its Thursday — but see the entry above, posted later the same day: 12/3 has since been cancelled, so what remains is Week 15 on 12/10 and the defense on 12/17.
 
 ## 2026-10-27 — Pre-proposal now due Sunday 11/1
 

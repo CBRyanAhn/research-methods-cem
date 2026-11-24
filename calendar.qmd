@@ -2,7 +2,7 @@
 title: "Master calendar"
 ---
 
-15 sessions over 16 weeks, starting **Thursday 9/3/2026**. Sessions are on Thursdays except the two Tuesdays marked in the table.
+14 sessions over 16 weeks, starting **Thursday 9/3/2026**. Sessions are on Thursdays except the two Tuesdays marked in the table. Two weeks have no class session: 9/24 (추석) and 12/3 (building closed).
 
 | Week | Date | Topic | Notes |
 |---|---|---|---|
@@ -19,17 +19,18 @@ title: "Master calendar"
 | 11 | 11/12 | Causal inference (experiments, quasi-experiments, archival) | — |
 | 12 | 11/19 | Instrumented human-subject research (sensing, eye-tracking, XR) — Horseshoe Wall checkpoint | — |
 | 13 | 11/26 | Simulation as a research method (DES, SD, ABM) | — |
-| 14 | 12/3 | Data-driven research (ML, CV, NLP) | — |
-| 15 | 12/10 | Closing the horseshoe: design science, action research, optimization, validation — **final proposal due** | — |
+| 14 | 12/3 | **No class** — final proposal work week; individual meetings by appointment | **Building closed for 수시 면접.** The data-driven session is cancelled, not rescheduled |
+| 15 | 12/10 | Last teaching session — closing the horseshoe: design science, action research, optimization, validation — **final proposal due** | — |
 | 16 | 12/17 | **Final proposal defense (mock review panel)** | University make-up week |
 
 ## What changed from the original calendar
 
-The first version of this page ran fifteen consecutive Thursdays, 9/3 to 12/10. Three things moved it:
+The first version of this page ran fifteen consecutive Thursdays, 9/3 to 12/10. Four things moved it:
 
 - **Chuseok.** 9/24 falls in the 추석 연휴, so there is no class that week. Rather than lose a session, every session from the old Week 4 onward runs **one week later**, and the final defense moves into Week 16 (12/17), the university's official make-up week. If you saw "Week 4 — Theoretical point of departure" on an earlier version, that session is now **Week 5 on 10/1**.
 - **Conference Thursdays.** In one week the Thursday slot is unavailable, so the session meets on the **Tuesday of the same week** instead: 11/3. Nothing else about that session changes — same format, same roles. The 10/22 conference is covered by the Tuesday 10/27 session described below.
 - **A guest lecture, and one week built from two.** Dr. Kunhee Choi gives a special lecture on 10/29, so the pre-proposal presentations move to Week 10 (11/3) and everything after them shifts with it. To make that fit before the defense on 12/17, the survey-measurement week and the quantitative-modeling week are now a single session — Week 8, Tuesday 10/27 at 18:00. They were always one pipeline: you build an instrument, then you model what it produces. Weeks 11 to 16 keep both their numbers and their dates.
+- **A building closure on 12/3, and one topic lost to it.** The building is closed on 12/3 for 수시 면접, so Week 14 has no class session. Only one teaching slot remained after that (12/10), and it stays with Week 15: closing the horseshoe against Hevner's design-science framework is what the 12/17 defense is built on, and it cannot be taught after the proposal is already written. So the data-driven session (ML, computer vision, NLP) is **cancelled rather than rescheduled** — two required readings and an optional exercise replace it. See [Week 14](schedule.qmd) for what that means if your own proposal is ML-based.
 
 For sessions that are not on a Thursday, anything due "before class" is counted back from the day the class actually meets. Time and room for those sessions are announced on ETL.
 

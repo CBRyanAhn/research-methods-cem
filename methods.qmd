@@ -14,7 +14,7 @@ This is the menu the course draws from. Frequency labels reflect what dominates 
 | A4 | Case study research (single / multiple, embedded) | Project-level phenomena in context | W7 |
 | A5 | Ethnography / participant observation / shadowing | Site culture, craft work, informal coordination | W7 |
 | A6 | Delphi and structured expert elicitation | Risk quantification where data are absent | W8 |
-| A7 | Content analysis of documents (contracts, claims, accident records) | Disputes, regulation, safety causation | W5, W14 |
+| A7 | Content analysis of documents (contracts, claims, accident records) | Disputes, regulation, safety causation | W5 (the W14 text-mining half is reading only — see below) |
 | A8 | Archival / secondary data analysis and econometrics | Cost overrun, productivity, bid behavior, delivery-method performance | W11 |
 | A9 | Social network analysis | Project team communication, supply-chain structure | Elective |
 | A10 | Mixed methods (sequential, convergent) | Most PhD-scale CEM projects, whether admitted or not | W7, W15 |
@@ -38,9 +38,9 @@ This is the menu the course draws from. Frequency labels reflect what dominates 
 | C2 | System dynamics | Rework, change, project feedback structures | W13 |
 | C3 | Agent-based modeling | Crew behavior, emergent productivity, evacuation | W13 |
 | C4 | Optimization / metaheuristics / multi-objective | Time–cost–quality trade-off, site layout, scheduling | W15 |
-| C5 | Machine learning (supervised, deep, sequence models) | Prediction of cost, safety incidents, activity recognition | W14 |
-| C6 | NLP / text mining / LLM-assisted analysis | Regulatory compliance, contract and claim analysis | W14 |
-| C7 | Reinforcement learning and sequential decision modeling | Decisions under uncertainty over time | W14 (short) |
+| C5 | Machine learning (supervised, deep, sequence models) | Prediction of cost, safety incidents, activity recognition | **Not taught as a session** — W14 reading packet |
+| C6 | NLP / text mining / LLM-assisted analysis | Regulatory compliance, contract and claim analysis | **Not taught as a session** — W14 reading packet |
+| C7 | Reinforcement learning and sequential decision modeling | Decisions under uncertainty over time | **Not taught** — one review paper on the W14 reference shelf |
 
 ### D. Design-oriented and engaged
 
@@ -60,6 +60,6 @@ This is the menu the course draws from. Frequency labels reflect what dominates 
 | E3 | Meta-analysis | Rare in CEM; large opportunity | W5 |
 | E4 | Conceptual / theory-building papers | Framework papers | W3, W5 |
 
-**Cross-cutting concerns**, taught alongside rather than as separate weeks: construct validity and measurement (W8), reliability and intercoder agreement (W6), common method bias (W8), causal identification (W11), verification & validation (W13), generalization and external validity (W15), reproducibility and preregistration (W11, W14), research ethics and IRB (pre-course module + W5 briefing + W6 opening, see §4.6).
+**Cross-cutting concerns**, taught alongside rather than as separate weeks: construct validity and measurement (W8), reliability and intercoder agreement (W6), common method bias (W8), causal identification (W11), verification & validation (W13), generalization and external validity (W15), reproducibility and preregistration (W11; the W14 leakage material is reading and an optional exercise only), research ethics and IRB (pre-course module + W5 briefing + W6 opening, see §4.6).
 
 ---

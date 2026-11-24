@@ -416,42 +416,40 @@ No new readings.
 
 ---
 
-## Week 14 (12/3) — Data-driven research: ML, computer vision, NLP
-**Focus:** Prediction vs. explanation; leakage; generalization across subjects and sites; reproducibility
+## Week 14 (12/3) — No class session: final proposal work week
+**📅 The building is closed on 12/3 for 수시 면접 (admissions interviews). There is no class session and no roles this week.**
 
-**Roles this week** — track 1 (Method Lead 1, Exemplar Analyst 1, Skeptic 1) works one method and the paper that uses it; track 2 does the same for the other.
+Use the week to finish the final proposal, which is still due at the end of Week 15 (12/10).
 
-| Role | Who | What you prepare |
-|---|---|---|
-| Method Lead 1 | 구MJ | Prediction vs. explanation, and how ML models are evaluated — Shmueli (2010), James et al. (2021) Ch. 5 |
-| Method Lead 2 | 이JW | Leakage, generalization across subjects and sites, reproducibility — Kapoor & Narayanan (2023), Pineau et al. (2021) |
-| Exemplar Analyst 1 | 김WB | Tixier et al. (2016) |
-| Exemplar Analyst 2 | 최JM | Kim, Chi & Ahn (2021) |
-| Skeptic 1 | 배JH | Attack Tixier et al. (2016) |
-| Skeptic 2 | 심GS | Attack Kim, Chi & Ahn (2021). Would subject-wise or site-wise held-out testing have changed the result, and was it done? |
-| Discussant / Scribe | 김DH | Chair the discussion; post the 300-word synthesis within 48 h |
+**What to do this week**
 
-**Methods readings**
+- Finish the 8–10 page final proposal. This is the last full week you have for it.
+- Make your final revision to the Horseshoe Wall entry. The W3 version and this one sit side by side at the defense, so make the difference deliberate rather than accidental.
+- Read the two methods papers below. They replace the data-driven session that this closure removed, and they are the only reading for the week.
+
+**Optional individual meetings.** If you want 30 minutes on your proposal, email the instructor to arrange a time — this is by appointment, not a drop-in office hour. Bring a draft, not a plan to write one. Priority goes to anyone whose RQ and design still do not match.
+
+**The data-driven session is cancelled, not rescheduled.** There was one teaching slot left after this closure (12/10), and it stays with Week 15 — closing the horseshoe against Hevner's design-science framework is the week the final defense is built on, and it cannot move after the proposal is already written. So ML, computer vision and NLP are not taught as a session in 2026. That is a real loss, and it is worth being plain about it: if your own proposal is ML-based, nobody will have walked you through leakage, generalization across subjects and sites, or what counts as a held-out test in this field. The two required readings below are the minimum defense against the most common way these papers fail, and the material underneath them is kept here as a reference shelf rather than deleted.
+
+**Required reading (replaces the session)**
 
 - Shmueli, G. (2010). "To explain or to predict?" *Statistical Science*, 25(3), 289–310.
 - Kapoor, S., & Narayanan, A. (2023). "Leakage and the reproducibility crisis in machine-learning-based science." *Patterns*, 4(9), 100804.
+
+→ **If you only have time for one:** Shmueli (2010). It is short, and it is the paper that decides whether your proposal's contribution is a prediction claim or an explanation claim — a distinction the defense panel will ask about whether or not your study uses ML.
+
+**Optional self-check exercise (not graded, no deadline).** The planted-leakage dataset is posted on ETL. Reproduce the "published" accuracy, find the leak, and re-evaluate under subject-wise cross-validation. If you can do this, you can read the ML literature in your own area critically; if you cannot, that is worth knowing before you propose a study that depends on it. Bring questions to an individual meeting.
+
+**Reference shelf for ML-based proposals** (no longer assigned — use it if your proposal needs it)
+
 - James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). *An Introduction to Statistical Learning* (2nd ed.). Springer. Ch. 5 (resampling).
 - Pineau, J., et al. (2021). "Improving reproducibility in machine learning research." *JMLR*, 22(164).
-
-→ **If you only have time for one:** Shmueli (2010) — assign it to everyone, not only the computational students. It's the reading that reframes every ML paper you'll read afterward.
-
-**CEM exemplars**
-
 - Fang, Q., Li, H., Luo, X., Ding, L., Luo, H., Rose, T. M., & An, W. (2018). "Detecting non-hardhat-use by a deep learning method from far-field surveillance videos." *Automation in Construction*, 85, 1–9. [CV exemplar]
 - Zhang, J., & El-Gohary, N. M. (2016). "Semantic NLP-based information extraction from construction regulatory documents for automated compliance checking." *JCEM*, 142(3), 04015014. [NLP exemplar]
 - Tixier, A. J.-P., Hallowell, M. R., Rajagopalan, B., & Bowman, D. (2016). "Application of machine learning to construction injury prediction." *Automation in Construction*, 69, 102–114. [Prediction exemplar]
 - Kim, J., Chi, S., & Ahn, C. R. (2021). "Hybrid kinematic–visual sensing approach for activity recognition of construction equipment." *Journal of Building Engineering*, 44, 102709. [Sensor-fusion exemplar — read it against Kapoor & Narayanan: what would subject-wise or site-wise held-out testing have shown here, and was it done?]
-
-*CEM methods reading (discussion, not an exemplar):* "Importance of testing with independent subjects and contexts for machine-learning models to monitor construction workers' psychophysiological responses." *JCEM* (Second Special Collection, 2022). [Pairs directly with Kapoor & Narayanan — read for the diagnosis, not as a model paper.]
-
-*Short RL segment:* the reinforcement-learning review in the Second Special Collection, for anyone whose proposal involves sequential decisions.
-
-**Lab 9 (graded):** Given a small provided dataset with a deliberately planted leakage problem, reproduce the "published" accuracy, find the leak, and re-evaluate under subject-wise cross-validation. Deliverable: a one-page correction note in the style of a journal comment.
+- "Importance of testing with independent subjects and contexts for machine-learning models to monitor construction workers' psychophysiological responses." *JCEM* (Second Special Collection, 2022). [CEM methods reading, not an exemplar — pairs directly with Kapoor & Narayanan.]
+- The reinforcement-learning review in the Second Special Collection, for anyone whose proposal involves sequential decisions.
 
 ---
 
@@ -468,8 +466,12 @@ No new readings.
 | Exemplar Analyst 1 | 박SJ | Eriksson (2010) |
 | Exemplar Analyst 2 | 김CG | El-Rayes & Kandil (2005) |
 | Skeptic 1 | 주JH | Attack Eriksson (2010) |
-| Skeptic 2 | 최JM | Attack El-Rayes & Kandil (2005) |
+| Skeptic 2 | 배JH | Attack El-Rayes & Kandil (2005) |
 | Discussant / Scribe | 김SJ | Chair the discussion; post the 300-word synthesis within 48 h |
+
+**One change to this week's roster.** 배JH holds Skeptic 2 here, in the slot 최JM was listed for. The 12/3 closure removed 배JH's only Skeptic turn, and a referee report is something every one of you writes at least once. 최JM has already held Method Lead (W5), Skeptic (W6) and Exemplar Analyst (W12), so the loss falls on turn count rather than on coverage.
+
+**This is the last teaching session of the semester.** 12/17 is the defense.
 
 **Methods readings**
 
@@ -492,7 +494,7 @@ No new readings.
 
 **Closing discussion (the bookend to Week 3).** Put Fischer's horseshoe and Hevner's DSR framework side by side. A large share of CEM papers propose a framework or system and "validate" it on one case. Is that the horseshoe done implicitly and badly, or a legitimate mode with different standards? Then: *has your own horseshoe survived the semester intact, and if not, which box broke first?*
 
-**Lab 10 (in-class):** Take any framework-type paper the class picks and rewrite its contribution statement and evaluation section as a rigorous DSR study. What additional evidence would be required?
+**Lab 9 (in-class):** Take any framework-type paper the class picks and rewrite its contribution statement and evaluation section as a rigorous DSR study. What additional evidence would be required?
 
 **Role-play:** one student pitches their study to a contractor; another plays the contractor deciding whether to grant site access.
 

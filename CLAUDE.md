@@ -30,7 +30,7 @@ Week numbers appear in many places. If a week is added, removed, or moved, updat
 2. `schedule.qmd` — week headings and any cross-references between weeks
 3. `methods.qmd` — the "Week" column in all five inventory tables (A–E), plus the cross-cutting concerns paragraph
 4. `syllabus.qmd` — which weeks run roles (§ Weekly roles), the roles-per-student arithmetic, Lab numbers in the assessment table, and week references in the rubrics
-5. Lab numbering in `schedule.qmd` — labs are numbered sequentially across the semester, and six of them are graded
+5. Lab numbering in `schedule.qmd` — labs are numbered sequentially across the semester, and five of them are graded (Labs 1, 2, 4, 5, 6)
 6. `handouts/` — any handout that names a week or date
 7. Fischer's four test methods table in Week 3 — it maps each test method to the weeks that teach it
 
