@@ -378,8 +378,7 @@ No new readings.
 
 ---
 
-## Week 13 (Tue 11/24) — Simulation as a research method
-**📅 Meets Tuesday 11/24, not Thursday** — Thursday 11/26 is AKC 2026. Same 150-minute format; time and room are announced on ETL. Anything due before class is counted back from the Tuesday.
+## Week 13 (11/26) — Simulation as a research method
 **Focus:** DES, system dynamics, ABM; the verification and validation problem
 
 **Roles this week** — track 1 (Method Lead 1, Exemplar Analyst 1, Skeptic 1) works one method and the paper that uses it; track 2 does the same for the other.
