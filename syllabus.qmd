@@ -24,17 +24,17 @@ Roles run in **W5, W6, W7, W8, W11, W12, W13 and W15** (eight weeks). W1–W3 ar
 
 One role week does not meet on a Thursday: **W8 was Tuesday 10/27, starting at 18:00**. Every other role week is on its Thursday, and the role runs the same way whichever day it falls on.
 
-Eight weeks × 7 slots = 56 slots for 12 students, so you get **four to six turns** — except 최JM, who is down to three (see below). Everyone still holds Method Lead, Exemplar Analyst and Skeptic at least once. Discussant / Scribe has eight slots for twelve people, so four of you will not hold it — that is arithmetic, not a judgement. A three-choice preference list was collected in Week 1 and the fixed roster is below.
+Six weeks run all seven roles and two (W13, W15) run six, so there are **54 slots** for 12 students and you get **four to six turns** — except 최JM, who is down to three (see below). Everyone still holds Method Lead, Exemplar Analyst and Skeptic at least once. Discussant / Scribe has only six slots for twelve people, so half of you will not hold it — that is arithmetic, not a judgement. A three-choice preference list was collected in Week 1 and the fixed roster is below.
 
-The 12/3 closure cost seven role slots that were already assigned, and it is not spread evenly: 최JM drops from five turns to three, and 김DH loses the Discussant chair they were holding. 배JH's only Skeptic turn was in W14, so it moved to W15 in place of 최JM's — a referee report is something all of you write at least once. If you lost a turn and want it back, say so and it will be found in W15 or on a W16 defense panel.
+Two things cut into the roster late in the semester. The 12/3 closure removed seven assigned slots, and the Discussant chair has since been dropped in W13 and W15. 최JM is down from five turns to three; 김DH, 심GS and 김SJ each lost a chair they had been assigned. 배JH's only Skeptic turn was in W14, so it moved to W15 in place of 최JM's — a referee report is something all of you write at least once, and that one could not simply be deleted. Everyone still holds Method Lead, Exemplar Analyst and Skeptic. If you want a turn back, say so: the only places left to find one are the W16 defense panels.
 
 | Role | # per week | Time | Deliverable |
 |---|---|---|---|
 | **Method Lead** | 2 | 20 min | Explain the *logic* of the method — assumptions, decision points, what it can and cannot license. Submit a 1-page **Method Card**, whose final line must answer: *which box of the horseshoe does this method serve?* |
 | **Exemplar Analyst** | 2 | 15 min | Reverse-engineer a CEM exemplar onto one slide: RQ → design → data → analysis → claim → limits. |
 | **Skeptic** | 2 | 10 min | Attack the exemplar's validity. Submit a 1-page referee report on the ASCE reviewer form. Repeating the authors' own stated limitations scores low. |
-| **Discussant / Scribe** | 1 | — | Chair the open discussion, then post a 300-word synthesis within 48 h. |
-| **Everyone else** | 5 | — | **Entry ticket**: one substantive question posted 24 h before class. Two are chosen to open discussion. |
+| **Discussant / Scribe** | 1, and **0 in W13 and W15** | — | Chair the open discussion, then post a 300-word synthesis within 48 h. In W13 and W15 the instructor chairs and there is no synthesis. |
+| **Everyone else** | 5, or 6 in W13 and W15 | — | **Entry ticket**: one substantive question posted 24 h before class. Two are chosen to open discussion. |
 
 #### Role roster
 
@@ -48,9 +48,9 @@ Names are shown as initials. If you cannot find yourself or think a slot is wron
 | 8 | Tue 10/27 | Surveys and quantitative modeling | 김CG, 배JH | 이JW, 주JH | 박SJ, 김DH | 김NY |
 | 11 | 11/12 | Causal inference | 김DH, 김SJ | 심GS, 김NY | 구MJ, 김CG | 박SJ |
 | 12 | 11/19 | Instrumented human-subject research | 심GS, 김NY | 구MJ, 최JM | 김SJ, 이JW | 김CG |
-| 13 | 11/26 | Simulation | 박SJ, 주JH | 김CG, 김WB | 김SJ, 김NY | 심GS |
+| 13 | 11/26 | Simulation | 박SJ, 주JH | 김CG, 김WB | 김SJ, 김NY | — (instructor chairs) |
 | 14 | 12/3 | **No class — building closed** | — | — | — | — |
-| 15 | 12/10 | Closing the horseshoe | 김WB, 심GS | 박SJ, 김CG | 주JH, **배JH** | 김SJ |
+| 15 | 12/10 | Closing the horseshoe | 김WB, 심GS | 박SJ, 김CG | 주JH, **배JH** | — (instructor chairs) |
 
 One of these weeks was not on a Thursday — W8 ran on Tuesday 10/27 at 18:00. Your deadlines are counted back from the day the class actually meets.
 
@@ -64,7 +64,7 @@ What each role holder prepares — which method each Method Lead covers, which p
 | 0:15–0:35 | Method Leads |
 | 0:35–0:50 | Exemplar Analysts |
 | 0:50–1:00 | Skeptics |
-| 1:00–1:25 | Open discussion from entry tickets (Discussant chairs) |
+| 1:00–1:25 | Open discussion from entry tickets (the Discussant chairs; in W13 and W15 the instructor does) |
 | 1:25–1:35 | Break |
 | 1:35–2:15 | **Method Lab** — hands-on, in pairs, laptops required |
 | 2:15–2:30 | Instructor synthesis + explicit link back to your horseshoe |
