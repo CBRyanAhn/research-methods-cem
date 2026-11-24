@@ -503,9 +503,9 @@ Use the week to finish the final proposal, which is due **Sunday 12/13, 24:00**.
 ---
 
 ## Week 16 (12/17) — Final proposal panel discussion
-The class splits into **two panels of six**. Each panel discusses and evaluates its six final proposals, using the proposal rubric (§7.3 of [How the course works](syllabus.qmd)).
+The class splits into two groups of six, and each panel discusses and evaluates the six final proposals from **the other group**, using the proposal rubric (§7.3 of [How the course works](syllabus.qmd)). **Your own proposal is not among the ones you review** — the other panel has it.
 
-**Before the session:** write a peer review of each of the other five proposals in your panel, using the [peer review form](handouts/final-proposal-guide.qmd#downloads) (summary of the research objective · strengths and weaknesses on theoretical contribution · strengths and weaknesses on practical significance · overall evaluation: Excellent / Very good / Good / Fair / Poor). Proposals are due Sunday 12/13, 24:00, so the reviews are written in the days between. Panel assignments, the review deadline, and the timing of the day are posted on ETL.
+**Before the session:** write a review of each of the **six** proposals your panel has, **250 words maximum per review**, using the [peer review form](handouts/final-proposal-guide.qmd#downloads) (summary of the research objective · strengths and weaknesses on theoretical contribution · strengths and weaknesses on practical significance · overall evaluation: Excellent / Very good / Good / Fair / Poor). Proposals are due Sunday 12/13, 24:00, so the six reviews are written Monday to Wednesday — the word cap is there to make that possible. Panel assignments, the review deadline, and the timing of the day are posted on ETL.
 
 Close the loop twice: the Week 1 interest cards come back, and the Week 3 horseshoe sits beside the final one. What changed, and why?
 

@@ -8,11 +8,13 @@ Newest first. Anything that moves a date or a deadline is also announced on ETL.
 
 **The final proposal is now due Sunday 12/13 at 24:00**, not at the end of Week 15 (12/10). **It is five pages, references excluded**, not 8–10. It is still graded on the proposal rubric (§7.3), which has not changed.
 
-**Week 16 (12/17) is now a panel discussion.** The twelve of you are split into two panels of six, and each panel discusses and evaluates its six proposals. Before the session you write a **peer review of each of the other five proposals in your panel**, using a short form: summary of the research objective, strengths and weaknesses on theoretical contribution and on practical significance, and an overall rating (Excellent, Very good, Good, Fair, Poor).
+**Week 16 (12/17) is now a panel discussion.** The twelve of you are split into two groups of six, and each panel discusses and evaluates the six proposals from **the other group** — your own proposal is not among the ones you review. Before the session you write a review of **each of those six, 250 words maximum each**, using a short form: summary of the research objective, strengths and weaknesses on theoretical contribution and on practical significance, and an overall rating (Excellent, Very good, Good, Fair, Poor). So you write six reviews and receive six.
 
 New on the [final proposal handout](handouts/final-proposal-guide.qmd): the page budget mapped to the rubric, a proposal template (HWP), and the peer review form in English and Korean.
 
 Still to be posted: the panel assignments, the peer-review deadline, and the timing of the day.
+
+*Corrected a few hours after this entry first went up: it is **six** reviews, not five — your own proposal sits with the other panel, so none of the six is yours — and a **250-word cap per review** has been added. If you read the earlier version, that is what changed.*
 
 ## 2026-11-24 — No Discussant in Week 13 or Week 15
 

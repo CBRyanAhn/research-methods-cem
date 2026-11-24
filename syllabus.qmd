@@ -102,7 +102,7 @@ If your program's IRB office requires a certified training module (e.g., CITI tr
 | Method Labs (5 graded deliverables) | 15% | Labs 1, 2, 4, 5, 6 below; 2–3 pages each, due one week after. The sixth graded lab was the leakage reproduction in W14; the 12/3 closure removed it, and the exercise is now optional and ungraded rather than squeezed into proposal week |
 | Peer review assignment | 10% | Two referee reports on classmates' pre-proposals |
 | Pre-proposal (2 pages) + presentation | 10% | Due **Sunday 11/1**; presented W10 (Tue 11/3) |
-| Final proposal (5 pages, references excluded) + panel discussion | 25% | Due **Sunday 12/13, 24:00**; discussed in two panels of six in W16 (12/17). Before the panel you also write a peer review of each of the other five proposals in your panel. Format, template, review form: [Final proposal handout](handouts/final-proposal-guide.qmd) |
+| Final proposal (5 pages, references excluded) + panel discussion | 25% | Due **Sunday 12/13, 24:00**; discussed in two panels of six in W16 (12/17). Before the panel you also write a 250-word review of each of the six proposals from the other group — your own is reviewed by the other panel, not by yours. Format, template, review form: [Final proposal handout](handouts/final-proposal-guide.qmd) |
 
 Grade-on-a-curve, A–F. Absence over 1/3 of sessions results in F/U except where the instructor deems the cause unavoidable.
 

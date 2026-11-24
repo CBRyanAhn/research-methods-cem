@@ -212,12 +212,13 @@ The template has no section for threats to validity, which carries 15 points. Pu
 
 ## 8. Panels, peer review, and the discussion {#panels}
 
-The twelve of you are split into **two panels of six**. Each panel discusses and evaluates its six proposals at the Week 16 session on **Thursday 12/17**.
+The twelve of you are split into two groups of six, and each panel reviews and discusses the six proposals from **the other group**. **Your own proposal is never in the set you review** — the other panel has it. So you write six reviews, and six people write a review of yours.
 
 1. **The instructor assigns the panels** and posts them on ETL.
-2. **Before the session, write a peer review of each of the other five proposals in your panel** using the form above. It has four parts: (1) a summary of the research objective, (2) strengths and weaknesses for theoretical contribution, (3) strengths and weaknesses for practical significance, and (4) an overall evaluation on a five-point scale — Excellent, Very good, Good, Fair, Poor. Write the strengths and weaknesses as paragraphs, not bullet fragments. Point to a section, and say what would fix the problem.
-3. **Bring your reviews to the panel.** The discussion works from them, so a review you did not write is a discussion you cannot join.
-4. The review criteria are the ones in [§7.3](../syllabus.qmd#proposal-rubric-100-pts) and the referee-report standards in §7.4 of [How the course works](../syllabus.qmd).
+2. **Before the session, write a review of each of the six proposals your panel has.** Use the form above. It has four parts: (1) a summary of the research objective, (2) strengths and weaknesses for theoretical contribution, (3) strengths and weaknesses for practical significance, and (4) an overall evaluation on a five-point scale — Excellent, Very good, Good, Fair, Poor.
+3. **250 words per review, maximum.** Six reviews written between Monday and Wednesday is real work, and the cap exists so that the work goes into judgement rather than into length. Write the strengths and weaknesses as short paragraphs rather than bullet fragments, and spend the words on the one or two things that would most change the proposal: point to a section, and say what would fix it. A review that spends 250 words summarizing the proposal back to its author has said nothing.
+4. **Bring your reviews to the panel.** The discussion works from them, so a review you did not write is a discussion you cannot join.
+5. The review criteria are the ones in [§7.3](../syllabus.qmd#proposal-rubric-100-pts) and the referee-report standards in §7.4 of [How the course works](../syllabus.qmd).
 
 Time per proposal and how the two panels run on the day will be posted on the [Week 16](../schedule.qmd) page.
 
